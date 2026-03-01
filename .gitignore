@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data & Cache
+*.db
+data/voxatlas.db
+backend/app/data/per_language_results.csv
+model-cache/
+
+# Build artifacts
+frontend/dist/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+htmlcov/
+.coverage

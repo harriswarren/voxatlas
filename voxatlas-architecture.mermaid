@@ -1,0 +1,52 @@
+graph TB
+    subgraph Frontend["🖥️ Frontend — React + Vite + Tailwind"]
+        UI["VoxAtlas Dashboard<br/>React Router + Sidebar Layout"]
+        MAP["🗺️ MapLibre GL JS<br/>Language World Map"]
+        CHARTS["📊 Recharts + D3<br/>CER Histograms, Scatter, Radar"]
+        AUDIO["🎵 WaveSurfer.js<br/>Waveform Audio Player"]
+        EXPORT["📄 html2canvas + jsPDF<br/>Report & Chart Export"]
+    end
+
+    subgraph Backend["⚙️ Backend — FastAPI + Python 3.11"]
+        API["FastAPI REST API<br/>/api/v1/* with Swagger docs"]
+        ASR["Omnilingual ASR Pipeline<br/>fairseq2 — CTC & LLM models"]
+        DATA["Data Service<br/>CSV Parser + HF Streaming"]
+        CACHE["SQLite Cache<br/>Transcription Results"]
+        LLAMA_SVC["Llama Service<br/>OpenAI SDK Compatible"]
+    end
+
+    subgraph External["☁️ External Services"]
+        HF["🤗 HuggingFace<br/>Omnilingual ASR Corpus<br/>3,350 hrs / 348 languages"]
+        LLAMA["🦙 Llama API<br/>Maverick Model<br/>Natural Language Insights"]
+        GPU["🖥️ Cloud GPU<br/>RunPod / Lambda Labs<br/>A10G or A100"]
+    end
+
+    subgraph DataSources["📦 Data Sources"]
+        CSV["per_language_results.csv<br/>1,600+ languages with CER"]
+        META_JSON["language_metadata.json<br/>Regions, Families, Coords"]
+        UNESCO["endangerment_status.json<br/>UNESCO Atlas Data"]
+    end
+
+    UI --> API
+    MAP --> API
+    CHARTS --> DATA
+    AUDIO --> API
+
+    API --> ASR
+    API --> DATA
+    API --> LLAMA_SVC
+    API --> CACHE
+
+    ASR --> GPU
+    DATA --> HF
+    DATA --> CSV
+    DATA --> META_JSON
+    DATA --> UNESCO
+    LLAMA_SVC --> LLAMA
+
+    EXPORT --> CHARTS
+
+    style Frontend fill:#EAF2FB,stroke:#0668E1,stroke-width:2px
+    style Backend fill:#FFF7ED,stroke:#F59E0B,stroke-width:2px
+    style External fill:#F0FDF4,stroke:#22C55E,stroke-width:2px
+    style DataSources fill:#FDF2F8,stroke:#EC4899,stroke-width:2px
