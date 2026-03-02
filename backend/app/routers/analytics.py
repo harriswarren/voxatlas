@@ -54,3 +54,8 @@ async def get_training_hours_distribution(request: Request):
 @router.get("/analytics/family-distribution")
 async def get_family_distribution(request: Request, top_n: int = Query(15, ge=1, le=50)):
     return request.app.state.data_service.get_family_distribution(top_n)
+
+
+@router.get("/analytics/benchmarks")
+async def get_benchmarks(request: Request):
+    return request.app.state.data_service.get_benchmarks()

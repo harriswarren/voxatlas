@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { BarChart3, Globe, Mic, Swords, FileText, Bot } from "lucide-react";
+import { BarChart3, Globe, Mic, Swords, FileText, Bot, FlaskConical } from "lucide-react";
 
 const NAV_ITEMS = [
   { to: "/", icon: BarChart3, label: "Analytics" },
@@ -8,6 +8,7 @@ const NAV_ITEMS = [
   { to: "/compare", icon: Swords, label: "Compare" },
   { to: "/reports", icon: FileText, label: "Reports" },
   { to: "/ask", icon: Bot, label: "Ask VoxAtlas" },
+  { to: "/benchmarks", icon: FlaskConical, label: "Benchmarks" },
 ];
 
 export default function Sidebar() {

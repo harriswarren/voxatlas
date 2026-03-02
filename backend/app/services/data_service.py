@@ -316,6 +316,14 @@ class DataService:
             result["Other"] = other
         return result
 
+    def get_benchmarks(self) -> dict:
+        """Load and return benchmark coverage data."""
+        bench_path = self.data_dir / "benchmarks.json"
+        if bench_path.exists():
+            with open(bench_path) as f:
+                return json.load(f)
+        return {"benchmarks": {}, "language_coverage": {}}
+
     def get_unique_scripts(self) -> list[str]:
         scripts = set()
         for lang in self.languages.values():
