@@ -45,23 +45,23 @@ export default function Explorer() {
 
         {/* Filters */}
         <div className="bg-white rounded-xl border border-gray-100 p-4 shadow-sm">
-          <div className="flex flex-wrap items-center gap-3">
-            <div className="flex items-center gap-2 flex-1 min-w-[200px]">
-              <Search size={16} className="text-gray-400" />
+          <div className="flex items-center gap-3">
+            <div className="flex items-center gap-2 flex-1 min-w-0">
+              <Search size={16} className="text-gray-400 shrink-0" />
               <input
                 type="text"
                 value={searchInput}
                 onChange={(e) => setSearchInput(e.target.value)}
                 onKeyDown={(e) => e.key === "Enter" && handleSearch()}
                 placeholder="Search languages..."
-                className="flex-1 px-3 py-2 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
             <select
               value={filters.region || ""}
               onChange={(e) => setFilters({ ...filters, region: e.target.value || undefined, page: 1 })}
-              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white"
+              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shrink-0"
             >
               <option value="">All Continents</option>
               {continents.map((c) => (
@@ -72,7 +72,7 @@ export default function Explorer() {
             <select
               value={filters.script || ""}
               onChange={(e) => setFilters({ ...filters, script: e.target.value || undefined, page: 1 })}
-              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white"
+              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shrink-0"
             >
               <option value="">All Scripts</option>
               {scripts.map((s) => (
@@ -83,7 +83,7 @@ export default function Explorer() {
             <select
               value={filters.endangered || ""}
               onChange={(e) => setFilters({ ...filters, endangered: e.target.value || undefined, page: 1 })}
-              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white"
+              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shrink-0"
             >
               <option value="">All Status</option>
               {ENDANGERMENT_LEVELS.map((l) => (
@@ -94,13 +94,13 @@ export default function Explorer() {
             <select
               value={filters.cer_max !== undefined ? String(filters.cer_max) : ""}
               onChange={(e) => setFilters({ ...filters, cer_max: e.target.value ? Number(e.target.value) : undefined, page: 1 })}
-              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white"
+              className="px-3 py-2 border border-gray-200 rounded-lg text-sm bg-white shrink-0"
             >
               <option value="">Any CER</option>
-              <option value="5">CER &le; 5%</option>
-              <option value="10">CER &le; 10%</option>
-              <option value="20">CER &le; 20%</option>
-              <option value="50">CER &le; 50%</option>
+              <option value="5">CER ≤ 5%</option>
+              <option value="10">CER ≤ 10%</option>
+              <option value="20">CER ≤ 20%</option>
+              <option value="50">CER ≤ 50%</option>
             </select>
           </div>
         </div>
