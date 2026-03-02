@@ -3,6 +3,15 @@ from pathlib import Path
 
 
 class Settings(BaseSettings):
+    # LLM Provider: "openai", "anthropic", or "llama"
+    LLM_PROVIDER: str = "openai"
+
+    OPENAI_API_KEY: str = ""
+    OPENAI_MODEL: str = "gpt-4o"
+
+    ANTHROPIC_API_KEY: str = ""
+    ANTHROPIC_MODEL: str = "claude-sonnet-4-20250514"
+
     LLAMA_API_KEY: str = ""
     LLAMA_MODEL: str = "Llama-4-Maverick-17B-128E-Instruct"
 

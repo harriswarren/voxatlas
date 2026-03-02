@@ -16,3 +16,15 @@ export async function getSummary(): Promise<InsightResponse> {
   const { data } = await client.get<InsightResponse>("/insights/summary");
   return data;
 }
+
+export interface ProviderInfo {
+  available: boolean;
+  provider: string;
+  provider_name: string;
+  model: string;
+}
+
+export async function getProviderInfo(): Promise<ProviderInfo> {
+  const { data } = await client.get<ProviderInfo>("/insights/provider");
+  return data;
+}
