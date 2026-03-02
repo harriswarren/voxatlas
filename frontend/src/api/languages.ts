@@ -7,6 +7,7 @@ export interface Language {
   region: string;
   continent: string;
   family: string;
+  countries: string[];
   latitude: number;
   longitude: number;
   training_hours: number;
@@ -67,6 +68,8 @@ export interface MapPoint {
   cer: number;
   endangerment: string;
   continent: string;
+  countries: string[];
+  family: string;
   training_hours: number;
 }
 

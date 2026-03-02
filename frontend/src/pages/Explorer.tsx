@@ -4,7 +4,7 @@ import Header from "../components/layout/Header";
 import LanguageMap from "../components/maps/LanguageMap";
 import { useLanguages, useFilterOptions } from "../hooks/useLanguages";
 import { formatCER, formatHours } from "../utils/formatters";
-import { cerToColor, ENDANGERMENT_LEVELS } from "../utils/constants";
+import { cerToColor, ENDANGERMENT_LEVELS, endangermentStyle } from "../utils/constants";
 import type { Language, MapPoint } from "../api/languages";
 import { CERBadge } from "../components/ui/CERTooltip";
 
@@ -31,7 +31,8 @@ export default function Explorer() {
               script: "",
               region: "",
               continent: pt.continent,
-              family: "",
+              family: pt.family || "",
+              countries: pt.countries || [],
               latitude: pt.latitude,
               longitude: pt.longitude,
               training_hours: pt.training_hours,
@@ -113,7 +114,10 @@ export default function Explorer() {
                   {selectedLang.language_name || selectedLang.lang_code}
                 </h3>
                 <p className="text-sm text-gray-500">
-                  {selectedLang.lang_code} &middot; {selectedLang.script} &middot; {selectedLang.family} &middot; {selectedLang.continent}
+                  {selectedLang.lang_code}
+                  {selectedLang.countries?.length > 0 && ` · ${selectedLang.countries.join(", ")}`}
+                  {selectedLang.continent && ` · ${selectedLang.continent}`}
+                  {selectedLang.family && ` · ${selectedLang.family}`}
                 </p>
               </div>
               <div className="text-right">
@@ -140,24 +144,26 @@ export default function Explorer() {
                         { key: "language_name", label: "Language" },
                         { key: "lang_code", label: "Code" },
                         { key: "script", label: "Script" },
-                        { key: "continent", label: "Region" },
-                        { key: "training_hours", label: "Hours" },
+                        { key: "continent", label: "Country" },
+                        { key: "continent", label: "Continent", sortKey: "continent" },
+                        { key: "training_hours", label: "Training Hours" },
                         { key: "cer_7b_llm", label: "__CER_BADGE__" },
                         { key: "endangerment", label: "Status" },
-                      ].map((col) => (
+                      ].map((col, idx) => (
                         <th
-                          key={col.key}
-                          onClick={() =>
+                          key={`${col.key}-${idx}`}
+                          onClick={() => {
+                            const sortKey = (col as { sortKey?: string }).sortKey || col.key;
                             setFilters({
                               ...filters,
-                              sort_by: col.key,
-                              sort_desc: filters.sort_by === col.key ? !filters.sort_desc : false,
-                            })
-                          }
-                          className="text-left py-3 px-4 text-gray-600 font-medium cursor-pointer hover:text-gray-900 select-none"
+                              sort_by: sortKey,
+                              sort_desc: filters.sort_by === sortKey ? !filters.sort_desc : false,
+                            });
+                          }}
+                          className="text-left py-3 px-4 text-gray-600 font-medium cursor-pointer hover:text-gray-900 select-none whitespace-nowrap"
                         >
                           {col.label === "__CER_BADGE__" ? <CERBadge label="CER (7B)" /> : col.label}
-                          {filters.sort_by === col.key && (
+                          {filters.sort_by === ((col as { sortKey?: string }).sortKey || col.key) && (
                             <span className="ml-1">{filters.sort_desc ? "\u25BC" : "\u25B2"}</span>
                           )}
                         </th>
@@ -175,7 +181,10 @@ export default function Explorer() {
                           {lang.language_name || "\u2014"}
                         </td>
                         <td className="py-3 px-4 text-gray-500 font-mono text-xs">{lang.lang_code}</td>
-                        <td className="py-3 px-4 text-gray-500">{lang.script}</td>
+                        <td className="py-3 px-4 text-gray-500">{lang.script || "\u2014"}</td>
+                        <td className="py-3 px-4 text-gray-500">
+                          {lang.countries?.length > 0 ? lang.countries.join(", ") : lang.region || "\u2014"}
+                        </td>
                         <td className="py-3 px-4 text-gray-500">{lang.continent || "\u2014"}</td>
                         <td className="py-3 px-4 text-gray-500">{formatHours(lang.training_hours)}</td>
                         <td className="py-3 px-4">
@@ -184,15 +193,17 @@ export default function Explorer() {
                           </span>
                         </td>
                         <td className="py-3 px-4">
-                          <span
-                            className="px-2 py-0.5 rounded-full text-xs font-medium"
-                            style={{
-                              backgroundColor: lang.endangerment === "Safe" ? "#dcfce7" : lang.endangerment === "Unknown" ? "#f1f5f9" : "#fef3c7",
-                              color: lang.endangerment === "Safe" ? "#166534" : lang.endangerment === "Unknown" ? "#64748b" : "#92400e",
-                            }}
-                          >
-                            {lang.endangerment}
-                          </span>
+                          {(() => {
+                            const style = endangermentStyle(lang.endangerment);
+                            return (
+                              <span
+                                className="px-2 py-0.5 rounded-full text-xs font-medium"
+                                style={{ backgroundColor: style.bg, color: style.color }}
+                              >
+                                {lang.endangerment}
+                              </span>
+                            );
+                          })()}
                         </td>
                       </tr>
                     ))}

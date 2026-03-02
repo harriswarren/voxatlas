@@ -88,6 +88,8 @@ export default function LanguageMap({ onSelect }: LanguageMapProps) {
         color: cerToColor(pt.cer),
         endangerment: pt.endangerment,
         continent: pt.continent,
+        countries: (pt.countries || []).join(", "),
+        family: pt.family || "",
         training_hours: pt.training_hours,
       },
     }));
@@ -123,16 +125,21 @@ export default function LanguageMap({ onSelect }: LanguageMapProps) {
       const props = feature.properties;
       const coords = (feature.geometry as GeoJSON.Point).coordinates.slice() as [number, number];
 
+      const countryStr = props.countries ? String(props.countries) : "";
+      const familyStr = props.family ? String(props.family) : "";
+
       new maplibregl.Popup({ offset: 10 })
         .setLngLat(coords)
         .setHTML(
-          `<div style="font-family:sans-serif;font-size:13px;line-height:1.5">
-            <strong>${props.language_name}</strong><br/>
+          `<div style="font-family:sans-serif;font-size:13px;line-height:1.6">
+            <strong style="font-size:14px">${props.language_name}</strong><br/>
             <span style="color:#64748b">${props.lang_code}</span>
-            ${props.continent ? ` · <span style="color:#64748b">${props.continent}</span>` : ""}<br/>
-            Character Error Rate: <strong style="color:${props.color}">${Number(props.cer).toFixed(1)}%</strong><br/>
-            Training: <strong>${Number(props.training_hours).toFixed(1)} hrs</strong><br/>
-            Status: ${props.endangerment}
+            ${countryStr ? ` · <span style="color:#64748b">${countryStr}</span>` : ""}
+            ${props.continent ? ` · <span style="color:#94a3b8">${props.continent}</span>` : ""}<br/>
+            ${familyStr ? `<span style="color:#64748b">Family:</span> ${familyStr}<br/>` : ""}
+            <span style="color:#64748b">CER:</span> <strong style="color:${props.color}">${Number(props.cer).toFixed(1)}%</strong><br/>
+            <span style="color:#64748b">Training Data:</span> <strong>${Number(props.training_hours).toFixed(1)} hrs</strong><br/>
+            <span style="color:#64748b">Status:</span> ${props.endangerment}
           </div>`
         )
         .addTo(map);

@@ -27,14 +27,33 @@ export const MODEL_OPTIONS = [
 ];
 
 export const ENDANGERMENT_LEVELS = [
-  "Safe",
-  "Vulnerable",
-  "Definitely Endangered",
-  "Severely Endangered",
-  "Critically Endangered",
+  "Not Endangered",
+  "Threatened",
+  "Shifting",
+  "Moribund",
+  "Nearly Extinct",
   "Extinct",
   "Unknown",
 ];
+
+export function endangermentStyle(status: string): { bg: string; color: string } {
+  switch (status) {
+    case "Not Endangered":
+      return { bg: "#dcfce7", color: "#166534" };
+    case "Threatened":
+      return { bg: "#fef9c3", color: "#854d0e" };
+    case "Shifting":
+      return { bg: "#fef3c7", color: "#92400e" };
+    case "Moribund":
+      return { bg: "#fed7aa", color: "#9a3412" };
+    case "Nearly Extinct":
+      return { bg: "#fecaca", color: "#991b1b" };
+    case "Extinct":
+      return { bg: "#e2e8f0", color: "#475569" };
+    default:
+      return { bg: "#f1f5f9", color: "#64748b" };
+  }
+}
 
 export const MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty";
 

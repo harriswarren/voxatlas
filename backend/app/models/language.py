@@ -8,6 +8,7 @@ class LanguageBase(BaseModel):
     region: str = ""
     continent: str = ""
     family: str = ""
+    countries: list[str] = []
     latitude: float = 0.0
     longitude: float = 0.0
     training_hours: float = 0.0

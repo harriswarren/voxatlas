@@ -12,6 +12,7 @@ class LanguageData:
     region: str = ""
     continent: str = ""
     family: str = ""
+    countries: list = field(default_factory=list)
     latitude: float = 0.0
     longitude: float = 0.0
     training_hours: float = 0.0
@@ -75,6 +76,7 @@ class DataService:
                     lang.region = meta.get("region", "")
                     lang.continent = meta.get("continent", "")
                     lang.family = meta.get("family", "")
+                    lang.countries = meta.get("countries", [])
                     lang.latitude = meta.get("latitude", 0.0)
                     lang.longitude = meta.get("longitude", 0.0)
                     lang.endangerment = meta.get("endangerment", "Unknown")
@@ -223,6 +225,8 @@ class DataService:
                 "cer": lang.cer_7b_llm,
                 "endangerment": lang.endangerment,
                 "continent": lang.continent,
+                "countries": lang.countries,
+                "family": lang.family,
                 "training_hours": lang.training_hours,
             }
             for lang in self.languages.values()
