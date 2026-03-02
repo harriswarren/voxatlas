@@ -16,6 +16,23 @@ export default function LanguageMap({ onSelect }: LanguageMapProps) {
   const [loaded, setLoaded] = useState(false);
   const [points, setPoints] = useState<MapPoint[]>([]);
   const [stats, setStats] = useState({ total: 0, withCoords: 0 });
+  const [cerFilter, setCerFilter] = useState<string | null>(null);
+
+  const CER_BUCKETS = [
+    { key: "0-5", label: "0-5%", color: "#22C55E", min: 0, max: 5 },
+    { key: "5-10", label: "5-10%", color: "#84CC16", min: 5, max: 10 },
+    { key: "10-20", label: "10-20%", color: "#F59E0B", min: 10, max: 20 },
+    { key: "20-30", label: "20-30%", color: "#F97316", min: 20, max: 30 },
+    { key: "30+", label: "30%+", color: "#EF4444", min: 30, max: Infinity },
+  ];
+
+  const filteredPoints = cerFilter
+    ? points.filter((pt) => {
+        const bucket = CER_BUCKETS.find((b) => b.key === cerFilter);
+        if (!bucket) return true;
+        return pt.cer >= bucket.min && (bucket.max === Infinity ? true : pt.cer < bucket.max);
+      })
+    : points;
 
   useEffect(() => {
     getMapPoints()
@@ -58,7 +75,7 @@ export default function LanguageMap({ onSelect }: LanguageMapProps) {
     if (map.getLayer("language-circles")) map.removeLayer("language-circles");
     if (map.getSource("languages")) map.removeSource("languages");
 
-    const features = points.map((pt) => ({
+    const features = filteredPoints.map((pt) => ({
       type: "Feature" as const,
       geometry: {
         type: "Point" as const,
@@ -132,21 +149,47 @@ export default function LanguageMap({ onSelect }: LanguageMapProps) {
     map.on("mouseleave", "language-circles", () => {
       map.getCanvas().style.cursor = "";
     });
-  }, [points, loaded, onSelect]);
+  }, [points, filteredPoints, loaded, onSelect]);
 
   return (
     <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
       <div ref={mapContainer} className="w-full h-[450px]" />
       <div className="flex items-center justify-between px-4 py-2 text-xs text-gray-500 border-t border-gray-100">
-        <div className="flex items-center gap-4">
-          <span className="font-medium inline-flex items-center gap-1">CER (Character Error Rate): <CERTooltip size={12} /></span>
-          <span className="flex items-center gap-1"><span className="w-3 h-3 rounded-full bg-[#22C55E] inline-block" /> 0-5%</span>
-          <span className="flex items-center gap-1"><span className="w-3 h-3 rounded-full bg-[#84CC16] inline-block" /> 5-10%</span>
-          <span className="flex items-center gap-1"><span className="w-3 h-3 rounded-full bg-[#F59E0B] inline-block" /> 10-20%</span>
-          <span className="flex items-center gap-1"><span className="w-3 h-3 rounded-full bg-[#F97316] inline-block" /> 20-30%</span>
-          <span className="flex items-center gap-1"><span className="w-3 h-3 rounded-full bg-[#EF4444] inline-block" /> 30%+</span>
+        <div className="flex items-center gap-1">
+          <span className="font-medium inline-flex items-center gap-1 mr-2">CER (Character Error Rate): <CERTooltip size={12} /></span>
+          {CER_BUCKETS.map((bucket) => (
+            <button
+              key={bucket.key}
+              onClick={() => setCerFilter(cerFilter === bucket.key ? null : bucket.key)}
+              className={`flex items-center gap-1 px-2 py-1 rounded-full transition-all cursor-pointer border ${
+                cerFilter === bucket.key
+                  ? "border-gray-400 bg-gray-100 font-semibold shadow-sm"
+                  : cerFilter && cerFilter !== bucket.key
+                  ? "border-transparent opacity-40 hover:opacity-70"
+                  : "border-transparent hover:bg-gray-50"
+              }`}
+            >
+              <span
+                className="w-3 h-3 rounded-full inline-block"
+                style={{ backgroundColor: bucket.color }}
+              />
+              {bucket.label}
+            </button>
+          ))}
+          {cerFilter && (
+            <button
+              onClick={() => setCerFilter(null)}
+              className="ml-1 px-2 py-1 text-blue-600 hover:underline cursor-pointer"
+            >
+              Clear
+            </button>
+          )}
         </div>
-        <span className="text-gray-400">{stats.withCoords.toLocaleString()} languages mapped</span>
+        <span className="text-gray-400">
+          {cerFilter
+            ? `${filteredPoints.length.toLocaleString()} of ${stats.withCoords.toLocaleString()} languages`
+            : `${stats.withCoords.toLocaleString()} languages mapped`}
+        </span>
       </div>
     </div>
   );
