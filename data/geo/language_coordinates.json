@@ -1,190 +1,6638 @@
 {
-  "ces_Latn": {
-    "latitude": 50.1,
-    "longitude": 14.4
+  "aae_Latn": {
+    "latitude": 38.911,
+    "longitude": 16.7164
   },
-  "ell_Grek": {
-    "latitude": 37.9,
-    "longitude": 23.7
+  "aal_Latn": {
+    "latitude": 12.0551,
+    "longitude": 14.6343
   },
-  "ron_Latn": {
-    "latitude": 44.4,
-    "longitude": 26.1
+  "abb_Latn": {
+    "latitude": 4.3702,
+    "longitude": 9.6403
   },
-  "zul_Latn": {
-    "latitude": -29.9,
-    "longitude": 31.0
+  "abi_Latn": {
+    "latitude": 5.65656,
+    "longitude": -4.58421
   },
-  "tel_Telu": {
-    "latitude": 17.4,
-    "longitude": 78.5
+  "abk_Cyrl": {
+    "latitude": 43.056218,
+    "longitude": 41.159115
   },
-  "cmn_Hans": {
-    "latitude": 39.9,
-    "longitude": 116.4
+  "abn_Latn": {
+    "latitude": 4.83057,
+    "longitude": 6.61492
   },
-  "kan_Knda": {
-    "latitude": 12.9,
-    "longitude": 77.6
+  "abp_Latn": {
+    "latitude": 15.4131,
+    "longitude": 120.2
   },
-  "mya_Mymr": {
-    "latitude": 16.9,
-    "longitude": 96.2
+  "abr_Latn": {
+    "latitude": 7.72094,
+    "longitude": -2.50289
   },
-  "vie_Latn": {
-    "latitude": 21.0,
-    "longitude": 105.9
+  "abs_Latn": {
+    "latitude": -3.71342,
+    "longitude": 128.184
   },
-  "eus_Latn": {
-    "latitude": 43.3,
-    "longitude": -2.0
+  "aca_Latn": {
+    "latitude": 4.38649,
+    "longitude": -72.2005
   },
-  "rus_Cyrl": {
-    "latitude": 55.8,
-    "longitude": 37.6
+  "acd_Latn": {
+    "latitude": 8.39478,
+    "longitude": 0.56975
   },
-  "hau_Latn": {
-    "latitude": 12.0,
-    "longitude": 8.5
+  "ace_Latn": {
+    "latitude": 3.90757,
+    "longitude": 96.6032
   },
-  "ukr_Cyrl": {
-    "latitude": 50.4,
-    "longitude": 30.5
+  "acf_Latn": {
+    "latitude": 15.3947,
+    "longitude": -61.3641
   },
-  "tha_Thai": {
-    "latitude": 13.8,
-    "longitude": 100.5
+  "ach_Latn": {
+    "latitude": 3.57738,
+    "longitude": 32.5147
   },
-  "ben_Beng": {
-    "latitude": 23.8,
-    "longitude": 90.4
+  "acm_Arab": {
+    "latitude": 33.8178,
+    "longitude": 43.1095
   },
-  "fin_Latn": {
-    "latitude": 60.2,
-    "longitude": 24.9
+  "acn_Latn": {
+    "latitude": 24.3479,
+    "longitude": 97.7438
   },
-  "dan_Latn": {
-    "latitude": 55.7,
-    "longitude": 12.6
+  "acr_Latn": {
+    "latitude": 15.073,
+    "longitude": -90.3513
   },
-  "pol_Latn": {
-    "latitude": 52.2,
-    "longitude": 21.0
+  "acu_Latn": {
+    "latitude": -2.82646,
+    "longitude": -77.2641
   },
-  "khm_Khmr": {
-    "latitude": 11.6,
-    "longitude": 104.9
+  "acw_Arab": {
+    "latitude": 22.8346,
+    "longitude": 38.9237
   },
-  "jpn_Jpan": {
-    "latitude": 35.7,
-    "longitude": 139.7
+  "ade_Latn": {
+    "latitude": 8.16975,
+    "longitude": 0.619185
   },
-  "ita_Latn": {
-    "latitude": 41.9,
-    "longitude": 12.5
+  "adh_Latn": {
+    "latitude": 0.73235,
+    "longitude": 34.0341
   },
-  "gle_Latn": {
-    "latitude": 53.3,
-    "longitude": -6.3
+  "adj_Latn": {
+    "latitude": 5.38228,
+    "longitude": -4.52522
   },
-  "cym_Latn": {
-    "latitude": 52.1,
-    "longitude": -3.8
+  "adx_Tibt": {
+    "latitude": 34.5177,
+    "longitude": 100.485
   },
-  "mar_Deva": {
-    "latitude": 19.1,
-    "longitude": 72.9
+  "ady_Cyrl": {
+    "latitude": 44.0,
+    "longitude": 39.33
   },
-  "heb_Hebr": {
-    "latitude": 31.8,
-    "longitude": 35.2
+  "aeb_Arab": {
+    "latitude": 33.7966,
+    "longitude": 9.56156
   },
-  "tur_Latn": {
-    "latitude": 39.9,
-    "longitude": 32.9
+  "aec_Arab": {
+    "latitude": 25.4132,
+    "longitude": 30.5302
   },
-  "deu_Latn": {
-    "latitude": 52.5,
-    "longitude": 13.4
+  "aeu_Latn": {
+    "latitude": 22.1959,
+    "longitude": 101.0823
   },
-  "ibo_Latn": {
-    "latitude": 6.4,
-    "longitude": 7.5
+  "afb_Arab": {
+    "latitude": 30.17,
+    "longitude": 47.5
   },
-  "guj_Gujr": {
-    "latitude": 23.0,
-    "longitude": 72.6
+  "afo_Latn": {
+    "latitude": 8.24696,
+    "longitude": 7.97061
   },
-  "nld_Latn": {
-    "latitude": 52.4,
-    "longitude": 4.9
+  "afr_Latn": {
+    "latitude": -31.63272,
+    "longitude": 20.46356
   },
-  "hin_Deva": {
-    "latitude": 28.6,
-    "longitude": 77.2
+  "agd_Latn": {
+    "latitude": -6.20604,
+    "longitude": 145.917
   },
-  "hun_Latn": {
-    "latitude": 47.5,
-    "longitude": 19.0
+  "agg_Latn": {
+    "latitude": -3.7167,
+    "longitude": 141.199
   },
-  "eng_Latn": {
-    "latitude": 51.5,
-    "longitude": -0.1
+  "agn_Latn": {
+    "latitude": 10.5328,
+    "longitude": 119.655
   },
-  "kor_Hang": {
-    "latitude": 37.6,
-    "longitude": 127.0
+  "agr_Latn": {
+    "latitude": -5.30044,
+    "longitude": -77.9218
   },
-  "cat_Latn": {
-    "latitude": 41.4,
-    "longitude": 2.2
+  "agu_Latn": {
+    "latitude": 15.3307,
+    "longitude": -91.3153
   },
-  "mal_Mlym": {
-    "latitude": 10.0,
-    "longitude": 76.3
+  "agx_Cyrl": {
+    "latitude": 41.9242,
+    "longitude": 47.5843
   },
-  "tam_Taml": {
-    "latitude": 13.1,
-    "longitude": 80.3
+  "aha_Latn": {
+    "latitude": 4.85147,
+    "longitude": -1.94657
   },
-  "spa_Latn": {
-    "latitude": 40.4,
-    "longitude": -3.7
+  "ahk_Latn": {
+    "latitude": 21.2309,
+    "longitude": 100.964
   },
-  "por_Latn": {
-    "latitude": 38.7,
-    "longitude": -9.1
+  "ahl_Latn": {
+    "latitude": 7.25499,
+    "longitude": 0.67846
   },
-  "yor_Latn": {
-    "latitude": 7.4,
-    "longitude": 3.9
+  "ahs_Latn": {
+    "latitude": 9.36574,
+    "longitude": 7.39443
   },
-  "urd_Arab": {
-    "latitude": 33.7,
-    "longitude": 73.1
+  "aia_Latn": {
+    "latitude": -10.2441,
+    "longitude": 161.432
   },
-  "fas_Arab": {
-    "latitude": 35.7,
-    "longitude": 51.4
+  "ajg_Latn": {
+    "latitude": 7.06634,
+    "longitude": 1.64992
   },
-  "fra_Latn": {
-    "latitude": 48.9,
-    "longitude": 2.3
+  "aka_Latn": {
+    "latitude": 6.34756,
+    "longitude": -1.33254
   },
-  "swe_Latn": {
-    "latitude": 59.3,
-    "longitude": 18.1
+  "akb_Latn": {
+    "latitude": 1.66127,
+    "longitude": 99.60248
+  },
+  "ake_Latn": {
+    "latitude": 6.16277,
+    "longitude": -60.862
+  },
+  "akp_Latn": {
+    "latitude": 7.23811,
+    "longitude": 0.44362
+  },
+  "ala_Latn": {
+    "latitude": 8.34986,
+    "longitude": 8.52085
+  },
+  "alj_Latn": {
+    "latitude": 13.0982,
+    "longitude": 121.022
+  },
+  "aln_Latn": {
+    "latitude": 42.317,
+    "longitude": 21.3837
+  },
+  "alo_Latn": {
+    "latitude": -3.76522,
+    "longitude": 127.956
+  },
+  "alp_Latn": {
+    "latitude": -3.11477,
+    "longitude": 128.394
+  },
+  "als_Latn": {
+    "latitude": 41.0,
+    "longitude": 20.0
+  },
+  "alt_Cyrl": {
+    "latitude": 50.1347,
+    "longitude": 86.8705
+  },
+  "alz_Latn": {
+    "latitude": 2.36213,
+    "longitude": 31.0016
+  },
+  "ame_Latn": {
+    "latitude": -10.5454,
+    "longitude": -75.315
+  },
+  "amf_Latn": {
+    "latitude": 5.06515,
+    "longitude": 36.5176
   },
   "amh_Ethi": {
-    "latitude": 9.0,
-    "longitude": 38.7
+    "latitude": 11.708182,
+    "longitude": 39.543456
   },
-  "ind_Latn": {
-    "latitude": -6.2,
-    "longitude": 106.8
+  "ami_Latn": {
+    "latitude": 23.0917,
+    "longitude": 121.348
+  },
+  "amk_Latn": {
+    "latitude": -1.88126,
+    "longitude": 136.526
+  },
+  "amu_Latn": {
+    "latitude": 16.77226,
+    "longitude": -98.18953
+  },
+  "anc_Latn": {
+    "latitude": 9.32042,
+    "longitude": 9.46146
+  },
+  "ank_Latn": {
+    "latitude": 8.74455,
+    "longitude": 9.72453
+  },
+  "ann_Latn": {
+    "latitude": 4.62851,
+    "longitude": 7.81985
+  },
+  "anp_Deva": {
+    "latitude": 26.0047,
+    "longitude": 85.534
+  },
+  "anw_Latn": {
+    "latitude": 4.94832,
+    "longitude": 7.57969
+  },
+  "any_Latn": {
+    "latitude": 6.31781,
+    "longitude": -3.30532
+  },
+  "aom_Latn": {
+    "latitude": -9.03136,
+    "longitude": 148.107
+  },
+  "aoz_Latn": {
+    "latitude": -9.77284,
+    "longitude": 124.144
+  },
+  "apb_Latn": {
+    "latitude": -9.60258,
+    "longitude": 161.467
+  },
+  "apc_Arab": {
+    "latitude": 34.1709,
+    "longitude": 36.0468
+  },
+  "apd_Arab": {
+    "latitude": 17.8021,
+    "longitude": 33.3179
+  },
+  "apr_Latn": {
+    "latitude": -5.31671,
+    "longitude": 147.103
+  },
+  "arb_Arab": {
+    "latitude": 27.9625,
+    "longitude": 43.8525
+  },
+  "arg_Latn": {
+    "latitude": 42.4669,
+    "longitude": -0.00919
+  },
+  "arl_Latn": {
+    "latitude": -1.96126,
+    "longitude": -75.0612
+  },
+  "arq_Arab": {
+    "latitude": 35.4208,
+    "longitude": 3.23033
+  },
+  "ars_Arab": {
+    "latitude": 30.3371,
+    "longitude": 42.1773
+  },
+  "ary_Arab": {
+    "latitude": 32.5,
+    "longitude": -7.5
+  },
+  "arz_Arab": {
+    "latitude": 31.0,
+    "longitude": 31.0
+  },
+  "asa_Latn": {
+    "latitude": -4.17978,
+    "longitude": 37.8323
+  },
+  "asg_Latn": {
+    "latitude": 9.88458,
+    "longitude": 4.48564
+  },
+  "asm_Beng": {
+    "latitude": 26.0876,
+    "longitude": 91.2932
+  },
+  "ast_Latn": {
+    "latitude": 42.4181,
+    "longitude": -6.02227
+  },
+  "ata_Latn": {
+    "latitude": -5.58045,
+    "longitude": 151.05
+  },
+  "atb_Latn": {
+    "latitude": 24.1726,
+    "longitude": 98.3643
+  },
+  "atg_Latn": {
+    "latitude": 7.15307,
+    "longitude": 6.21209
+  },
+  "ati_Latn": {
+    "latitude": 5.9977,
+    "longitude": -3.8209
+  },
+  "atq_Latn": {
+    "latitude": -2.78397,
+    "longitude": 119.319
+  },
+  "ava_Cyrl": {
+    "latitude": 41.7047,
+    "longitude": 46.558
+  },
+  "avn_Latn": {
+    "latitude": 6.8688,
+    "longitude": 0.41314
+  },
+  "avu_Latn": {
+    "latitude": 4.38639,
+    "longitude": 29.9379
+  },
+  "awa_Deva": {
+    "latitude": 27.5907,
+    "longitude": 82.4663
+  },
+  "awb_Latn": {
+    "latitude": -6.65534,
+    "longitude": 145.714
+  },
+  "awo_Latn": {
+    "latitude": 9.86334,
+    "longitude": 11.3291
+  },
+  "ayl_Arab": {
+    "latitude": 22.0032,
+    "longitude": 15.0014
+  },
+  "ayo_Latn": {
+    "latitude": -19.220055,
+    "longitude": -60.217495
+  },
+  "ayp_Arab": {
+    "latitude": 36.2986,
+    "longitude": 42.0047
+  },
+  "ayr_Latn": {
+    "latitude": -17.0,
+    "longitude": -68.5
+  },
+  "ayz_Latn": {
+    "latitude": -1.3679,
+    "longitude": 132.591
+  },
+  "azg_Latn": {
+    "latitude": 16.5198,
+    "longitude": -98.0464
+  },
+  "azz_Latn": {
+    "latitude": 20.1554,
+    "longitude": -97.5556
+  },
+  "bag_Latn": {
+    "latitude": 4.64348,
+    "longitude": 11.5353
+  },
+  "bak_Cyrl": {
+    "latitude": 53.59671,
+    "longitude": 56.55937
+  },
+  "bam_Latn": {
+    "latitude": 12.9,
+    "longitude": -7.65
+  },
+  "ban_Latn": {
+    "latitude": -8.35714,
+    "longitude": 115.075
+  },
+  "bao_Latn": {
+    "latitude": 0.30416,
+    "longitude": -70.1644
+  },
+  "bas_Latn": {
+    "latitude": 3.80765,
+    "longitude": 10.4213
+  },
+  "bav_Latn": {
+    "latitude": 6.11403,
+    "longitude": 10.4137
+  },
+  "bax_Latn": {
+    "latitude": 5.49017,
+    "longitude": 10.8477
+  },
+  "bba_Latn": {
+    "latitude": 9.63186,
+    "longitude": 2.99607
+  },
+  "bbb_Latn": {
+    "latitude": -9.46246,
+    "longitude": 147.899
+  },
+  "bbc_Latn": {
+    "latitude": 2.35498,
+    "longitude": 99.1761
+  },
+  "bbj_Latn": {
+    "latitude": 5.39619,
+    "longitude": 10.352
+  },
+  "bbl_Geor": {
+    "latitude": 42.1806,
+    "longitude": 45.344
+  },
+  "bbo_Latn": {
+    "latitude": 12.4182,
+    "longitude": -4.47538
+  },
+  "bbu_Latn": {
+    "latitude": 9.20815,
+    "longitude": 11.04651
+  },
+  "bcc_Arab": {
+    "latitude": 26.0,
+    "longitude": 64.0
+  },
+  "bcc_Latn": {
+    "latitude": 26.0,
+    "longitude": 64.0
+  },
+  "bce_Latn": {
+    "latitude": 5.77049,
+    "longitude": 10.3302
+  },
+  "bci_Latn": {
+    "latitude": 5.42509,
+    "longitude": -4.76565
+  },
+  "bcl_Latn": {
+    "latitude": 13.7574,
+    "longitude": 123.403
+  },
+  "bcs_Latn": {
+    "latitude": 5.92596,
+    "longitude": 7.96202
+  },
+  "bcw_Latn": {
+    "latitude": 10.3535,
+    "longitude": 13.6131
+  },
+  "bcy_Latn": {
+    "latitude": 9.53072,
+    "longitude": 12.0416
+  },
+  "bcz_Latn": {
+    "latitude": 12.8672,
+    "longitude": -16.229
+  },
+  "bda_Latn": {
+    "latitude": 12.6881,
+    "longitude": -16.3947
+  },
+  "bde_Latn": {
+    "latitude": 12.789,
+    "longitude": 10.6557
+  },
+  "bdg_Latn": {
+    "latitude": 7.29249,
+    "longitude": 117.174
+  },
+  "bdh_Latn": {
+    "latitude": 4.65943,
+    "longitude": 29.59
+  },
+  "bdm_Latn": {
+    "latitude": 13.0692,
+    "longitude": 14.4492
+  },
+  "bdq_Latn": {
+    "latitude": 14.0476,
+    "longitude": 108.471
+  },
+  "bdu_Latn": {
+    "latitude": 4.89504,
+    "longitude": 9.15209
+  },
+  "bdv_Orya": {
+    "latitude": 19.0745,
+    "longitude": 82.8774
+  },
+  "beb_Latn": {
+    "latitude": 4.78874,
+    "longitude": 12.824
+  },
+  "beh_Latn": {
+    "latitude": 11.0382,
+    "longitude": 1.08259
+  },
+  "bel_Cyrl": {
+    "latitude": 53.2307,
+    "longitude": 25.6038
+  },
+  "bem_Latn": {
+    "latitude": -10.6122,
+    "longitude": 29.2993
+  },
+  "ben_Beng": {
+    "latitude": 24.0,
+    "longitude": 90.0
+  },
+  "bep_Latn": {
+    "latitude": -1.60095,
+    "longitude": 120.379
+  },
+  "bew_Latn": {
+    "latitude": -6.21174,
+    "longitude": 107.022
+  },
+  "bex_Latn": {
+    "latitude": 6.03321,
+    "longitude": 29.974
+  },
+  "bfa_Latn": {
+    "latitude": 4.19522,
+    "longitude": 31.0723
+  },
+  "bfd_Latn": {
+    "latitude": 6.14153,
+    "longitude": 10.1194
+  },
+  "bfo_Latn": {
+    "latitude": 9.78465,
+    "longitude": -2.90623
+  },
+  "bft_Arab": {
+    "latitude": 34.4491,
+    "longitude": 77.2859
+  },
+  "bfy_Deva": {
+    "latitude": 24.6837,
+    "longitude": 87.4994
+  },
+  "bfz_Deva": {
+    "latitude": 31.0088,
+    "longitude": 77.5317
+  },
+  "bgc_Deva": {
+    "latitude": 29.0166,
+    "longitude": 76.0432
+  },
+  "bgp_Arab": {
+    "latitude": 29.38213,
+    "longitude": 69.05834
+  },
+  "bgq_Deva": {
+    "latitude": 31.4,
+    "longitude": 75.06
+  },
+  "bgr_Latn": {
+    "latitude": 22.4405233333,
+    "longitude": 92.92553
+  },
+  "bgt_Latn": {
+    "latitude": -8.47948,
+    "longitude": 159.802
+  },
+  "bgw_Deva": {
+    "latitude": 19.26078,
+    "longitude": 82.24055
+  },
+  "bha_Deva": {
+    "latitude": 22.3429,
+    "longitude": 83.1071
+  },
+  "bhb_Deva": {
+    "latitude": 20.85,
+    "longitude": 73.9592
+  },
+  "bhh_Cyrl": {
+    "latitude": 41.0,
+    "longitude": 64.0
+  },
+  "bho_Deva": {
+    "latitude": 26.458455,
+    "longitude": 84.817115
+  },
+  "bhp_Latn": {
+    "latitude": -8.57376,
+    "longitude": 118.445
+  },
+  "bhr_Latn": {
+    "latitude": -23.9716,
+    "longitude": 45.5937
+  },
+  "bht_Deva": {
+    "latitude": 32.4022,
+    "longitude": 76.0311
+  },
+  "bhz_Latn": {
+    "latitude": -1.80249,
+    "longitude": 120.319
+  },
+  "bib_Latn": {
+    "latitude": 10.4257,
+    "longitude": -1.67332
+  },
+  "bim_Latn": {
+    "latitude": 10.4575,
+    "longitude": 0.06121
+  },
+  "bis_Latn": {
+    "latitude": -15.4,
+    "longitude": 166.89
+  },
+  "biv_Latn": {
+    "latitude": 9.2873,
+    "longitude": -2.72672
+  },
+  "bjj_Deva": {
+    "latitude": 27.1074,
+    "longitude": 79.2883
+  },
+  "bjk_Latn": {
+    "latitude": -3.47672,
+    "longitude": 152.193
+  },
+  "bjn_Latn": {
+    "latitude": 0.747105,
+    "longitude": 115.79
+  },
+  "bjr_Latn": {
+    "latitude": -6.22068,
+    "longitude": 146.102
+  },
+  "bjt_Latn": {
+    "latitude": 12.5382,
+    "longitude": -15.6658
+  },
+  "bjv_Latn": {
+    "latitude": 8.60006,
+    "longitude": 17.2691
+  },
+  "bjw_Latn": {
+    "latitude": 5.23123,
+    "longitude": -6.51077
+  },
+  "bjz_Latn": {
+    "latitude": -9.40132,
+    "longitude": 148.761
+  },
+  "bkd_Latn": {
+    "latitude": 8.15933,
+    "longitude": 124.892
+  },
+  "bkh_Latn": {
+    "latitude": 3.56518,
+    "longitude": 9.99905
+  },
+  "bkm_Latn": {
+    "latitude": 6.2596,
+    "longitude": 10.3348
+  },
+  "bkv_Latn": {
+    "latitude": 6.73737,
+    "longitude": 8.86489
+  },
+  "bky_Latn": {
+    "latitude": 6.10475,
+    "longitude": 9.05875
+  },
+  "ble_Latn": {
+    "latitude": 11.8203,
+    "longitude": -15.3221
+  },
+  "blh_Latn": {
+    "latitude": 7.54885,
+    "longitude": -9.9765
+  },
+  "blt_Latn": {
+    "latitude": 18.9572,
+    "longitude": 102.928
+  },
+  "blx_Latn": {
+    "latitude": 14.9617,
+    "longitude": 120.182
+  },
+  "blz_Latn": {
+    "latitude": -0.86809,
+    "longitude": 123.289
+  },
+  "bmm_Latn": {
+    "latitude": -19.9184,
+    "longitude": 48.812
+  },
+  "bmq_Latn": {
+    "latitude": 12.3816,
+    "longitude": -4.538
+  },
+  "bmr_Latn": {
+    "latitude": -0.8652,
+    "longitude": -72.4249
+  },
+  "bmu_Latn": {
+    "latitude": -6.51663,
+    "longitude": 147.333
+  },
+  "bmv_Latn": {
+    "latitude": 6.48655,
+    "longitude": 10.418
+  },
+  "bng_Beng": {
+    "latitude": 1.075766,
+    "longitude": 9.600739
+  },
+  "bnm_Latn": {
+    "latitude": 1.397041,
+    "longitude": 9.51011
+  },
+  "bnn_Latn": {
+    "latitude": 23.4116,
+    "longitude": 121.025
+  },
+  "bno_Latn": {
+    "latitude": 12.5194,
+    "longitude": 122.034
+  },
+  "bnp_Latn": {
+    "latitude": -5.55792,
+    "longitude": 150.095
+  },
+  "bns_Deva": {
+    "latitude": 24.8982,
+    "longitude": 78.9542
+  },
+  "boa_Latn": {
+    "latitude": -2.000259,
+    "longitude": -72.257066
+  },
+  "bod_Tibt": {
+    "latitude": 28.3681,
+    "longitude": 90.1872
+  },
+  "boj_Latn": {
+    "latitude": -5.45899,
+    "longitude": 145.717
+  },
+  "bom_Latn": {
+    "latitude": 9.67037,
+    "longitude": 8.81221
+  },
+  "bor_Latn": {
+    "latitude": -16.6029,
+    "longitude": -55.2004
+  },
+  "bos_Latn": {
+    "latitude": 43.859,
+    "longitude": 17.046
+  },
+  "bou_Latn": {
+    "latitude": -5.10749,
+    "longitude": 38.5079
+  },
+  "bov_Latn": {
+    "latitude": 7.31095,
+    "longitude": 0.38008
+  },
+  "box_Latn": {
+    "latitude": 11.1687,
+    "longitude": -3.50303
+  },
+  "bpr_Latn": {
+    "latitude": 6.20529,
+    "longitude": 125.007
+  },
+  "bps_Latn": {
+    "latitude": 6.03691,
+    "longitude": 125.354
+  },
+  "bqc_Latn": {
+    "latitude": 10.5189,
+    "longitude": 3.71771
+  },
+  "bqg_Latn": {
+    "latitude": 8.52697,
+    "longitude": 1.41214
+  },
+  "bqi_Arab": {
+    "latitude": 32.0163,
+    "longitude": 49.7713
+  },
+  "bqj_Latn": {
+    "latitude": 12.5258,
+    "longitude": -16.4245
+  },
+  "bqp_Latn": {
+    "latitude": 9.91074,
+    "longitude": 4.39929
+  },
+  "bra_Deva": {
+    "latitude": 26.4758,
+    "longitude": 78.0813
+  },
+  "bre_Latn": {
+    "latitude": 48.2452,
+    "longitude": -3.78934
+  },
+  "brh_Arab": {
+    "latitude": 29.04,
+    "longitude": 66.56
+  },
+  "bri_Latn": {
+    "latitude": 4.24178,
+    "longitude": 9.23887
+  },
+  "bru_Latn": {
+    "latitude": 17.1311,
+    "longitude": 105.671
+  },
+  "brx_Deva": {
+    "latitude": 26.1,
+    "longitude": 92.0
+  },
+  "bsc_Latn": {
+    "latitude": 12.4529,
+    "longitude": -13.3495
+  },
+  "bsh_Arab": {
+    "latitude": 35.4145,
+    "longitude": 70.9826
+  },
+  "bsj_Latn": {
+    "latitude": 9.57157,
+    "longitude": 11.2022
+  },
+  "bsk_Latn": {
+    "latitude": 36.2161,
+    "longitude": 74.8236
+  },
+  "bsq_Latn": {
+    "latitude": 7.27501,
+    "longitude": -11.543
+  },
+  "bss_Latn": {
+    "latitude": 4.9243,
+    "longitude": 9.65522
+  },
+  "bsy_Latn": {
+    "latitude": 5.30433,
+    "longitude": 115.512
+  },
+  "btd_Latn": {
+    "latitude": 2.51438,
+    "longitude": 98.2427
+  },
+  "btm_Latn": {
+    "latitude": 0.85805,
+    "longitude": 99.898
+  },
+  "bts_Latn": {
+    "latitude": 3.04372,
+    "longitude": 98.9083
+  },
+  "btt_Latn": {
+    "latitude": 6.62037,
+    "longitude": 9.20189
+  },
+  "btv_Arab": {
+    "latitude": 34.9582,
+    "longitude": 72.92674
+  },
+  "btx_Latn": {
+    "latitude": 2.12787,
+    "longitude": 98.2517
+  },
+  "bud_Latn": {
+    "latitude": 9.23971,
+    "longitude": 0.599275
+  },
+  "bug_Latn": {
+    "latitude": -4.47,
+    "longitude": 119.977
+  },
+  "bul_Cyrl": {
+    "latitude": 43.3646,
+    "longitude": 25.047
+  },
+  "bum_Latn": {
+    "latitude": 3.16141,
+    "longitude": 11.6365
+  },
+  "buo_Latn": {
+    "latitude": -6.70051,
+    "longitude": 155.745
+  },
+  "bus_Latn": {
+    "latitude": 9.52724,
+    "longitude": 3.80058
+  },
+  "bux_Latn": {
+    "latitude": 9.49679,
+    "longitude": 10.11454
+  },
+  "bvb_Latn": {
+    "latitude": 3.53638,
+    "longitude": 8.68929
+  },
+  "bvc_Latn": {
+    "latitude": -8.41627,
+    "longitude": 160.721
+  },
+  "bvz_Latn": {
+    "latitude": -2.44717,
+    "longitude": 137.629
+  },
+  "bwq_Latn": {
+    "latitude": 11.5409,
+    "longitude": -4.26497
+  },
+  "bwr_Latn": {
+    "latitude": 10.4822,
+    "longitude": 12.3007
+  },
+  "bwu_Latn": {
+    "latitude": 10.5763,
+    "longitude": -1.26748
+  },
+  "bxf_Latn": {
+    "latitude": -4.39732,
+    "longitude": 152.334
+  },
+  "bxk_Latn": {
+    "latitude": 0.68043,
+    "longitude": 34.7719
+  },
+  "byc_Latn": {
+    "latitude": 5.72343,
+    "longitude": 7.96439
+  },
+  "byr_Latn": {
+    "latitude": -6.89261,
+    "longitude": 145.818
+  },
+  "bys_Latn": {
+    "latitude": 9.49451,
+    "longitude": 11.0698
+  },
+  "byv_Latn": {
+    "latitude": 5.10901,
+    "longitude": 10.6118
+  },
+  "byx_Latn": {
+    "latitude": -4.45258,
+    "longitude": 151.702
+  },
+  "bzh_Latn": {
+    "latitude": -6.86672,
+    "longitude": 146.774
+  },
+  "bzi_Thai": {
+    "latitude": 20.8542,
+    "longitude": 99.9862
+  },
+  "bzj_Latn": {
+    "latitude": 17.3941,
+    "longitude": -88.6281
+  },
+  "bzw_Latn": {
+    "latitude": 8.03159,
+    "longitude": 7.06183
+  },
+  "caa_Latn": {
+    "latitude": 14.818,
+    "longitude": -89.2363
+  },
+  "cab_Latn": {
+    "latitude": 15.3529,
+    "longitude": -86.9091
+  },
+  "cac_Latn": {
+    "latitude": 15.8399,
+    "longitude": -91.76
+  },
+  "cak_Latn": {
+    "latitude": 14.4662,
+    "longitude": -90.9881
+  },
+  "cap_Latn": {
+    "latitude": -18.73951,
+    "longitude": -67.89633
+  },
+  "car_Latn": {
+    "latitude": 5.83772,
+    "longitude": -56.8323
+  },
+  "cas_Latn": {
+    "latitude": -14.64448,
+    "longitude": -67.83756
+  },
+  "cat_Latn": {
+    "latitude": 41.453,
+    "longitude": 1.569
+  },
+  "cax_Latn": {
+    "latitude": -16.769554,
+    "longitude": -61.817795
+  },
+  "cbc_Latn": {
+    "latitude": 0.06168,
+    "longitude": -69.6465
+  },
+  "cbi_Latn": {
+    "latitude": 0.71489,
+    "longitude": -79.0508
+  },
+  "cbr_Latn": {
+    "latitude": -8.70232,
+    "longitude": -75.4206
+  },
+  "cbs_Latn": {
+    "latitude": -9.72027,
+    "longitude": -71.1733
+  },
+  "cbt_Latn": {
+    "latitude": -5.63764,
+    "longitude": -76.8252
+  },
+  "cbu_Latn": {
+    "latitude": -4.23835,
+    "longitude": -76.9347
+  },
+  "cbv_Latn": {
+    "latitude": 0.88778,
+    "longitude": -69.5659
+  },
+  "cce_Latn": {
+    "latitude": -24.8327,
+    "longitude": 34.1097
+  },
+  "ccg_Latn": {
+    "latitude": 8.06905,
+    "longitude": 11.7077
+  },
+  "cco_Latn": {
+    "latitude": 17.5909,
+    "longitude": -96.445
+  },
+  "cdj_Deva": {
+    "latitude": 32.8969,
+    "longitude": 76.1124
+  },
+  "cdo_Hans": {
+    "latitude": 26.0,
+    "longitude": 119.5
+  },
+  "ceb_Latn": {
+    "latitude": 8.38799,
+    "longitude": 124.367
+  },
+  "ceg_Latn": {
+    "latitude": -20.5899,
+    "longitude": -58.2005
+  },
+  "cek_Latn": {
+    "latitude": 21.3425,
+    "longitude": 93.155
+  },
+  "cen_Latn": {
+    "latitude": 9.6896,
+    "longitude": 9.0218
+  },
+  "ces_Latn": {
+    "latitude": 49.873398,
+    "longitude": 15.10437
+  },
+  "cfa_Latn": {
+    "latitude": 9.67567,
+    "longitude": 11.5201
+  },
+  "cfm_Latn": {
+    "latitude": 23.7892833333,
+    "longitude": 92.3254633333
+  },
+  "cgc_Latn": {
+    "latitude": 10.4656,
+    "longitude": 119.872
+  },
+  "cgg_Latn": {
+    "latitude": -1.04387,
+    "longitude": 29.9122
+  },
+  "che_Cyrl": {
+    "latitude": 43.5,
+    "longitude": 45.5
+  },
+  "chf_Latn": {
+    "latitude": 18.1713,
+    "longitude": -92.7367
+  },
+  "chq_Latn": {
+    "latitude": 17.5621,
+    "longitude": -96.602
+  },
+  "chv_Cyrl": {
+    "latitude": 55.48701,
+    "longitude": 47.16298
+  },
+  "chz_Latn": {
+    "latitude": 17.6976,
+    "longitude": -96.2249
+  },
+  "cjk_Latn": {
+    "latitude": -9.66082,
+    "longitude": 21.3992
+  },
+  "cjo_Latn": {
+    "latitude": -10.7583,
+    "longitude": -74.2014
+  },
+  "cjp_Latn": {
+    "latitude": 9.67031,
+    "longitude": -83.4102
+  },
+  "cjs_Cyrl": {
+    "latitude": 53.70953,
+    "longitude": 87.84468
+  },
+  "ckb_Arab": {
+    "latitude": 35.6539,
+    "longitude": 45.8077
+  },
+  "ckl_Latn": {
+    "latitude": 10.8977,
+    "longitude": 12.902
+  },
+  "cko_Latn": {
+    "latitude": 10.2839,
+    "longitude": 0.56021
+  },
+  "ckr_Latn": {
+    "latitude": -4.46941,
+    "longitude": 151.98
+  },
+  "ckt_Cyrl": {
+    "latitude": 68.6436,
+    "longitude": 170.045
+  },
+  "cky_Latn": {
+    "latitude": 9.00924,
+    "longitude": 9.16071
+  },
+  "cla_Latn": {
+    "latitude": 9.3,
+    "longitude": 9.02
+  },
+  "cle_Latn": {
+    "latitude": 17.3162,
+    "longitude": -95.9265
+  },
+  "cly_Latn": {
+    "latitude": 16.2437,
+    "longitude": -97.1526
+  },
+  "cme_Latn": {
+    "latitude": 10.1245,
+    "longitude": -4.94917
+  },
+  "cmn_Hans": {
+    "latitude": 40.0209,
+    "longitude": 116.228
+  },
+  "cmn_Hant": {
+    "latitude": 40.0209,
+    "longitude": 116.228
+  },
+  "cmo_Khmr": {
+    "latitude": 12.6313,
+    "longitude": 107.301
+  },
+  "cmo_Latn": {
+    "latitude": 12.6313,
+    "longitude": 107.301
+  },
+  "cmr_Latn": {
+    "latitude": 19.71,
+    "longitude": 93.995
+  },
+  "cnh_Latn": {
+    "latitude": 22.8735,
+    "longitude": 92.8208
+  },
+  "cni_Latn": {
+    "latitude": -11.9311,
+    "longitude": -73.9073
+  },
+  "cnl_Latn": {
+    "latitude": 17.58251,
+    "longitude": -96.00645
+  },
+  "cnt_Latn": {
+    "latitude": 17.7115,
+    "longitude": -96.5404
+  },
+  "coe_Latn": {
+    "latitude": 0.92316,
+    "longitude": -75.3475
+  },
+  "cof_Latn": {
+    "latitude": -0.21181,
+    "longitude": -79.2347
+  },
+  "cok_Latn": {
+    "latitude": 22.7102,
+    "longitude": -104.7
+  },
+  "con_Latn": {
+    "latitude": 0.276675,
+    "longitude": -77.0643
+  },
+  "cor_Latn": {
+    "latitude": 50.5233,
+    "longitude": -4.18619
+  },
+  "cot_Latn": {
+    "latitude": -11.4812,
+    "longitude": -73.4451
+  },
+  "cou_Latn": {
+    "latitude": 12.5421,
+    "longitude": -13.177
+  },
+  "cpa_Latn": {
+    "latitude": 17.884,
+    "longitude": -96.3407
+  },
+  "cpb_Latn": {
+    "latitude": -9.49424,
+    "longitude": -73.1836
+  },
+  "cpu_Latn": {
+    "latitude": -10.47249,
+    "longitude": -74.60281
+  },
+  "cpx_Hans": {
+    "latitude": 25.37,
+    "longitude": 118.68
+  },
+  "cpy_Latn": {
+    "latitude": -10.37875,
+    "longitude": -74.060306
+  },
+  "crh_Cyrl": {
+    "latitude": 45.0,
+    "longitude": 34.08
+  },
+  "crk_Cans": {
+    "latitude": 51.2437,
+    "longitude": -110.463
+  },
+  "crk_Latn": {
+    "latitude": 51.2437,
+    "longitude": -110.463
+  },
+  "crn_Latn": {
+    "latitude": 22.4099,
+    "longitude": -104.467
+  },
+  "crq_Latn": {
+    "latitude": -22.2067,
+    "longitude": -62.6508
+  },
+  "crs_Latn": {
+    "latitude": -4.62314,
+    "longitude": 55.4503
+  },
+  "crt_Latn": {
+    "latitude": -22.1896,
+    "longitude": -63.2383
+  },
+  "csk_Latn": {
+    "latitude": 12.5089,
+    "longitude": -16.5539
+  },
+  "cso_Latn": {
+    "latitude": 17.7985,
+    "longitude": -96.6079
+  },
+  "ctd_Latn": {
+    "latitude": 23.6079,
+    "longitude": 93.519
+  },
+  "cte_Latn": {
+    "latitude": 17.6651,
+    "longitude": -96.1433
+  },
+  "ctg_Beng": {
+    "latitude": 20.831,
+    "longitude": 93.1695
+  },
+  "ctl_Latn": {
+    "latitude": 17.8646,
+    "longitude": -96.5176
+  },
+  "cto_Latn": {
+    "latitude": 7.52721,
+    "longitude": -76.7476
+  },
+  "ctu_Latn": {
+    "latitude": 17.4897,
+    "longitude": -92.4698
+  },
+  "cuc_Latn": {
+    "latitude": 17.9184,
+    "longitude": -96.4074
+  },
+  "cui_Latn": {
+    "latitude": 6.19829,
+    "longitude": -69.8197
+  },
+  "cuk_Latn": {
+    "latitude": 9.15686,
+    "longitude": -78.3075
+  },
+  "cul_Latn": {
+    "latitude": -8.55268,
+    "longitude": -70.6648
+  },
+  "cut_Latn": {
+    "latitude": 17.9029,
+    "longitude": -96.6645
+  },
+  "cux_Latn": {
+    "latitude": 17.756,
+    "longitude": -96.788
+  },
+  "cwa_Latn": {
+    "latitude": -1.7124,
+    "longitude": 34.3923
+  },
+  "cwe_Latn": {
+    "latitude": -6.50666,
+    "longitude": 38.4449
+  },
+  "cwt_Latn": {
+    "latitude": 12.48255,
+    "longitude": -16.74835
+  },
+  "cya_Latn": {
+    "latitude": 16.0954,
+    "longitude": -97.1339
+  },
+  "cym_Latn": {
+    "latitude": 52.0,
+    "longitude": -4.0
+  },
+  "daa_Latn": {
+    "latitude": 12.1517,
+    "longitude": 18.385
+  },
+  "dag_Latn": {
+    "latitude": 9.64745,
+    "longitude": -0.43227
+  },
+  "dah_Latn": {
+    "latitude": -5.64555,
+    "longitude": 146.455
+  },
+  "dan_Latn": {
+    "latitude": 54.8655,
+    "longitude": 9.36284
+  },
+  "dar_Cyrl": {
+    "latitude": 42.4257,
+    "longitude": 47.4388
+  },
+  "dav_Latn": {
+    "latitude": -3.79347,
+    "longitude": 38.57254
+  },
+  "dbd_Latn": {
+    "latitude": 9.62705,
+    "longitude": 11.3587
+  },
+  "dbj_Latn": {
+    "latitude": 5.29059,
+    "longitude": 118.515
+  },
+  "dbq_Latn": {
+    "latitude": 10.3521,
+    "longitude": 13.6318
+  },
+  "dcc_Arab": {
+    "latitude": 18.5919,
+    "longitude": 75.717
+  },
+  "ddn_Latn": {
+    "latitude": 11.6682,
+    "longitude": 3.49109
+  },
+  "ded_Latn": {
+    "latitude": -6.38206,
+    "longitude": 147.627
+  },
+  "deg_Latn": {
+    "latitude": 4.73373,
+    "longitude": 6.80991
+  },
+  "des_Latn": {
+    "latitude": 0.58157,
+    "longitude": -69.4955
+  },
+  "deu_Latn": {
+    "latitude": 48.649,
+    "longitude": 12.4676
+  },
+  "dga_Latn": {
+    "latitude": 10.4226,
+    "longitude": -2.52265
+  },
+  "dgh_Latn": {
+    "latitude": 11.05751,
+    "longitude": 13.77847
+  },
+  "dgi_Latn": {
+    "latitude": 11.0441,
+    "longitude": -3.0124
+  },
+  "dgk_Latn": {
+    "latitude": 8.84278,
+    "longitude": 18.4847
+  },
+  "dgo_Deva": {
+    "latitude": 32.5534,
+    "longitude": 75.7111
+  },
+  "dgr_Latn": {
+    "latitude": 63.17,
+    "longitude": -117.25
+  },
+  "dhi_Deva": {
+    "latitude": 26.6283,
+    "longitude": 88.3798
+  },
+  "did_Latn": {
+    "latitude": 4.21489,
+    "longitude": 33.6869
+  },
+  "dig_Latn": {
+    "latitude": -4.62101,
+    "longitude": 39.1752
+  },
+  "dik_Latn": {
+    "latitude": 8.81115,
+    "longitude": 28.0613
+  },
+  "dip_Latn": {
+    "latitude": 9.27995,
+    "longitude": 31.8392
+  },
+  "div_Thaa": {
+    "latitude": 1.928498,
+    "longitude": 73.54433
+  },
+  "dje_Latn": {
+    "latitude": 12.8554,
+    "longitude": 2.41173
+  },
+  "djk_Latn": {
+    "latitude": 4.3126,
+    "longitude": -54.6419
+  },
+  "dmk_Arab": {
+    "latitude": 36.3258,
+    "longitude": 74.7984
+  },
+  "dml_Arab": {
+    "latitude": 35.299,
+    "longitude": 71.6806
+  },
+  "dnj_Latn": {
+    "latitude": 7.27,
+    "longitude": -8.15
+  },
+  "dnt_Latn": {
+    "latitude": -4.06322,
+    "longitude": 138.945
+  },
+  "dnw_Latn": {
+    "latitude": -3.77127,
+    "longitude": 138.217
+  },
+  "dop_Latn": {
+    "latitude": 9.51949,
+    "longitude": 1.66954
+  },
+  "dos_Latn": {
+    "latitude": 10.1899,
+    "longitude": -4.1493
+  },
+  "dru_Latn": {
+    "latitude": 22.7738,
+    "longitude": 120.844
+  },
+  "dsh_Latn": {
+    "latitude": 4.58879,
+    "longitude": 35.9888
+  },
+  "dso_Orya": {
+    "latitude": 18.965,
+    "longitude": 82.646
+  },
+  "dtp_Latn": {
+    "latitude": 6.02998,
+    "longitude": 116.681
+  },
+  "dts_Latn": {
+    "latitude": 14.40749,
+    "longitude": -3.10006
+  },
+  "dty_Deva": {
+    "latitude": 29.242,
+    "longitude": 80.7252
+  },
+  "dua_Latn": {
+    "latitude": 4.10208,
+    "longitude": 9.61877
+  },
+  "dug_Latn": {
+    "latitude": -4.09629,
+    "longitude": 39.322
+  },
+  "dwr_Latn": {
+    "latitude": 6.95,
+    "longitude": 37.0
+  },
+  "dyi_Latn": {
+    "latitude": 8.36279,
+    "longitude": -4.45627
+  },
+  "dyo_Latn": {
+    "latitude": 12.75752,
+    "longitude": -15.7354766667
+  },
+  "dyu_Latn": {
+    "latitude": 10.4536,
+    "longitude": -4.72007
+  },
+  "dzg_Latn": {
+    "latitude": 15.7358,
+    "longitude": 15.8517
+  },
+  "dzo_Tibt": {
+    "latitude": 27.410786,
+    "longitude": 89.581604
+  },
+  "ebu_Latn": {
+    "latitude": -0.62822,
+    "longitude": 37.5933
+  },
+  "ego_Latn": {
+    "latitude": 8.71442,
+    "longitude": 8.45686
+  },
+  "eip_Latn": {
+    "latitude": -4.33691,
+    "longitude": 140.045
+  },
+  "eiv_Latn": {
+    "latitude": -6.22539,
+    "longitude": 155.307
+  },
+  "eka_Latn": {
+    "latitude": 6.45731,
+    "longitude": 8.55058
+  },
+  "ekk_Latn": {
+    "latitude": 58.55,
+    "longitude": 25.82
+  },
+  "eko_Latn": {
+    "latitude": -16.4823,
+    "longitude": 39.7602
+  },
+  "ekr_Latn": {
+    "latitude": 6.84259,
+    "longitude": 8.84077
+  },
+  "ell_Grek": {
+    "latitude": 38.36,
+    "longitude": 23.13
+  },
+  "ell_Grek_cypr1249": {
+    "latitude": 38.36,
+    "longitude": 23.13
+  },
+  "elm_Latn": {
+    "latitude": 4.72964,
+    "longitude": 7.267
+  },
+  "emp_Latn": {
+    "latitude": 7.12761,
+    "longitude": -77.574
+  },
+  "enb_Latn": {
+    "latitude": 1.15018,
+    "longitude": 35.5866
+  },
+  "eng_Latn": {
+    "latitude": 53.0,
+    "longitude": -1.0
+  },
+  "enx_Latn": {
+    "latitude": -23.427556,
+    "longitude": -57.945626
+  },
+  "epo_Latn": {
+    "latitude": 49.3273,
+    "longitude": 2.81045
+  },
+  "ese_Latn": {
+    "latitude": -11.7268,
+    "longitude": -67.515
+  },
+  "ess_Latn": {
+    "latitude": 63.4308,
+    "longitude": -170.272
+  },
+  "esu_Latn": {
+    "latitude": 60.3062,
+    "longitude": -161.486
+  },
+  "eto_Latn": {
+    "latitude": 4.21045,
+    "longitude": 11.3935
+  },
+  "ets_Latn": {
+    "latitude": 7.10204,
+    "longitude": 6.44919
+  },
+  "etu_Latn": {
+    "latitude": 5.54442,
+    "longitude": 8.90959
+  },
+  "eus_Latn": {
+    "latitude": 43.2787,
+    "longitude": -1.31622
+  },
+  "evn_Cyrl": {
+    "latitude": 61.972,
+    "longitude": 94.689
+  },
+  "ewe_Latn": {
+    "latitude": 6.46061,
+    "longitude": 0.814975
+  },
+  "ewo_Latn": {
+    "latitude": 4.21141,
+    "longitude": 11.93646
+  },
+  "eyo_Latn": {
+    "latitude": 0.510857,
+    "longitude": 35.226745
+  },
+  "fal_Latn": {
+    "latitude": 9.51408,
+    "longitude": 13.6164
+  },
+  "fan_Latn": {
+    "latitude": 1.723965,
+    "longitude": 11.61454
+  },
+  "fao_Latn": {
+    "latitude": 62.0732,
+    "longitude": -6.88497
+  },
+  "far_Latn": {
+    "latitude": -8.59041,
+    "longitude": 160.861
+  },
+  "fia_Latn": {
+    "latitude": 22.8142,
+    "longitude": 31.8376
+  },
+  "fij_Latn": {
+    "latitude": -18.0,
+    "longitude": 178.33
+  },
+  "fil_Latn": {
+    "latitude": 12.265,
+    "longitude": 123.464
+  },
+  "fin_Latn": {
+    "latitude": 64.7628,
+    "longitude": 25.5577
+  },
+  "fip_Latn": {
+    "latitude": -7.88963,
+    "longitude": 31.3442
+  },
+  "fkk_Latn": {
+    "latitude": 10.48,
+    "longitude": 13.36
+  },
+  "flr_Latn": {
+    "latitude": -3.04022,
+    "longitude": 28.9865
+  },
+  "fmp_Latn": {
+    "latitude": 5.18158,
+    "longitude": 10.1442
+  },
+  "fmu_Deva": {
+    "latitude": 20.1754,
+    "longitude": 80.4712
+  },
+  "fon_Latn": {
+    "latitude": 7.15484,
+    "longitude": 1.66495
+  },
+  "fra_Latn": {
+    "latitude": 48.0,
+    "longitude": 2.0
+  },
+  "frd_Latn": {
+    "latitude": -7.28902,
+    "longitude": 131.511
+  },
+  "fry_Latn": {
+    "latitude": 53.143,
+    "longitude": 5.86091
+  },
+  "fub_Latn": {
+    "latitude": 8.140326,
+    "longitude": 13.077338
+  },
+  "fuc_Latn": {
+    "latitude": 13.8694,
+    "longitude": -13.4482
+  },
+  "fue_Latn": {
+    "latitude": 9.801,
+    "longitude": 3.988
+  },
+  "fuq_Latn": {
+    "latitude": 15.0907,
+    "longitude": 8.43261
+  },
+  "fuv_Latn": {
+    "latitude": 10.9972,
+    "longitude": 11.1188
+  },
+  "gag_Cyrl": {
+    "latitude": 44.59876,
+    "longitude": 28.02769
+  },
+  "gag_Latn": {
+    "latitude": 44.59876,
+    "longitude": 28.02769
+  },
+  "gai_Latn": {
+    "latitude": -4.08697,
+    "longitude": 144.715
+  },
+  "gam_Latn": {
+    "latitude": -5.73674,
+    "longitude": 144.966
+  },
+  "gau_Telu": {
+    "latitude": 18.276,
+    "longitude": 83.378
+  },
+  "gbi_Latn": {
+    "latitude": 2.31461,
+    "longitude": 128.44
+  },
+  "gbk_Deva": {
+    "latitude": 32.36,
+    "longitude": 76.5713
+  },
+  "gbm_Deva": {
+    "latitude": 30.5061,
+    "longitude": 78.7201
+  },
+  "gbo_Latn": {
+    "latitude": 5.17103,
+    "longitude": -8.1409
+  },
+  "gbr_Latn": {
+    "latitude": 9.29842,
+    "longitude": 6.90495
+  },
+  "gby_Latn": {
+    "latitude": 8.46411,
+    "longitude": 7.10757
+  },
+  "gcc_Latn": {
+    "latitude": -4.71826,
+    "longitude": 152.214
+  },
+  "gde_Latn": {
+    "latitude": 10.2138,
+    "longitude": 13.403
+  },
+  "gdf_Latn": {
+    "latitude": 11.1057,
+    "longitude": 13.7893
+  },
+  "geb_Latn": {
+    "latitude": -4.25927,
+    "longitude": 144.711
+  },
+  "gej_Latn": {
+    "latitude": 6.25971,
+    "longitude": 1.67727
+  },
+  "ges_Latn": {
+    "latitude": -3.8016,
+    "longitude": 130.701
+  },
+  "ggg_Arab": {
+    "latitude": 25.737,
+    "longitude": 68.565
+  },
+  "gid_Latn": {
+    "latitude": 9.874715,
+    "longitude": 14.07845
+  },
+  "gig_Arab": {
+    "latitude": 27.253,
+    "longitude": 68.363
+  },
+  "gil_Latn": {
+    "latitude": 0.179,
+    "longitude": 173.64
+  },
+  "giz_Latn": {
+    "latitude": 10.2809,
+    "longitude": 14.1931
+  },
+  "gjk_Arab": {
+    "latitude": 24.2966,
+    "longitude": 69.1901
+  },
+  "gjn_Latn": {
+    "latitude": 8.48801,
+    "longitude": -0.72757
+  },
+  "gju_Arab": {
+    "latitude": 33.7,
+    "longitude": 75.11
+  },
+  "gkn_Latn": {
+    "latitude": 4.61889,
+    "longitude": 7.34457
+  },
+  "gld_Cyrl": {
+    "latitude": 48.43426,
+    "longitude": 134.79726
+  },
+  "gle_Latn": {
+    "latitude": 53.2186,
+    "longitude": -7.61509
   },
   "glg_Latn": {
-    "latitude": 42.9,
-    "longitude": -8.5
+    "latitude": 42.2446,
+    "longitude": -7.5343
+  },
+  "glk_Arab": {
+    "latitude": 37.1344,
+    "longitude": 49.8359
+  },
+  "glv_Latn": {
+    "latitude": 54.2604,
+    "longitude": -4.45437
+  },
+  "glw_Latn": {
+    "latitude": 11.1334,
+    "longitude": 13.8652
+  },
+  "gmv_Latn": {
+    "latitude": 6.27645,
+    "longitude": 37.23808
+  },
+  "gna_Latn": {
+    "latitude": 10.1675,
+    "longitude": -3.70994
+  },
+  "gnd_Latn": {
+    "latitude": 10.827,
+    "longitude": 14.0578
+  },
+  "gng_Latn": {
+    "latitude": 10.2523,
+    "longitude": 0.70509
+  },
+  "gof_Latn": {
+    "latitude": 6.57645,
+    "longitude": 37.05
+  },
+  "gog_Latn": {
+    "latitude": -6.35951,
+    "longitude": 35.4807
+  },
+  "gol_Latn": {
+    "latitude": 7.06193,
+    "longitude": -10.8138
+  },
+  "gom_Deva": {
+    "latitude": 15.2732,
+    "longitude": 74.2098
+  },
+  "gor_Latn": {
+    "latitude": 0.62689,
+    "longitude": 122.288
+  },
+  "gqr_Latn": {
+    "latitude": 8.0841,
+    "longitude": 17.0713
+  },
+  "grc_Grek": {
+    "latitude": 39.8155,
+    "longitude": 21.9129
+  },
+  "gri_Latn": {
+    "latitude": -9.4791,
+    "longitude": 159.917
+  },
+  "grt_Beng": {
+    "latitude": 25.2954,
+    "longitude": 90.462
+  },
+  "gsl_Latn": {
+    "latitude": 12.7761,
+    "longitude": -16.5026
+  },
+  "gso_Latn": {
+    "latitude": 4.70037,
+    "longitude": 14.9569
+  },
+  "gub_Latn": {
+    "latitude": -4.69461,
+    "longitude": -45.7081
+  },
+  "guc_Latn": {
+    "latitude": 11.395566,
+    "longitude": -72.199791
+  },
+  "gud_Latn": {
+    "latitude": 5.40126,
+    "longitude": -5.12242
+  },
+  "guh_Latn": {
+    "latitude": 5.81736,
+    "longitude": -68.9839
+  },
+  "gui_Latn": {
+    "latitude": -20.42,
+    "longitude": -63.37
+  },
+  "guj_Gujr": {
+    "latitude": 22.687,
+    "longitude": 71.0962
+  },
+  "guk_Ethi": {
+    "latitude": 11.05,
+    "longitude": 35.93
+  },
+  "gum_Latn": {
+    "latitude": 2.55849,
+    "longitude": -76.582
+  },
+  "guo_Latn": {
+    "latitude": 2.8969,
+    "longitude": -71.844
+  },
+  "guq_Latn": {
+    "latitude": -25.5865,
+    "longitude": -56.4697
+  },
+  "gur_Latn": {
+    "latitude": 11.0918,
+    "longitude": -0.81109
+  },
+  "guu_Latn": {
+    "latitude": 1.67967,
+    "longitude": -64.8781
+  },
+  "gux_Latn": {
+    "latitude": 11.6711,
+    "longitude": 1.28489
+  },
+  "guz_Latn": {
+    "latitude": -0.78872,
+    "longitude": 34.76751
+  },
+  "gvc_Latn": {
+    "latitude": 1.07554,
+    "longitude": -69.5705
+  },
+  "gvl_Latn": {
+    "latitude": 9.06629,
+    "longitude": 17.3151
+  },
+  "gwc_Arab": {
+    "latitude": 35.5303,
+    "longitude": 72.5738
+  },
+  "gwe_Latn": {
+    "latitude": -3.68407,
+    "longitude": 37.6827
+  },
+  "gwi_Latn": {
+    "latitude": 67.4307,
+    "longitude": -142.963
+  },
+  "gwr_Latn": {
+    "latitude": 1.11392,
+    "longitude": 33.8227
+  },
+  "gwt_Arab": {
+    "latitude": 35.1982,
+    "longitude": 71.5428
+  },
+  "gym_Latn": {
+    "latitude": 8.8251,
+    "longitude": -82.3911
+  },
+  "gyr_Latn": {
+    "latitude": -15.8247,
+    "longitude": -61.6934
+  },
+  "gyz_Latn": {
+    "latitude": 10.34776,
+    "longitude": 9.64965
+  },
+  "had_Latn": {
+    "latitude": -1.13531,
+    "longitude": 134.037
+  },
+  "hag_Latn": {
+    "latitude": 9.33929,
+    "longitude": -1.57833
+  },
+  "hah_Latn": {
+    "latitude": -5.59031,
+    "longitude": 154.801
+  },
+  "hak_Latn": {
+    "latitude": 25.0,
+    "longitude": 116.0
+  },
+  "hao_Latn": {
+    "latitude": -5.06832,
+    "longitude": 154.594
+  },
+  "hap_Latn": {
+    "latitude": -4.36349,
+    "longitude": 139.164
+  },
+  "hat_Latn": {
+    "latitude": 18.795135,
+    "longitude": -72.136115
+  },
+  "hau_Latn": {
+    "latitude": 11.1513,
+    "longitude": 8.7804
+  },
+  "haw_Latn": {
+    "latitude": 19.6297,
+    "longitude": -155.43
+  },
+  "hay_Latn": {
+    "latitude": -1.70878,
+    "longitude": 31.4846
+  },
+  "hbb_Latn": {
+    "latitude": 10.3544,
+    "longitude": 13.139
+  },
+  "hch_Latn": {
+    "latitude": 21.954,
+    "longitude": -104.062
+  },
+  "heb_Hebr": {
+    "latitude": 31.1056,
+    "longitude": 35.0179
+  },
+  "heh_Latn": {
+    "latitude": -7.71572,
+    "longitude": 35.7255
+  },
+  "her_Latn": {
+    "latitude": -21.0231,
+    "longitude": 20.5655
+  },
+  "hia_Latn": {
+    "latitude": 11.0243,
+    "longitude": 13.7362
+  },
+  "hif_Latn": {
+    "latitude": -17.8148,
+    "longitude": 177.772
+  },
+  "hig_Latn": {
+    "latitude": 10.646,
+    "longitude": 13.5136
+  },
+  "hil_Latn": {
+    "latitude": 10.4018,
+    "longitude": 122.974
+  },
+  "hin_Deva": {
+    "latitude": 25.0,
+    "longitude": 77.0
+  },
+  "hkk_Latn": {
+    "latitude": -8.92,
+    "longitude": 147.9
+  },
+  "hla_Latn": {
+    "latitude": -5.26603,
+    "longitude": 154.662
+  },
+  "hlb_Deva": {
+    "latitude": 20.3081,
+    "longitude": 81.3742
+  },
+  "hlt_Latn": {
+    "latitude": 23.312,
+    "longitude": 92.83
+  },
+  "hne_Deva": {
+    "latitude": 20.3601,
+    "longitude": 82.0483
+  },
+  "hnn_Latn": {
+    "latitude": 12.4159,
+    "longitude": 121.221
+  },
+  "hno_Arab": {
+    "latitude": 34.3202,
+    "longitude": 73.3844
+  },
+  "hns_Latn": {
+    "latitude": 5.722918,
+    "longitude": -55.333168
+  },
+  "hoc_Orya": {
+    "latitude": 23.9596,
+    "longitude": 87.1188
+  },
+  "hoy_Deva": {
+    "latitude": 21.5259,
+    "longitude": 79.9164
+  },
+  "hrv_Latn": {
+    "latitude": 45.555,
+    "longitude": 15.982
+  },
+  "hsb_Latn": {
+    "latitude": 51.2403,
+    "longitude": 14.4098
+  },
+  "hto_Latn": {
+    "latitude": -1.54535,
+    "longitude": -73.1107
+  },
+  "hub_Latn": {
+    "latitude": -3.99109,
+    "longitude": -77.9797
+  },
+  "hue_Latn": {
+    "latitude": 16.2836,
+    "longitude": -94.5738
+  },
+  "hui_Latn": {
+    "latitude": -5.97212,
+    "longitude": 142.963
+  },
+  "hul_Latn": {
+    "latitude": -9.99427,
+    "longitude": 147.705
+  },
+  "hun_Latn": {
+    "latitude": 46.9068585714,
+    "longitude": 19.6555271429
+  },
+  "hus_Latn": {
+    "latitude": 21.6153,
+    "longitude": -98.5028
+  },
+  "huu_Latn": {
+    "latitude": -1.13669,
+    "longitude": -73.8331
+  },
+  "huv_Latn": {
+    "latitude": 16.2129,
+    "longitude": -95.0077
+  },
+  "hux_Latn": {
+    "latitude": -2.34495,
+    "longitude": -70.9559
+  },
+  "hvn_Latn": {
+    "latitude": -10.5522,
+    "longitude": 121.847
+  },
+  "hwc_Latn": {
+    "latitude": 19.6287,
+    "longitude": -155.437
+  },
+  "hwo_Latn": {
+    "latitude": 10.3633,
+    "longitude": 12.7683
+  },
+  "hye_Armn": {
+    "latitude": 40.0,
+    "longitude": 45.0
+  },
+  "hyw_Armn": {
+    "latitude": 40.1897,
+    "longitude": 44.4839
+  },
+  "iba_Latn": {
+    "latitude": 2.09041,
+    "longitude": 112.934
+  },
+  "ibb_Latn": {
+    "latitude": 5.15279,
+    "longitude": 7.86688
+  },
+  "ibo_Latn": {
+    "latitude": 4.62705,
+    "longitude": 7.23441
+  },
+  "icr_Latn": {
+    "latitude": 12.55352,
+    "longitude": -81.70425
+  },
+  "ida_Latn": {
+    "latitude": 0.21557,
+    "longitude": 34.817
+  },
+  "idd_Latn": {
+    "latitude": 7.78428,
+    "longitude": 2.27039
+  },
+  "idu_Latn": {
+    "latitude": 7.19139,
+    "longitude": 7.71261
+  },
+  "ifa_Latn": {
+    "latitude": 16.9016,
+    "longitude": 121.042
+  },
+  "ifb_Latn": {
+    "latitude": 16.8266,
+    "longitude": 121.23
+  },
+  "ife_Latn": {
+    "latitude": 7.63568,
+    "longitude": 1.58494
+  },
+  "ifk_Latn": {
+    "latitude": 16.6646,
+    "longitude": 121.113
+  },
+  "ifu_Latn": {
+    "latitude": 16.9984,
+    "longitude": 121.29
+  },
+  "ify_Latn": {
+    "latitude": 16.7099,
+    "longitude": 121.035
+  },
+  "igl_Latn": {
+    "latitude": 7.34325,
+    "longitude": 7.17974
+  },
+  "ign_Latn": {
+    "latitude": -15.1188,
+    "longitude": -65.3993
+  },
+  "ijc_Latn": {
+    "latitude": 5.17986,
+    "longitude": 5.51702
+  },
+  "ijn_Latn": {
+    "latitude": 4.53194,
+    "longitude": 6.69539
+  },
+  "ikk_Latn": {
+    "latitude": 6.36423,
+    "longitude": 6.31058
+  },
+  "ikw_Latn": {
+    "latitude": 5.04333,
+    "longitude": 6.86651
+  },
+  "ilb_Latn": {
+    "latitude": -15.60807,
+    "longitude": 26.45548
+  },
+  "ilo_Latn": {
+    "latitude": 15.9361,
+    "longitude": 120.993
+  },
+  "imo_Latn": {
+    "latitude": -6.13629,
+    "longitude": 144.026
+  },
+  "ina_Latn": {
+    "latitude": 48.203,
+    "longitude": 2.615
+  },
+  "inb_Latn": {
+    "latitude": 1.00313,
+    "longitude": -76.8606
+  },
+  "ind_Latn": {
+    "latitude": -7.33458,
+    "longitude": 109.716
+  },
+  "iou_Latn": {
+    "latitude": -6.29221,
+    "longitude": 146.609
+  },
+  "ipi_Latn": {
+    "latitude": -5.42586,
+    "longitude": 143.089
+  },
+  "ipk_Latn": {
+    "latitude": 68.3217,
+    "longitude": -133.532
+  },
+  "iri_Latn": {
+    "latitude": 9.85197,
+    "longitude": 8.6525
+  },
+  "irk_Latn": {
+    "latitude": -4.19948,
+    "longitude": 35.2939
+  },
+  "ish_Latn": {
+    "latitude": 6.25685,
+    "longitude": 6.33917
+  },
+  "isl_Latn": {
+    "latitude": 63.4837,
+    "longitude": -19.0212
+  },
+  "iso_Latn": {
+    "latitude": 5.52889,
+    "longitude": 6.24682
+  },
+  "ita_Latn": {
+    "latitude": 43.0464,
+    "longitude": 12.6489
+  },
+  "itl_Cyrl": {
+    "latitude": 56.046173,
+    "longitude": 156.30704
+  },
+  "its_Latn": {
+    "latitude": 5.81898,
+    "longitude": 5.5862
+  },
+  "itv_Latn": {
+    "latitude": 17.7329,
+    "longitude": 121.58
+  },
+  "itw_Latn": {
+    "latitude": 5.14438,
+    "longitude": 8.04626
+  },
+  "itz_Latn": {
+    "latitude": 17.0269,
+    "longitude": -89.8734
+  },
+  "ixl_Latn": {
+    "latitude": 15.4569,
+    "longitude": -90.8935
+  },
+  "izr_Latn": {
+    "latitude": 9.5,
+    "longitude": 8.7
+  },
+  "izz_Latn": {
+    "latitude": 6.33,
+    "longitude": 8.0
+  },
+  "jac_Latn": {
+    "latitude": 15.6609,
+    "longitude": -91.6633
+  },
+  "jal_Latn": {
+    "latitude": -3.3619,
+    "longitude": 129.315
+  },
+  "jam_Latn": {
+    "latitude": 18.13,
+    "longitude": -77.2612
+  },
+  "jav_Latn": {
+    "latitude": -7.001,
+    "longitude": 109.287
+  },
+  "jax_Latn": {
+    "latitude": -2.6469,
+    "longitude": 103.13
+  },
+  "jbu_Latn": {
+    "latitude": 7.20236,
+    "longitude": 10.2576
+  },
+  "jen_Latn": {
+    "latitude": 9.26671,
+    "longitude": 11.3884
+  },
+  "jic_Latn": {
+    "latitude": 14.6686,
+    "longitude": -87.0372
+  },
+  "jiv_Latn": {
+    "latitude": -3.45136,
+    "longitude": -78.1892
+  },
+  "jmc_Latn": {
+    "latitude": -3.29385,
+    "longitude": 37.0703
+  },
+  "jmd_Latn": {
+    "latitude": -7.73722,
+    "longitude": 131.44
+  },
+  "jmx_Latn": {
+    "latitude": 17.3003,
+    "longitude": -98.2096
+  },
+  "jpn_Jpan": {
+    "latitude": 35.0,
+    "longitude": 135.0
+  },
+  "jqr_Latn": {
+    "latitude": -12.741939,
+    "longitude": -75.809231
+  },
+  "juk_Latn": {
+    "latitude": 7.97862,
+    "longitude": 9.83299
+  },
+  "jun_Orya": {
+    "latitude": 21.2606,
+    "longitude": 85.5845
+  },
+  "juo_Latn": {
+    "latitude": 9.26508,
+    "longitude": 11.5099
+  },
+  "juy_Orya": {
+    "latitude": 19.091,
+    "longitude": 84.1204
+  },
+  "jvn_Latn": {
+    "latitude": 5.62695,
+    "longitude": -54.6305
+  },
+  "kaa_Cyrl": {
+    "latitude": 39.98005,
+    "longitude": 63.32233
+  },
+  "kab_Latn": {
+    "latitude": 36.4103,
+    "longitude": 4.76137
+  },
+  "kac_Latn": {
+    "latitude": 25.4634,
+    "longitude": 97.3278
+  },
+  "kai_Latn": {
+    "latitude": 12.5176,
+    "longitude": 10.8732
+  },
+  "kaj_Latn": {
+    "latitude": 9.83116,
+    "longitude": 7.97167
+  },
+  "kak_Latn": {
+    "latitude": 16.321,
+    "longitude": 120.90003
+  },
+  "kam_Latn": {
+    "latitude": -1.60827,
+    "longitude": 37.9532
+  },
+  "kan_Knda": {
+    "latitude": 13.5878,
+    "longitude": 76.1198
+  },
+  "kao_Latn": {
+    "latitude": 14.1,
+    "longitude": -10.95
+  },
+  "kaq_Latn": {
+    "latitude": -6.63254,
+    "longitude": -74.3813
+  },
+  "kas_Arab": {
+    "latitude": 34.166825,
+    "longitude": 74.330455
+  },
+  "kat_Geor": {
+    "latitude": 41.850397,
+    "longitude": 43.78613
+  },
+  "kay_Latn": {
+    "latitude": -12.2661,
+    "longitude": -53.4651
+  },
+  "kaz_Cyrl": {
+    "latitude": 51.17,
+    "longitude": 71.454
+  },
+  "kbd_Cyrl": {
+    "latitude": 43.5082,
+    "longitude": 43.3918
+  },
+  "kbl_Latn": {
+    "latitude": 13.8749,
+    "longitude": 14.8437
+  },
+  "kbo_Latn": {
+    "latitude": 3.56039,
+    "longitude": 30.556
+  },
+  "kbp_Latn": {
+    "latitude": 8.96816,
+    "longitude": 0.495023
+  },
+  "kbq_Latn": {
+    "latitude": -6.25829,
+    "longitude": 145.728
+  },
+  "kbr_Latn": {
+    "latitude": 7.34022,
+    "longitude": 36.1718
+  },
+  "kbt_Latn": {
+    "latitude": -9.03389,
+    "longitude": 146.992
+  },
+  "kby_Latn": {
+    "latitude": 13.557,
+    "longitude": 10.701
+  },
+  "kca_Cyrl": {
+    "latitude": 62.4308,
+    "longitude": 66.1218
+  },
+  "kcg_Latn": {
+    "latitude": 9.75568,
+    "longitude": 8.3082
+  },
+  "kcn_Latn": {
+    "latitude": -0.183215,
+    "longitude": 34.7552
+  },
+  "kcq_Latn": {
+    "latitude": 10.0602,
+    "longitude": 11.2712
+  },
+  "kdc_Latn": {
+    "latitude": -7.23789,
+    "longitude": 37.8623
+  },
+  "kde_Latn": {
+    "latitude": -10.9906,
+    "longitude": 39.5133
+  },
+  "kdh_Latn": {
+    "latitude": 8.967,
+    "longitude": 1.136
+  },
+  "kdi_Latn": {
+    "latitude": 1.74748,
+    "longitude": 33.2116
+  },
+  "kdj_Latn": {
+    "latitude": 2.45157,
+    "longitude": 34.2761
+  },
+  "kdl_Latn": {
+    "latitude": 9.60496,
+    "longitude": 4.88739
+  },
+  "kdn_Latn": {
+    "latitude": -15.7337,
+    "longitude": 30.2804
+  },
+  "kdt_Khmr": {
+    "latitude": 14.6698,
+    "longitude": 104.911
+  },
+  "kea_Latn": {
+    "latitude": 15.0586,
+    "longitude": -23.6148
+  },
+  "kek_Latn": {
+    "latitude": 15.3788,
+    "longitude": -89.2452
+  },
+  "ken_Latn": {
+    "latitude": 5.58288,
+    "longitude": 9.55918
+  },
+  "keo_Latn": {
+    "latitude": 3.65233,
+    "longitude": 30.7762
+  },
+  "ker_Latn": {
+    "latitude": 9.88165,
+    "longitude": 15.1419
+  },
+  "keu_Latn": {
+    "latitude": 7.78365,
+    "longitude": 0.77668
+  },
+  "key_Telu": {
+    "latitude": 16.4708,
+    "longitude": 79.5153
+  },
+  "kez_Latn": {
+    "latitude": 6.70286,
+    "longitude": 8.39343
+  },
+  "kfb_Deva": {
+    "latitude": 20.1022,
+    "longitude": 78.4934
+  },
+  "kff_Telu": {
+    "latitude": 17.6772,
+    "longitude": 81.2096
+  },
+  "kfk_Deva": {
+    "latitude": 31.3688,
+    "longitude": 78.3148
+  },
+  "kfq_Deva": {
+    "latitude": 21.8358,
+    "longitude": 77.5541
+  },
+  "kfr_Gujr": {
+    "latitude": 23.83,
+    "longitude": 69.0
+  },
+  "kfw_Latn": {
+    "latitude": 25.2738,
+    "longitude": 94.0503
+  },
+  "kfx_Deva": {
+    "latitude": 31.8339,
+    "longitude": 77.3772
+  },
+  "kha_Latn": {
+    "latitude": 24.977,
+    "longitude": 91.9998
+  },
+  "khg_Tibt": {
+    "latitude": 31.9313,
+    "longitude": 91.7062
+  },
+  "khm_Khmr": {
+    "latitude": 12.0515,
+    "longitude": 105.015
+  },
+  "khq_Latn": {
+    "latitude": 16.192,
+    "longitude": -3.73962
+  },
+  "khw_Arab": {
+    "latitude": 36.0,
+    "longitude": 72.0
+  },
+  "kia_Latn": {
+    "latitude": 9.79442,
+    "longitude": 15.8936
+  },
+  "kij_Latn": {
+    "latitude": -8.72574,
+    "longitude": 151.072
+  },
+  "kik_Latn": {
+    "latitude": -0.29005,
+    "longitude": 36.719
+  },
+  "kin_Latn": {
+    "latitude": -1.56771,
+    "longitude": 29.6441
+  },
+  "kir_Cyrl": {
+    "latitude": 42.0,
+    "longitude": 74.0
+  },
+  "kjb_Latn": {
+    "latitude": 15.6846,
+    "longitude": -91.3043
+  },
+  "kjc_Latn": {
+    "latitude": -5.41532,
+    "longitude": 120.304
+  },
+  "kje_Latn": {
+    "latitude": -8.05122,
+    "longitude": 127.18
+  },
+  "kjg_Latn": {
+    "latitude": 20.2463,
+    "longitude": 101.671
+  },
+  "kjh_Cyrl": {
+    "latitude": 52.66002,
+    "longitude": 89.67409
+  },
+  "kjk_Latn": {
+    "latitude": -5.26559,
+    "longitude": 119.928
+  },
+  "kki_Latn": {
+    "latitude": -6.38204,
+    "longitude": 37.0534
+  },
+  "kkj_Latn": {
+    "latitude": 3.79989,
+    "longitude": 15.6282
+  },
+  "kle_Deva": {
+    "latitude": 27.1606,
+    "longitude": 87.5717
+  },
+  "kln_Latn": {
+    "latitude": -0.02158,
+    "longitude": 35.92363
+  },
+  "kls_Latn": {
+    "latitude": 35.6415,
+    "longitude": 71.6657
+  },
+  "klu_Latn": {
+    "latitude": 5.05,
+    "longitude": -8.85
+  },
+  "klv_Latn": {
+    "latitude": -16.5073,
+    "longitude": 167.818
+  },
+  "klw_Latn": {
+    "latitude": -1.35748,
+    "longitude": 120.063
+  },
+  "kma_Latn": {
+    "latitude": 10.2368,
+    "longitude": -1.54376
+  },
+  "kmd_Latn": {
+    "latitude": 17.1794,
+    "longitude": 121.236
+  },
+  "kml_Latn": {
+    "latitude": 17.3441,
+    "longitude": 121.311
+  },
+  "kmr_Arab": {
+    "latitude": 37.0,
+    "longitude": 43.0
+  },
+  "kmr_Cyrl": {
+    "latitude": 37.0,
+    "longitude": 43.0
+  },
+  "kmr_Latn": {
+    "latitude": 37.0,
+    "longitude": 43.0
+  },
+  "kmu_Latn": {
+    "latitude": -6.38841,
+    "longitude": 145.556
+  },
+  "kmy_Latn": {
+    "latitude": 8.70976,
+    "longitude": 12.7282
+  },
+  "kna_Latn": {
+    "latitude": 10.072,
+    "longitude": 12.0256
+  },
+  "knb_Latn": {
+    "latitude": 17.3879,
+    "longitude": 121.0365
+  },
+  "knc_Latn": {
+    "latitude": 11.8,
+    "longitude": 13.13
+  },
+  "kne_Latn": {
+    "latitude": 16.8548,
+    "longitude": 120.689
+  },
+  "knf_Latn": {
+    "latitude": 12.2615066667,
+    "longitude": -15.74389
+  },
+  "knj_Latn": {
+    "latitude": 15.5932,
+    "longitude": -91.8421
+  },
+  "knk_Latn": {
+    "latitude": 9.49325,
+    "longitude": -10.6122
+  },
+  "knn_Deva": {
+    "latitude": 18.404,
+    "longitude": 73.994
+  },
+  "kno_Latn": {
+    "latitude": 8.67039,
+    "longitude": -10.9214
+  },
+  "kog_Latn": {
+    "latitude": 10.9485,
+    "longitude": -73.8043
+  },
+  "kol_Latn": {
+    "latitude": -5.21042,
+    "longitude": 151.583
+  },
+  "koo_Latn": {
+    "latitude": 0.32395,
+    "longitude": 29.8696
+  },
+  "kor_Hang": {
+    "latitude": 37.54,
+    "longitude": 126.98
+  },
+  "kpo_Latn": {
+    "latitude": 7.44776,
+    "longitude": 0.83312
+  },
+  "kpq_Latn": {
+    "latitude": -4.53497,
+    "longitude": 139.678
+  },
+  "kps_Latn": {
+    "latitude": -1.51049,
+    "longitude": 131.985
+  },
+  "kpv_Cyrl": {
+    "latitude": 64.0527,
+    "longitude": 54.946
+  },
+  "kpy_Cyrl": {
+    "latitude": 63.8977,
+    "longitude": 166.695
+  },
+  "kpz_Latn": {
+    "latitude": 1.33197,
+    "longitude": 34.5991
+  },
+  "kqe_Latn": {
+    "latitude": 6.8126,
+    "longitude": 125.328
+  },
+  "kqo_Latn": {
+    "latitude": 5.83555,
+    "longitude": -7.85454
+  },
+  "kqp_Latn": {
+    "latitude": 9.42071,
+    "longitude": 16.9423
+  },
+  "kqr_Latn": {
+    "latitude": 6.61982,
+    "longitude": 116.96
+  },
+  "kqy_Ethi": {
+    "latitude": 5.80545,
+    "longitude": 37.8679
+  },
+  "krc_Cyrl": {
+    "latitude": 43.565,
+    "longitude": 42.2606
+  },
+  "kri_Latn": {
+    "latitude": 10.8811,
+    "longitude": -14.3204
+  },
+  "krj_Latn": {
+    "latitude": 10.8131,
+    "longitude": 122.297
+  },
+  "krl_Latn": {
+    "latitude": 65.1691,
+    "longitude": 30.8655
+  },
+  "krr_Khmr": {
+    "latitude": 13.5699,
+    "longitude": 106.761
+  },
+  "krs_Latn": {
+    "latitude": 8.43391,
+    "longitude": 25.0
+  },
+  "kru_Deva": {
+    "latitude": 24.46442,
+    "longitude": 86.46568
+  },
+  "krx_Latn": {
+    "latitude": 12.9918,
+    "longitude": -16.7382
+  },
+  "ksb_Latn": {
+    "latitude": -4.8,
+    "longitude": 38.29
+  },
+  "ksd_Latn": {
+    "latitude": -4.30986,
+    "longitude": 152.114
+  },
+  "ksf_Latn": {
+    "latitude": 4.72603,
+    "longitude": 11.0982
+  },
+  "ksr_Latn": {
+    "latitude": -6.56688,
+    "longitude": 147.511
+  },
+  "kss_Latn": {
+    "latitude": 8.32448,
+    "longitude": -10.3377
+  },
+  "ksz_Deva": {
+    "latitude": 23.5757,
+    "longitude": 83.8454
+  },
+  "ktb_Ethi": {
+    "latitude": 7.37582,
+    "longitude": 37.9088
+  },
+  "ktj_Latn": {
+    "latitude": 4.56109,
+    "longitude": -7.30644
+  },
+  "kto_Latn": {
+    "latitude": -3.06952,
+    "longitude": 151.537
+  },
+  "kua_Latn": {
+    "latitude": -17.7176,
+    "longitude": 16.58
+  },
+  "kub_Latn": {
+    "latitude": 7.07479,
+    "longitude": 10.0916
+  },
+  "kue_Latn": {
+    "latitude": -5.90586,
+    "longitude": 144.977
+  },
+  "kuh_Latn": {
+    "latitude": 9.40731,
+    "longitude": 10.9396
+  },
+  "kum_Cyrl": {
+    "latitude": 43.0,
+    "longitude": 47.0
+  },
+  "kus_Latn": {
+    "latitude": 10.9703,
+    "longitude": -0.38756
+  },
+  "kvn_Latn": {
+    "latitude": 7.92993,
+    "longitude": -77.1664
+  },
+  "kvw_Latn": {
+    "latitude": -8.33936,
+    "longitude": 124.932
+  },
+  "kvx_Arab": {
+    "latitude": 24.486,
+    "longitude": 69.9423
+  },
+  "kwd_Latn": {
+    "latitude": -8.93744,
+    "longitude": 160.965
+  },
+  "kwf_Latn": {
+    "latitude": -8.75779,
+    "longitude": 160.804
+  },
+  "kwi_Latn": {
+    "latitude": 1.21652,
+    "longitude": -78.3401
+  },
+  "kwm_Latn": {
+    "latitude": -18.0339,
+    "longitude": 15.7294
+  },
+  "kxc_Ethi": {
+    "latitude": 5.39111,
+    "longitude": 37.53
+  },
+  "kxf_Latn": {
+    "latitude": 19.165,
+    "longitude": 96.9531
+  },
+  "kxm_Thai": {
+    "latitude": 14.4674,
+    "longitude": 103.863
+  },
+  "kxp_Arab": {
+    "latitude": 26.0713,
+    "longitude": 72.1312
+  },
+  "kxv_Orya": {
+    "latitude": 18.8832,
+    "longitude": 83.7552
+  },
+  "kyb_Latn": {
+    "latitude": 17.2239,
+    "longitude": 121.091
+  },
+  "kyc_Latn": {
+    "latitude": -5.52462,
+    "longitude": 144.119
+  },
+  "kyf_Latn": {
+    "latitude": 7.27375,
+    "longitude": -6.5685
+  },
+  "kyg_Latn": {
+    "latitude": -6.47599,
+    "longitude": 145.464
+  },
+  "kyo_Latn": {
+    "latitude": -8.40688,
+    "longitude": 124.429
+  },
+  "kyq_Latn": {
+    "latitude": 11.6816,
+    "longitude": 18.1464
+  },
+  "kyu_Kali": {
+    "latitude": 18.687,
+    "longitude": 97.4877
+  },
+  "kyx_Latn": {
+    "latitude": -5.78724,
+    "longitude": 154.834
+  },
+  "kyz_Latn": {
+    "latitude": -11.2747,
+    "longitude": -55.5479
+  },
+  "kzf_Latn": {
+    "latitude": -1.21051,
+    "longitude": 119.527
+  },
+  "kzi_Latn": {
+    "latitude": 3.31783,
+    "longitude": 115.428
+  },
+  "lac_Latn": {
+    "latitude": 17.02093,
+    "longitude": -91.42348
+  },
+  "lag_Latn": {
+    "latitude": -4.71413,
+    "longitude": 35.9517
+  },
+  "laj_Latn": {
+    "latitude": 2.13867,
+    "longitude": 33.0553
+  },
+  "lam_Latn": {
+    "latitude": -12.3366,
+    "longitude": 27.9026
+  },
+  "lao_Laoo": {
+    "latitude": 19.0,
+    "longitude": 102.46
+  },
+  "las_Latn": {
+    "latitude": 8.66954,
+    "longitude": 0.833293
+  },
+  "lat_Latn": {
+    "latitude": 41.9026,
+    "longitude": 12.4502
+  },
+  "lav_Latn": {
+    "latitude": 56.826108,
+    "longitude": 24.309118
+  },
+  "law_Latn": {
+    "latitude": 0.50708,
+    "longitude": 120.262
+  },
+  "lbj_Tibt": {
+    "latitude": 34.14649,
+    "longitude": 77.56261
+  },
+  "lbw_Latn": {
+    "latitude": -4.03577,
+    "longitude": 121.888
+  },
+  "lcm_Latn": {
+    "latitude": -2.52188,
+    "longitude": 150.198
+  },
+  "lcp_Thai": {
+    "latitude": 19.8678,
+    "longitude": 99.2057
+  },
+  "ldb_Latn": {
+    "latitude": 9.12585,
+    "longitude": 7.77525
+  },
+  "led_Latn": {
+    "latitude": 2.1898,
+    "longitude": 30.6794
+  },
+  "lee_Latn": {
+    "latitude": 12.4305,
+    "longitude": -2.59229
+  },
+  "lef_Latn": {
+    "latitude": 7.34549,
+    "longitude": 0.50746
+  },
+  "lem_Latn": {
+    "latitude": 4.5893,
+    "longitude": 10.9157
+  },
+  "lew_Latn": {
+    "latitude": -1.03033,
+    "longitude": 120.132
+  },
+  "lex_Latn": {
+    "latitude": -8.18378,
+    "longitude": 127.944
+  },
+  "lgg_Latn": {
+    "latitude": 3.02245,
+    "longitude": 30.8642
+  },
+  "lgl_Latn": {
+    "latitude": -8.81936,
+    "longitude": 160.741
+  },
+  "lhu_Latn": {
+    "latitude": 21.2701,
+    "longitude": 100.214
+  },
+  "lia_Latn": {
+    "latitude": 9.52392,
+    "longitude": -12.3138
+  },
+  "lid_Latn": {
+    "latitude": -2.1143,
+    "longitude": 146.627
+  },
+  "lif_Deva": {
+    "latitude": 27.2703,
+    "longitude": 87.8859
+  },
+  "lij_Latn": {
+    "latitude": 44.0816,
+    "longitude": 7.90522
+  },
+  "lin_Latn": {
+    "latitude": -4.409174,
+    "longitude": 15.28532
+  },
+  "lip_Latn": {
+    "latitude": 7.16751,
+    "longitude": 0.5886
+  },
+  "lir_Latn": {
+    "latitude": 6.423,
+    "longitude": -10.5284
+  },
+  "lis_Lisu": {
+    "latitude": 26.91,
+    "longitude": 98.94
+  },
+  "lit_Latn": {
+    "latitude": 55.1429,
+    "longitude": 23.9601
+  },
+  "lje_Latn": {
+    "latitude": -2.1399,
+    "longitude": 120.356
+  },
+  "ljp_Latn": {
+    "latitude": -5.73463,
+    "longitude": 105.037
+  },
+  "lkb_Latn": {
+    "latitude": 0.29,
+    "longitude": 34.83
+  },
+  "lke_Latn": {
+    "latitude": 1.1513,
+    "longitude": 33.4791
+  },
+  "lla_Latn": {
+    "latitude": 9.89429,
+    "longitude": 12.169
+  },
+  "llg_Latn": {
+    "latitude": -10.8069,
+    "longitude": 123.085
+  },
+  "lln_Latn": {
+    "latitude": 9.158,
+    "longitude": 15.81149
+  },
+  "lme_Latn": {
+    "latitude": 9.16111,
+    "longitude": 14.441
+  },
+  "lnd_Latn": {
+    "latitude": 4.25064,
+    "longitude": 115.5
+  },
+  "lns_Latn": {
+    "latitude": 6.39743,
+    "longitude": 11.0684
+  },
+  "lnu_Latn": {
+    "latitude": 9.75787,
+    "longitude": 11.8378
+  },
+  "loa_Latn": {
+    "latitude": 1.95461,
+    "longitude": 127.772
+  },
+  "lob_Latn": {
+    "latitude": 9.96122,
+    "longitude": -3.336
+  },
+  "lok_Latn": {
+    "latitude": 9.11838,
+    "longitude": -12.1583
+  },
+  "lom_Latn": {
+    "latitude": 7.91585,
+    "longitude": -9.69906
+  },
+  "lon_Latn": {
+    "latitude": -15.56729,
+    "longitude": 35.43347
+  },
+  "loq_Latn": {
+    "latitude": 2.04881,
+    "longitude": 18.3667
+  },
+  "lrk_Arab": {
+    "latitude": 26.095,
+    "longitude": 68.715
+  },
+  "lsi_Latn": {
+    "latitude": 26.0992,
+    "longitude": 98.5481
+  },
+  "lsm_Latn": {
+    "latitude": 0.3652,
+    "longitude": 34.0335
+  },
+  "lss_Arab": {
+    "latitude": 25.3293,
+    "longitude": 66.9137
+  },
+  "lth_Latn": {
+    "latitude": 2.699942,
+    "longitude": 33.657947
+  },
+  "lto_Latn": {
+    "latitude": 0.2975,
+    "longitude": 34.6961
+  },
+  "ltz_Latn": {
+    "latitude": 49.6839,
+    "longitude": 6.14931
+  },
+  "lua_Latn": {
+    "latitude": -5.72717,
+    "longitude": 22.4422
+  },
+  "luc_Latn": {
+    "latitude": 3.56143,
+    "longitude": 31.3071
+  },
+  "lug_Latn": {
+    "latitude": 0.66884,
+    "longitude": 32.15153
+  },
+  "luo_Latn": {
+    "latitude": -0.93296,
+    "longitude": 34.4896
+  },
+  "lus_Latn": {
+    "latitude": 22.6138,
+    "longitude": 92.6247
+  },
+  "lwg_Latn": {
+    "latitude": 0.343,
+    "longitude": 34.477
+  },
+  "lwo_Latn": {
+    "latitude": 7.35089,
+    "longitude": 28.1378
+  },
+  "lww_Latn": {
+    "latitude": -16.7612,
+    "longitude": 168.334
+  },
+  "lzz_Latn": {
+    "latitude": 41.5004,
+    "longitude": 41.9096
+  },
+  "maa_Latn": {
+    "latitude": 18.1999,
+    "longitude": -96.8833
+  },
+  "mab_Latn": {
+    "latitude": 17.0311,
+    "longitude": -97.2293
+  },
+  "mad_Latn": {
+    "latitude": -7.0,
+    "longitude": 113.0
+  },
+  "maf_Latn": {
+    "latitude": 10.943,
+    "longitude": 13.8181
+  },
+  "mag_Deva": {
+    "latitude": 25.0915,
+    "longitude": 85.3335
+  },
+  "mah_Latn": {
+    "latitude": 8.72,
+    "longitude": 167.73
+  },
+  "mai_Deva": {
+    "latitude": 26.3817,
+    "longitude": 86.2211
+  },
+  "maj_Latn": {
+    "latitude": 18.0803,
+    "longitude": -96.4977
+  },
+  "mak_Latn": {
+    "latitude": -5.65551,
+    "longitude": 119.838
+  },
+  "mal_Mlym": {
+    "latitude": 9.59208,
+    "longitude": 76.7651
+  },
+  "mam_Latn": {
+    "latitude": 14.8034,
+    "longitude": -91.7231
+  },
+  "maq_Latn": {
+    "latitude": 18.0541,
+    "longitude": -96.6659
+  },
+  "mar_Deva": {
+    "latitude": 17.9344,
+    "longitude": 76.6665
+  },
+  "mau_Latn": {
+    "latitude": 18.2556,
+    "longitude": -96.724
+  },
+  "maw_Latn": {
+    "latitude": 10.3884,
+    "longitude": -0.74675
+  },
+  "max_Latn": {
+    "latitude": -0.86437,
+    "longitude": 128.323
+  },
+  "maz_Latn": {
+    "latitude": 19.7357,
+    "longitude": -100.018
+  },
+  "mbb_Latn": {
+    "latitude": 7.6682,
+    "longitude": 124.825
+  },
+  "mbc_Latn": {
+    "latitude": 4.31861,
+    "longitude": -60.2209
+  },
+  "mbh_Latn": {
+    "latitude": -5.89752,
+    "longitude": 150.68
+  },
+  "mbj_Latn": {
+    "latitude": -1.24449,
+    "longitude": -66.3068
+  },
+  "mbt_Latn": {
+    "latitude": 7.72124,
+    "longitude": 125.16
+  },
+  "mbu_Latn": {
+    "latitude": 9.60769,
+    "longitude": 12.2439
+  },
+  "mbz_Latn": {
+    "latitude": 16.6521,
+    "longitude": -97.4518
+  },
+  "mca_Latn": {
+    "latitude": -25.0119,
+    "longitude": -57.3694
+  },
+  "mcb_Latn": {
+    "latitude": -12.1291,
+    "longitude": -72.5017
+  },
+  "mcd_Latn": {
+    "latitude": -9.8626,
+    "longitude": -71.1232
+  },
+  "mcf_Latn": {
+    "latitude": -5.73914,
+    "longitude": -72.6281
+  },
+  "mco_Latn": {
+    "latitude": 16.9404,
+    "longitude": -95.4659
+  },
+  "mcp_Latn": {
+    "latitude": 4.15471,
+    "longitude": 13.0789
+  },
+  "mcq_Latn": {
+    "latitude": -9.09451,
+    "longitude": 148.376
+  },
+  "mcu_Latn": {
+    "latitude": 6.43829,
+    "longitude": 11.41953
+  },
+  "mcx_Latn": {
+    "latitude": 3.45776,
+    "longitude": 15.5246
+  },
+  "mda_Latn": {
+    "latitude": 9.02294,
+    "longitude": 8.34119
+  },
+  "mdd_Latn": {
+    "latitude": 7.5789,
+    "longitude": 14.2722
+  },
+  "mdf_Cyrl": {
+    "latitude": 54.1855,
+    "longitude": 42.6728
+  },
+  "mdv_Latn": {
+    "latitude": 16.9969,
+    "longitude": -97.6277
+  },
+  "mdy_Ethi": {
+    "latitude": 5.91975,
+    "longitude": 36.9892
+  },
+  "med_Latn": {
+    "latitude": -5.62644,
+    "longitude": 144.34
+  },
+  "mee_Latn": {
+    "latitude": -5.47036,
+    "longitude": 151.373
+  },
+  "meh_Latn": {
+    "latitude": 16.9887,
+    "longitude": -97.7974
+  },
+  "mej_Latn": {
+    "latitude": -1.18016,
+    "longitude": 133.618
+  },
+  "mek_Latn": {
+    "latitude": -8.23853,
+    "longitude": 146.586
+  },
+  "mel_Latn": {
+    "latitude": 2.524086,
+    "longitude": 111.346451
+  },
+  "men_Latn": {
+    "latitude": 7.90935,
+    "longitude": -10.9926
+  },
+  "meq_Latn": {
+    "latitude": 10.7458,
+    "longitude": 14.09
+  },
+  "mer_Latn": {
+    "latitude": 0.26484,
+    "longitude": 37.7396
+  },
+  "met_Latn": {
+    "latitude": -5.91639,
+    "longitude": 146.859
+  },
+  "meu_Latn": {
+    "latitude": -9.67492,
+    "longitude": 147.424
+  },
+  "mev_Latn": {
+    "latitude": 7.04616,
+    "longitude": -8.86405
+  },
+  "mfe_Latn": {
+    "latitude": -20.2613,
+    "longitude": 57.5517
+  },
+  "mfh_Latn": {
+    "latitude": 10.9284,
+    "longitude": 14.0474
+  },
+  "mfi_Latn": {
+    "latitude": 11.3169,
+    "longitude": 13.8996
+  },
+  "mfk_Latn": {
+    "latitude": 10.6834,
+    "longitude": 14.1117
+  },
+  "mfm_Latn": {
+    "latitude": 10.53854,
+    "longitude": 12.99521
+  },
+  "mfn_Latn": {
+    "latitude": 6.16926,
+    "longitude": 8.23592
+  },
+  "mfo_Latn": {
+    "latitude": 6.57067,
+    "longitude": 8.82998
+  },
+  "mfq_Latn": {
+    "latitude": 10.9496,
+    "longitude": 0.159565
+  },
+  "mfv_Latn": {
+    "latitude": 12.829,
+    "longitude": -15.9217
+  },
+  "mfy_Latn": {
+    "latitude": 26.4522,
+    "longitude": -108.981
+  },
+  "mfz_Latn": {
+    "latitude": 9.81455,
+    "longitude": 33.5404
+  },
+  "mgd_Latn": {
+    "latitude": 5.1232,
+    "longitude": 30.3287
+  },
+  "mge_Latn": {
+    "latitude": 8.75884,
+    "longitude": 16.9082
+  },
+  "mgg_Latn": {
+    "latitude": 3.14015,
+    "longitude": 14.866
+  },
+  "mgh_Latn": {
+    "latitude": -11.9553,
+    "longitude": 38.6874
+  },
+  "mgi_Latn": {
+    "latitude": 8.52193,
+    "longitude": 8.35562
+  },
+  "mgo_Latn": {
+    "latitude": 5.88942,
+    "longitude": 9.87416
+  },
+  "mhi_Latn": {
+    "latitude": 3.62499,
+    "longitude": 31.8471
+  },
+  "mhk_Latn": {
+    "latitude": 5.89752,
+    "longitude": 10.0294
+  },
+  "mhr_Cyrl": {
+    "latitude": 55.8307,
+    "longitude": 48.405
+  },
+  "mhu_Latn": {
+    "latitude": 28.4993,
+    "longitude": 96.8803
+  },
+  "mhx_Latn": {
+    "latitude": 24.942535,
+    "longitude": 99.8338
+  },
+  "mhy_Latn": {
+    "latitude": -2.1239,
+    "longitude": 115.092
+  },
+  "mib_Latn": {
+    "latitude": 17.07133,
+    "longitude": -97.67753
+  },
+  "mie_Latn": {
+    "latitude": 17.144191,
+    "longitude": -97.763219
+  },
+  "mif_Latn": {
+    "latitude": 10.567,
+    "longitude": 14.0314
+  },
+  "mig_Latn": {
+    "latitude": 17.046881,
+    "longitude": -97.622482
+  },
+  "mih_Latn": {
+    "latitude": 16.42,
+    "longitude": -97.83
+  },
+  "mil_Latn": {
+    "latitude": 17.0671,
+    "longitude": -97.0101
+  },
+  "mim_Latn": {
+    "latitude": 17.25,
+    "longitude": -98.58
+  },
+  "min_Latn": {
+    "latitude": -0.896,
+    "longitude": 100.44
+  },
+  "mio_Latn": {
+    "latitude": 16.3043,
+    "longitude": -97.9966
+  },
+  "mip_Latn": {
+    "latitude": 17.6143,
+    "longitude": -97.0657
+  },
+  "miq_Latn": {
+    "latitude": 15.1576,
+    "longitude": -84.2942
+  },
+  "mit_Latn": {
+    "latitude": 18.2123,
+    "longitude": -97.9572
+  },
+  "miu_Latn": {
+    "latitude": 17.7248,
+    "longitude": -97.7637
+  },
+  "miy_Latn": {
+    "latitude": 16.96667,
+    "longitude": -99.0967
+  },
+  "miz_Latn": {
+    "latitude": 18.048748,
+    "longitude": -96.763633
+  },
+  "mjl_Deva": {
+    "latitude": 31.5425,
+    "longitude": 77.0419
+  },
+  "mjv_Mlym": {
+    "latitude": 9.85,
+    "longitude": 76.97
+  },
+  "mkd_Cyrl": {
+    "latitude": 41.5957,
+    "longitude": 21.7932
+  },
+  "mkf_Latn": {
+    "latitude": 10.9234,
+    "longitude": 9.71505
+  },
+  "mki_Arab": {
+    "latitude": 26.4156,
+    "longitude": 70.7826
+  },
+  "mkl_Latn": {
+    "latitude": 11.0438,
+    "longitude": 3.05998
+  },
+  "mkn_Latn": {
+    "latitude": -10.2526,
+    "longitude": 123.63
+  },
+  "mlq_Latn": {
+    "latitude": 13.5677,
+    "longitude": -12.8009
+  },
+  "mlt_Latn": {
+    "latitude": 35.8884,
+    "longitude": 14.4508
+  },
+  "mmc_Latn": {
+    "latitude": 19.7239,
+    "longitude": -100.293
+  },
+  "mmg_Latn": {
+    "latitude": -16.1741,
+    "longitude": 168.14
+  },
+  "mnb_Latn": {
+    "latitude": -5.40419,
+    "longitude": 122.541
+  },
+  "mne_Latn": {
+    "latitude": 12.7868,
+    "longitude": 18.0777
+  },
+  "mnf_Latn": {
+    "latitude": 5.68073,
+    "longitude": 9.91533
+  },
+  "mni_Beng": {
+    "latitude": 24.4409,
+    "longitude": 93.3426
+  },
+  "mnk_Latn": {
+    "latitude": 12.8165233333,
+    "longitude": -15.6539466667
+  },
+  "mnw_Mymr": {
+    "latitude": 15.49394,
+    "longitude": 98.122465
+  },
+  "mnx_Latn": {
+    "latitude": -1.49611,
+    "longitude": 133.95
+  },
+  "moa_Latn": {
+    "latitude": 7.87533,
+    "longitude": -5.94577
+  },
+  "mog_Latn": {
+    "latitude": 0.64616,
+    "longitude": 124.114
+  },
+  "mop_Latn": {
+    "latitude": 16.3533,
+    "longitude": -89.0673
+  },
+  "mor_Latn": {
+    "latitude": 10.9194,
+    "longitude": 30.2138
+  },
+  "mos_Latn": {
+    "latitude": 11.95,
+    "longitude": -1.32
+  },
+  "mox_Latn": {
+    "latitude": -9.57457,
+    "longitude": 150.614
+  },
+  "moz_Latn": {
+    "latitude": 11.8644,
+    "longitude": 18.1822
+  },
+  "mpg_Latn": {
+    "latitude": 9.54,
+    "longitude": 15.8
+  },
+  "mpm_Latn": {
+    "latitude": 16.874,
+    "longitude": -97.579
+  },
+  "mpp_Latn": {
+    "latitude": -6.33237,
+    "longitude": 147.713
+  },
+  "mpx_Latn": {
+    "latitude": -10.6821,
+    "longitude": 152.696
+  },
+  "mqb_Latn": {
+    "latitude": 10.7788,
+    "longitude": 14.1677
+  },
+  "mqf_Latn": {
+    "latitude": -5.04431,
+    "longitude": 139.26
+  },
+  "mqj_Latn": {
+    "latitude": -3.0811,
+    "longitude": 119.484
+  },
+  "mqn_Latn": {
+    "latitude": -4.62361,
+    "longitude": 121.824
+  },
+  "mqy_Latn": {
+    "latitude": -8.55748,
+    "longitude": 120.329
+  },
+  "mri_Latn": {
+    "latitude": -38.2881,
+    "longitude": 176.541
+  },
+  "mrj_Cyrl": {
+    "latitude": 56.22,
+    "longitude": 46.569
+  },
+  "mrr_Deva": {
+    "latitude": 19.7875,
+    "longitude": 79.9144
+  },
+  "mrt_Latn": {
+    "latitude": 10.93854,
+    "longitude": 13.0521
+  },
+  "mrw_Latn": {
+    "latitude": 7.79414,
+    "longitude": 124.175
+  },
+  "msh_Latn": {
+    "latitude": -22.5582,
+    "longitude": 43.8156
+  },
+  "msi_Latn": {
+    "latitude": 4.64808,
+    "longitude": 117.024
+  },
+  "msw_Latn": {
+    "latitude": 12.8218,
+    "longitude": -15.9202
+  },
+  "msy_Latn": {
+    "latitude": -4.28957,
+    "longitude": 144.842
+  },
+  "mtd_Latn": {
+    "latitude": 0.31083,
+    "longitude": 111.077
+  },
+  "mtj_Latn": {
+    "latitude": -1.62201,
+    "longitude": 133.145
+  },
+  "mto_Latn": {
+    "latitude": 17.2157,
+    "longitude": -96.0179
+  },
+  "mtr_Deva": {
+    "latitude": 24.57,
+    "longitude": 73.68
+  },
+  "mtu_Latn": {
+    "latitude": 16.11351,
+    "longitude": -97.55969
+  },
+  "mtx_Latn": {
+    "latitude": 17.4142,
+    "longitude": -97.3333
+  },
+  "mua_Latn": {
+    "latitude": 9.83195,
+    "longitude": 14.4751
+  },
+  "mug_Latn": {
+    "latitude": 10.8439,
+    "longitude": 15.1065
+  },
+  "muh_Latn": {
+    "latitude": 4.22755,
+    "longitude": 29.9967
+  },
+  "mui_Latn": {
+    "latitude": -2.93987,
+    "longitude": 103.945
+  },
+  "mup_Deva": {
+    "latitude": 23.488,
+    "longitude": 75.562
+  },
+  "mur_Latn": {
+    "latitude": 6.69756,
+    "longitude": 33.988
+  },
+  "muv_Mlym": {
+    "latitude": 10.3524,
+    "longitude": 76.7328
+  },
+  "muy_Latn": {
+    "latitude": 10.86047,
+    "longitude": 14.21246
+  },
+  "mve_Arab": {
+    "latitude": 28.3242,
+    "longitude": 71.5671
+  },
+  "mvp_Latn": {
+    "latitude": -3.37081,
+    "longitude": 119.871
+  },
+  "mvy_Arab": {
+    "latitude": 35.3389,
+    "longitude": 73.0154
+  },
+  "mwq_Latn": {
+    "latitude": 20.289,
+    "longitude": 94.3929
+  },
+  "mwv_Latn": {
+    "latitude": -1.41092,
+    "longitude": 98.9401
+  },
+  "mxb_Latn": {
+    "latitude": 17.6155,
+    "longitude": -97.9002
+  },
+  "mxq_Latn": {
+    "latitude": 16.8912,
+    "longitude": -95.8484
+  },
+  "mxs_Latn": {
+    "latitude": 16.9476,
+    "longitude": -97.1236
+  },
+  "mxt_Latn": {
+    "latitude": 16.2279,
+    "longitude": -97.8417
+  },
+  "mxu_Latn": {
+    "latitude": 10.8806,
+    "longitude": 14.1142
+  },
+  "mxv_Latn": {
+    "latitude": 17.1947,
+    "longitude": -98.35138
+  },
+  "mxy_Latn": {
+    "latitude": 17.21219,
+    "longitude": -97.01454
+  },
+  "mya_Mymr": {
+    "latitude": 20.7926,
+    "longitude": 93.9665
+  },
+  "myb_Latn": {
+    "latitude": 8.23066,
+    "longitude": 15.7328
+  },
+  "myk_Latn": {
+    "latitude": 12.4871,
+    "longitude": -5.28245
+  },
+  "myl_Latn": {
+    "latitude": -1.4313,
+    "longitude": 120.009
+  },
+  "myv_Cyrl": {
+    "latitude": 52.8548,
+    "longitude": 45.3901
+  },
+  "myx_Latn": {
+    "latitude": 1.05906,
+    "longitude": 34.2829
+  },
+  "myy_Latn": {
+    "latitude": -0.14459,
+    "longitude": -70.0749
+  },
+  "mza_Latn": {
+    "latitude": 16.7003,
+    "longitude": -97.9484
+  },
+  "mzi_Latn": {
+    "latitude": 18.1531,
+    "longitude": -96.5719
+  },
+  "mzj_Latn": {
+    "latitude": 8.56186,
+    "longitude": -9.44257
+  },
+  "mzk_Latn": {
+    "latitude": 6.69736,
+    "longitude": 11.3161
+  },
+  "mzl_Latn": {
+    "latitude": 17.0156,
+    "longitude": -95.2833
+  },
+  "mzm_Latn": {
+    "latitude": 8.90347,
+    "longitude": 11.71545
+  },
+  "mzw_Latn": {
+    "latitude": 8.43846,
+    "longitude": -2.28724
+  },
+  "nab_Latn": {
+    "latitude": -14.3707,
+    "longitude": -59.5187
+  },
+  "nag_Latn": {
+    "latitude": 25.2508,
+    "longitude": 93.4438
+  },
+  "nal_Latn": {
+    "latitude": -2.94411,
+    "longitude": 151.332
+  },
+  "nan_Latn": {
+    "latitude": 24.5,
+    "longitude": 118.17
+  },
+  "nap_Latn": {
+    "latitude": 39.2288,
+    "longitude": 16.4225
+  },
+  "nas_Latn": {
+    "latitude": -6.46022,
+    "longitude": 155.632
+  },
+  "naw_Latn": {
+    "latitude": 8.45116,
+    "longitude": 0.04947
+  },
+  "nbh_Latn": {
+    "latitude": 12.0048,
+    "longitude": 11.2108
+  },
+  "nca_Latn": {
+    "latitude": -5.84161,
+    "longitude": 146.092
+  },
+  "ncf_Latn": {
+    "latitude": -3.0557,
+    "longitude": 151.661
+  },
+  "nch_Latn": {
+    "latitude": 21.0963,
+    "longitude": -98.4356
+  },
+  "ncj_Latn": {
+    "latitude": 20.1356,
+    "longitude": -97.9814
+  },
+  "ncl_Latn": {
+    "latitude": 18.3412,
+    "longitude": -103.361
+  },
+  "nco_Latn": {
+    "latitude": -6.43149,
+    "longitude": 155.412
+  },
+  "ncu_Latn": {
+    "latitude": 8.15211,
+    "longitude": -0.2755
+  },
+  "ncx_Latn": {
+    "latitude": 18.7545,
+    "longitude": -98.1264
+  },
+  "ndi_Latn": {
+    "latitude": 8.19236,
+    "longitude": 11.7366
+  },
+  "ndj_Latn": {
+    "latitude": -8.40485,
+    "longitude": 36.0271
+  },
+  "ndo_Latn": {
+    "latitude": -17.22,
+    "longitude": 17.35
+  },
+  "ndp_Latn": {
+    "latitude": 2.68546,
+    "longitude": 30.5652
+  },
+  "ndv_Latn": {
+    "latitude": 14.925,
+    "longitude": -16.9811
+  },
+  "ndy_Latn": {
+    "latitude": 8.52074,
+    "longitude": 19.0071
+  },
+  "ndz_Latn": {
+    "latitude": 7.73028,
+    "longitude": 27.5588
+  },
+  "neb_Latn": {
+    "latitude": 7.76747,
+    "longitude": -7.33105
+  },
+  "nep_Deva": {
+    "latitude": 27.5947033333,
+    "longitude": 87.6200833333
+  },
+  "new_Deva": {
+    "latitude": 27.67,
+    "longitude": 85.326
+  },
+  "nfa_Latn": {
+    "latitude": -10.8098,
+    "longitude": 122.658
+  },
+  "nfr_Latn": {
+    "latitude": 8.00522,
+    "longitude": -2.51001
+  },
+  "nga_Latn": {
+    "latitude": 2.98887,
+    "longitude": 18.994
+  },
+  "ngi_Latn": {
+    "latitude": 12.1051,
+    "longitude": 11.0178
+  },
+  "ngl_Latn": {
+    "latitude": -16.0381,
+    "longitude": 37.2437
+  },
+  "ngp_Latn": {
+    "latitude": -5.79734,
+    "longitude": 37.6823
+  },
+  "ngu_Latn": {
+    "latitude": 17.8583,
+    "longitude": -99.0023
+  },
+  "nhe_Latn": {
+    "latitude": 21.0639,
+    "longitude": -97.9077
+  },
+  "nhg_Latn": {
+    "latitude": 18.8854,
+    "longitude": -98.893
+  },
+  "nhi_Latn": {
+    "latitude": 20.0581,
+    "longitude": -97.8974
+  },
+  "nhn_Latn": {
+    "latitude": 19.1248,
+    "longitude": -98.3002
+  },
+  "nhq_Latn": {
+    "latitude": 18.8989,
+    "longitude": -96.9537
+  },
+  "nhu_Latn": {
+    "latitude": 6.37256,
+    "longitude": 10.5707
+  },
+  "nhw_Latn": {
+    "latitude": 21.3711,
+    "longitude": -98.7711
+  },
+  "nhx_Latn": {
+    "latitude": 18.2,
+    "longitude": -94.7547
+  },
+  "nhy_Latn": {
+    "latitude": 18.1884,
+    "longitude": -96.9748
+  },
+  "nia_Latn": {
+    "latitude": 0.90691,
+    "longitude": 97.4961
+  },
+  "nij_Latn": {
+    "latitude": -1.58463,
+    "longitude": 112.794
+  },
+  "nim_Latn": {
+    "latitude": -4.50002,
+    "longitude": 34.3068
+  },
+  "nin_Latn": {
+    "latitude": 8.95791,
+    "longitude": 8.47328
+  },
+  "nja_Latn": {
+    "latitude": 10.0666,
+    "longitude": 13.3343
+  },
+  "nko_Latn": {
+    "latitude": 7.20316,
+    "longitude": 0.3209
+  },
+  "nla_Latn": {
+    "latitude": 5.70306,
+    "longitude": 10.1446
+  },
+  "nlc_Latn": {
+    "latitude": -4.26068,
+    "longitude": 139.883
+  },
+  "nld_Latn": {
+    "latitude": 52.0,
+    "longitude": 5.0
+  },
+  "nlg_Latn": {
+    "latitude": -9.04587,
+    "longitude": 160.186
+  },
+  "nlk_Latn": {
+    "latitude": -4.4737,
+    "longitude": 139.39
+  },
+  "nlv_Latn": {
+    "latitude": 18.63995,
+    "longitude": -96.97648
+  },
+  "nmg_Latn": {
+    "latitude": 2.39354,
+    "longitude": 10.0812
+  },
+  "nmz_Latn": {
+    "latitude": 7.17037,
+    "longitude": 0.58553
+  },
+  "nnb_Latn": {
+    "latitude": -0.24904,
+    "longitude": 29.0243
+  },
+  "nnh_Latn": {
+    "latitude": 5.56777,
+    "longitude": 10.1266
+  },
+  "nnq_Latn": {
+    "latitude": -9.78145,
+    "longitude": 37.9832
+  },
+  "nnw_Latn": {
+    "latitude": 11.5186,
+    "longitude": -2.14385
+  },
+  "noa_Latn": {
+    "latitude": 8.5,
+    "longitude": -78.0
+  },
+  "nob_Latn": {
+    "latitude": 61.112,
+    "longitude": 8.886
+  },
+  "nod_Thai": {
+    "latitude": 18.857495,
+    "longitude": 100.20739
+  },
+  "noe_Deva": {
+    "latitude": 22.1263,
+    "longitude": 76.1264
+  },
+  "nog_Cyrl": {
+    "latitude": 44.89776,
+    "longitude": 43.1656
+  },
+  "not_Latn": {
+    "latitude": -11.5349,
+    "longitude": -74.4371
+  },
+  "npi_Deva": {
+    "latitude": 28.0,
+    "longitude": 85.0
+  },
+  "npl_Latn": {
+    "latitude": 18.39688,
+    "longitude": -97.12655
+  },
+  "npy_Latn": {
+    "latitude": -1.43707,
+    "longitude": 120.338
+  },
+  "nso_Latn": {
+    "latitude": -24.7993,
+    "longitude": 29.4718
+  },
+  "nst_Latn": {
+    "latitude": 27.2572,
+    "longitude": 96.3855
+  },
+  "nsu_Latn": {
+    "latitude": 18.45,
+    "longitude": -96.9
+  },
+  "ntm_Latn": {
+    "latitude": 10.5191,
+    "longitude": 1.21879
+  },
+  "ntr_Latn": {
+    "latitude": 7.90997,
+    "longitude": 0.59728
+  },
+  "nuj_Latn": {
+    "latitude": 0.88072,
+    "longitude": 33.9181
+  },
+  "nup_Latn": {
+    "latitude": 9.18404,
+    "longitude": 5.40031
+  },
+  "nus_Latn": {
+    "latitude": 8.13911,
+    "longitude": 32.3829
+  },
+  "nuz_Latn": {
+    "latitude": 18.6239,
+    "longitude": -99.3992
+  },
+  "nwb_Latn": {
+    "latitude": 6.87615,
+    "longitude": -6.84428
+  },
+  "nxq_Latn": {
+    "latitude": 27.5,
+    "longitude": 100.0
+  },
+  "nya_Latn": {
+    "latitude": -14.8047,
+    "longitude": 32.8108
+  },
+  "nyf_Latn": {
+    "latitude": -3.30638,
+    "longitude": 39.6648
+  },
+  "nyn_Latn": {
+    "latitude": -0.46364,
+    "longitude": 30.548
+  },
+  "nyo_Latn": {
+    "latitude": 0.95294,
+    "longitude": 31.3493
+  },
+  "nyu_Latn": {
+    "latitude": -16.4757,
+    "longitude": 33.0233
+  },
+  "nyy_Latn": {
+    "latitude": -9.71018,
+    "longitude": 33.7763
+  },
+  "nzi_Latn": {
+    "latitude": 5.1785,
+    "longitude": -2.81123
+  },
+  "obo_Latn": {
+    "latitude": 7.29141,
+    "longitude": 125.09
+  },
+  "oci_Latn": {
+    "latitude": 44.1415,
+    "longitude": 6.82979
+  },
+  "odk_Arab": {
+    "latitude": 27.53636,
+    "longitude": 67.84754
+  },
+  "odu_Latn": {
+    "latitude": 4.83273,
+    "longitude": 6.41493
+  },
+  "ogo_Latn": {
+    "latitude": 4.70908,
+    "longitude": 7.44363
+  },
+  "ojb_Cans": {
+    "latitude": 51.6192,
+    "longitude": -87.7862
+  },
+  "ojb_Latn": {
+    "latitude": 51.6192,
+    "longitude": -87.7862
+  },
+  "oku_Latn": {
+    "latitude": 6.23712,
+    "longitude": 10.5096
+  },
+  "old_Latn": {
+    "latitude": -3.33743,
+    "longitude": 37.3357
+  },
+  "omw_Latn": {
+    "latitude": -6.35337,
+    "longitude": 145.883
+  },
+  "onb_Latn": {
+    "latitude": 19.885536,
+    "longitude": 109.691664
+  },
+  "ood_Latn": {
+    "latitude": 31.7973,
+    "longitude": -111.995
+  },
+  "orc_Latn": {
+    "latitude": -1.79489,
+    "longitude": 39.60749
+  },
+  "oru_Arab": {
+    "latitude": 32.6819,
+    "longitude": 69.3444
+  },
+  "ory_Orya": {
+    "latitude": 21.0,
+    "longitude": 85.0
+  },
+  "oss_Cyrl": {
+    "latitude": 42.98,
+    "longitude": 44.61
+  },
+  "ote_Latn": {
+    "latitude": 20.2274,
+    "longitude": -99.5564
+  },
+  "otq_Latn": {
+    "latitude": 20.1396,
+    "longitude": -100.115
+  },
+  "ozm_Latn": {
+    "latitude": 3.25933,
+    "longitude": 13.54152
+  },
+  "pab_Latn": {
+    "latitude": -14.5929,
+    "longitude": -57.4059
+  },
+  "pad_Latn": {
+    "latitude": -5.78403,
+    "longitude": -64.2803
+  },
+  "pag_Latn": {
+    "latitude": 15.9377,
+    "longitude": 120.365
+  },
+  "pam_Latn": {
+    "latitude": 14.9603,
+    "longitude": 120.502
+  },
+  "pan_Guru": {
+    "latitude": 30.0368,
+    "longitude": 75.6702
+  },
+  "pao_Latn": {
+    "latitude": 40.0799,
+    "longitude": -119.536
+  },
+  "pap_Latn": {
+    "latitude": 12.48485,
+    "longitude": -69.93988
+  },
+  "pau_Latn": {
+    "latitude": 7.34138,
+    "longitude": 134.476678
+  },
+  "pbb_Latn": {
+    "latitude": 2.61516,
+    "longitude": -76.31254
+  },
+  "pbc_Latn": {
+    "latitude": 4.75826,
+    "longitude": -59.5772
+  },
+  "pbi_Latn": {
+    "latitude": 11.0206,
+    "longitude": 14.0964
+  },
+  "pbs_Latn": {
+    "latitude": 21.3762,
+    "longitude": -99.2898
+  },
+  "pbt_Arab": {
+    "latitude": 31.5,
+    "longitude": 65.7
+  },
+  "pbu_Arab": {
+    "latitude": 34.0,
+    "longitude": 71.33
+  },
+  "pce_Thai": {
+    "latitude": 21.6176,
+    "longitude": 98.0915
+  },
+  "pcm_Latn": {
+    "latitude": 9.65873,
+    "longitude": 4.21068
+  },
+  "peg_Orya": {
+    "latitude": 19.3435,
+    "longitude": 83.6552
+  },
+  "pex_Latn": {
+    "latitude": -5.34068,
+    "longitude": 154.593
+  },
+  "pez_Latn": {
+    "latitude": 4.5915,
+    "longitude": 114.584
+  },
+  "phl_Arab": {
+    "latitude": 35.5096,
+    "longitude": 71.8421
+  },
+  "phr_Arab": {
+    "latitude": 33.6424,
+    "longitude": 73.8071
+  },
+  "pib_Latn": {
+    "latitude": -11.1086,
+    "longitude": -73.3087
+  },
+  "pil_Latn": {
+    "latitude": 9.87186,
+    "longitude": 1.81099
+  },
+  "pip_Latn": {
+    "latitude": 9.62092,
+    "longitude": 11.044
+  },
+  "pir_Latn": {
+    "latitude": 0.50714,
+    "longitude": -69.5032
+  },
+  "pis_Latn": {
+    "latitude": -9.567,
+    "longitude": 160.137
+  },
+  "piy_Latn": {
+    "latitude": 9.31975,
+    "longitude": 10.8379
+  },
+  "pjt_Latn": {
+    "latitude": -26.9704,
+    "longitude": 131.357
+  },
+  "pkb_Latn": {
+    "latitude": -2.31587,
+    "longitude": 40.2897
+  },
+  "pko_Latn": {
+    "latitude": 1.57023,
+    "longitude": 35.2318
+  },
+  "plk_Arab": {
+    "latitude": 35.1741,
+    "longitude": 73.3207
+  },
+  "pls_Latn": {
+    "latitude": 18.74,
+    "longitude": -97.5936
+  },
+  "plt_Latn": {
+    "latitude": -19.5907,
+    "longitude": 47.1211
+  },
+  "plw_Latn": {
+    "latitude": 8.83891,
+    "longitude": 117.871
+  },
+  "pmf_Latn": {
+    "latitude": -1.62663,
+    "longitude": 121.268
+  },
+  "pmq_Latn": {
+    "latitude": 22.0968,
+    "longitude": -99.6434
+  },
+  "pms_Latn": {
+    "latitude": 45.4633,
+    "longitude": 8.32366
+  },
+  "pmy_Latn": {
+    "latitude": -2.53482,
+    "longitude": 139.651
+  },
+  "pnb_Arab": {
+    "latitude": 30.0948,
+    "longitude": 75.3474
+  },
+  "pne_Latn": {
+    "latitude": 3.4667,
+    "longitude": 114.523
+  },
+  "pny_Latn": {
+    "latitude": 5.7991,
+    "longitude": 10.0682
+  },
+  "poc_Latn": {
+    "latitude": 14.73252,
+    "longitude": -89.73796
+  },
+  "poe_Latn": {
+    "latitude": 18.22245,
+    "longitude": -97.37923
+  },
+  "poh_Latn": {
+    "latitude": 15.3586,
+    "longitude": -90.5813
+  },
+  "poi_Latn": {
+    "latitude": 18.198,
+    "longitude": -94.9109
+  },
+  "pol_Latn": {
+    "latitude": 51.8439,
+    "longitude": 18.6255
+  },
+  "por_Latn": {
+    "latitude": 39.91,
+    "longitude": -8.1
+  },
+  "pov_Latn": {
+    "latitude": 13.2335066667,
+    "longitude": -15.33254
+  },
+  "pow_Latn": {
+    "latitude": 18.3594,
+    "longitude": -97.7432
+  },
+  "poy_Latn": {
+    "latitude": -8.72283,
+    "longitude": 36.4148
+  },
+  "ppk_Latn": {
+    "latitude": -1.70416,
+    "longitude": 119.968
+  },
+  "pps_Latn": {
+    "latitude": 18.6812,
+    "longitude": -97.5459
+  },
+  "prf_Latn": {
+    "latitude": 17.0,
+    "longitude": 122.372
+  },
+  "prk_Latn": {
+    "latitude": 22.8658,
+    "longitude": 99.375
+  },
+  "prq_Latn": {
+    "latitude": -10.9777,
+    "longitude": -74.9153
+  },
+  "prt_Thai": {
+    "latitude": 19.0383,
+    "longitude": 101.218
+  },
+  "pse_Latn": {
+    "latitude": -3.79673,
+    "longitude": 103.137
+  },
+  "pss_Latn": {
+    "latitude": -6.08192,
+    "longitude": 149.696
+  },
+  "pst_Arab": {
+    "latitude": 31.9153,
+    "longitude": 69.4529
+  },
+  "ptu_Latn": {
+    "latitude": -3.02759,
+    "longitude": 119.201
+  },
+  "pua_Latn": {
+    "latitude": 19.5392,
+    "longitude": -102.154
+  },
+  "pui_Latn": {
+    "latitude": 3.92974,
+    "longitude": -67.6886
+  },
+  "pwg_Latn": {
+    "latitude": -9.73317,
+    "longitude": 149.854
+  },
+  "pwn_Latn": {
+    "latitude": 22.3271,
+    "longitude": 120.806
+  },
+  "pww_Thai": {
+    "latitude": 18.016,
+    "longitude": 98.2709
+  },
+  "pxm_Latn": {
+    "latitude": 16.92147,
+    "longitude": -95.67269
+  },
+  "qub_Latn": {
+    "latitude": -9.57135,
+    "longitude": -75.594
+  },
+  "quc_Latn": {
+    "latitude": 14.5278,
+    "longitude": -91.1696
+  },
+  "quf_Latn": {
+    "latitude": -6.1715,
+    "longitude": -79.468
+  },
+  "qug_Latn": {
+    "latitude": -1.36727,
+    "longitude": -78.8521
+  },
+  "quh_Latn": {
+    "latitude": -20.9201,
+    "longitude": -66.3331
+  },
+  "qul_Latn": {
+    "latitude": -14.4014,
+    "longitude": -68.7894
+  },
+  "qum_Latn": {
+    "latitude": 15.23054,
+    "longitude": -91.7041
+  },
+  "qup_Latn": {
+    "latitude": -3.32733,
+    "longitude": -76.527
+  },
+  "qur_Latn": {
+    "latitude": -10.4929,
+    "longitude": -76.5314
+  },
+  "qus_Latn": {
+    "latitude": -27.821,
+    "longitude": -63.2466
+  },
+  "quv_Latn": {
+    "latitude": 15.274,
+    "longitude": -91.109
+  },
+  "quw_Latn": {
+    "latitude": -0.76271,
+    "longitude": -77.5404
+  },
+  "qux_Latn": {
+    "latitude": -12.62,
+    "longitude": -75.7
+  },
+  "quy_Latn": {
+    "latitude": -13.84714,
+    "longitude": -74.32246
+  },
+  "quz_Latn": {
+    "latitude": -14.0853,
+    "longitude": -71.7663
+  },
+  "qva_Latn": {
+    "latitude": -10.5138,
+    "longitude": -76.1135
+  },
+  "qvc_Latn": {
+    "latitude": -7.09314,
+    "longitude": -78.3214
+  },
+  "qve_Latn": {
+    "latitude": -14.1754,
+    "longitude": -72.6686
+  },
+  "qvh_Latn": {
+    "latitude": -9.15718,
+    "longitude": -76.3372
+  },
+  "qvi_Latn": {
+    "latitude": 0.31776,
+    "longitude": -78.3729
+  },
+  "qvj_Latn": {
+    "latitude": -3.69352,
+    "longitude": -79.29151
+  },
+  "qvl_Latn": {
+    "latitude": -10.4126,
+    "longitude": -76.9602
+  },
+  "qvm_Latn": {
+    "latitude": -9.84463,
+    "longitude": -76.4981
+  },
+  "qvn_Latn": {
+    "latitude": -11.2132,
+    "longitude": -75.8128
+  },
+  "qvo_Latn": {
+    "latitude": -0.072525,
+    "longitude": -76.3889
+  },
+  "qvs_Latn": {
+    "latitude": -6.9582,
+    "longitude": -76.6608
+  },
+  "qvw_Latn": {
+    "latitude": -12.1809,
+    "longitude": -75.2055
+  },
+  "qvz_Latn": {
+    "latitude": -1.88573,
+    "longitude": -76.0389
+  },
+  "qwa_Latn": {
+    "latitude": -8.57647,
+    "longitude": -77.9864
+  },
+  "qwh_Latn": {
+    "latitude": -9.38709,
+    "longitude": -77.7768
+  },
+  "qws_Latn": {
+    "latitude": -8.49346,
+    "longitude": -77.5319
+  },
+  "qxa_Latn": {
+    "latitude": -10.1831,
+    "longitude": -77.4152
+  },
+  "qxh_Latn": {
+    "latitude": -9.85887,
+    "longitude": -75.4382
+  },
+  "qxl_Latn": {
+    "latitude": -1.35447,
+    "longitude": -78.3953
+  },
+  "qxn_Latn": {
+    "latitude": -8.97356,
+    "longitude": -77.4146
+  },
+  "qxo_Latn": {
+    "latitude": -9.30995,
+    "longitude": -76.9854
+  },
+  "qxp_Latn": {
+    "latitude": -14.608,
+    "longitude": -70.2084
+  },
+  "qxr_Latn": {
+    "latitude": -2.48314,
+    "longitude": -78.9672
+  },
+  "qxt_Latn": {
+    "latitude": -10.3302,
+    "longitude": -76.2753
+  },
+  "qxu_Latn": {
+    "latitude": -15.1806,
+    "longitude": -72.6333
+  },
+  "qxw_Latn": {
+    "latitude": -11.6747,
+    "longitude": -75.2786
+  },
+  "rag_Latn": {
+    "latitude": 0.09487,
+    "longitude": 34.729
+  },
+  "rah_Beng": {
+    "latitude": 25.8248,
+    "longitude": 91.1689
+  },
+  "rai_Latn": {
+    "latitude": -4.17306,
+    "longitude": 152.451
+  },
+  "rap_Latn": {
+    "latitude": -27.113,
+    "longitude": -109.342
+  },
+  "rav_Deva": {
+    "latitude": 27.2999,
+    "longitude": 87.0019
+  },
+  "raw_Latn": {
+    "latitude": 27.1027,
+    "longitude": 97.0738
+  },
+  "rej_Latn": {
+    "latitude": -3.33056,
+    "longitude": 102.434
+  },
+  "rel_Latn": {
+    "latitude": 2.27065,
+    "longitude": 37.3608
+  },
+  "rgu_Latn": {
+    "latitude": -10.5515,
+    "longitude": 123.311
+  },
+  "rhg_Latn": {
+    "latitude": 20.833082,
+    "longitude": 92.393968
+  },
+  "rif_Arab": {
+    "latitude": 34.916974,
+    "longitude": -3.430616
+  },
+  "rif_Latn": {
+    "latitude": 34.916974,
+    "longitude": -3.430616
+  },
+  "ril_Latn": {
+    "latitude": 24.0521,
+    "longitude": 98.8333
+  },
+  "rim_Latn": {
+    "latitude": -5.12263,
+    "longitude": 34.6657
+  },
+  "rjs_Deva": {
+    "latitude": 26.521945,
+    "longitude": 88.038582
+  },
+  "rkt_Beng": {
+    "latitude": 26.3834,
+    "longitude": 88.4536
+  },
+  "rmc_Cyrl": {
+    "latitude": 48.1968,
+    "longitude": 20.3129
+  },
+  "rmc_Latn": {
+    "latitude": 48.1968,
+    "longitude": 20.3129
+  },
+  "rmo_Latn": {
+    "latitude": 48.7,
+    "longitude": 9.4
+  },
+  "rmy_Cyrl": {
+    "latitude": 46.09,
+    "longitude": 18.16
+  },
+  "rmy_Latn": {
+    "latitude": 46.09,
+    "longitude": 18.16
+  },
+  "rng_Latn": {
+    "latitude": -26.7329,
+    "longitude": 32.6167
+  },
+  "rnl_Latn": {
+    "latitude": 23.819438,
+    "longitude": 91.66491
+  },
+  "rob_Latn": {
+    "latitude": -2.58205,
+    "longitude": 120.139
+  },
+  "rof_Latn": {
+    "latitude": -3.07772,
+    "longitude": 37.5382
+  },
+  "roh_Latn_lowe1386": {
+    "latitude": 46.5538,
+    "longitude": 9.92812
+  },
+  "roh_Latn_surs1244": {
+    "latitude": 46.5538,
+    "longitude": 9.92812
+  },
+  "rol_Latn": {
+    "latitude": 12.4047,
+    "longitude": 122.56
+  },
+  "ron_Latn": {
+    "latitude": 46.3913,
+    "longitude": 24.2256
+  },
+  "roo_Latn": {
+    "latitude": -5.94339,
+    "longitude": 155.154
+  },
+  "rop_Latn": {
+    "latitude": -18.135,
+    "longitude": 137.669
+  },
+  "rro_Latn": {
+    "latitude": -8.67145,
+    "longitude": 146.544
+  },
+  "rth_Latn": {
+    "latitude": 1.07592,
+    "longitude": 124.858
+  },
+  "rub_Latn": {
+    "latitude": 2.06754,
+    "longitude": 31.4819
+  },
+  "ruc_Latn": {
+    "latitude": 1.41726,
+    "longitude": 32.4179
+  },
+  "ruf_Latn": {
+    "latitude": -6.86828,
+    "longitude": 37.5557
+  },
+  "rug_Latn": {
+    "latitude": -8.20493,
+    "longitude": 157.408
+  },
+  "run_Latn": {
+    "latitude": -2.94,
+    "longitude": 29.97
+  },
+  "rus_Cyrl": {
+    "latitude": 59.0,
+    "longitude": 50.0
+  },
+  "rwm_Latn": {
+    "latitude": 0.81206,
+    "longitude": 30.0014
+  },
+  "rwr_Deva": {
+    "latitude": 27.002,
+    "longitude": 75.0656
+  },
+  "sab_Latn": {
+    "latitude": 8.57695,
+    "longitude": -81.25648
+  },
+  "sag_Latn": {
+    "latitude": 6.78584,
+    "longitude": 20.1702
+  },
+  "sah_Cyrl": {
+    "latitude": 61.69744,
+    "longitude": 133.98031
+  },
+  "saj_Latn": {
+    "latitude": 1.00742,
+    "longitude": 127.493
+  },
+  "saq_Latn": {
+    "latitude": 1.60735,
+    "longitude": 37.0539
+  },
+  "sas_Latn": {
+    "latitude": -8.58349,
+    "longitude": 116.284
+  },
+  "sat_Olck": {
+    "latitude": 25.0317,
+    "longitude": 87.8185
+  },
+  "sau_Latn": {
+    "latitude": -2.82548,
+    "longitude": 129.427
+  },
+  "say_Latn": {
+    "latitude": 9.69441,
+    "longitude": 9.71748
+  },
+  "sba_Latn": {
+    "latitude": 8.57051,
+    "longitude": 15.414
+  },
+  "sbd_Latn": {
+    "latitude": 12.713,
+    "longitude": -2.9052
+  },
+  "sbl_Latn": {
+    "latitude": 15.2315,
+    "longitude": 120.164
+  },
+  "sbn_Arab": {
+    "latitude": 24.5408,
+    "longitude": 69.0008
+  },
+  "sbp_Latn": {
+    "latitude": -8.4,
+    "longitude": 33.9
+  },
+  "sch_Latn": {
+    "latitude": 25.994,
+    "longitude": 93.949
+  },
+  "sck_Deva": {
+    "latitude": 23.6585,
+    "longitude": 84.8114
+  },
+  "scl_Arab": {
+    "latitude": 34.6515,
+    "longitude": 75.287
+  },
+  "scn_Latn": {
+    "latitude": 37.5735,
+    "longitude": 14.0414
+  },
+  "sco_Latn": {
+    "latitude": 55.886945,
+    "longitude": -3.710133
+  },
+  "sda_Latn": {
+    "latitude": -2.97144,
+    "longitude": 119.829
+  },
+  "sdo_Latn": {
+    "latitude": 0.96817,
+    "longitude": 110.657
+  },
+  "sea_Latn": {
+    "latitude": 4.13257,
+    "longitude": 101.477
+  },
+  "seh_Latn": {
+    "latitude": -19.7933,
+    "longitude": 34.9829
+  },
+  "sei_Latn": {
+    "latitude": 28.9877,
+    "longitude": -112.384
+  },
+  "ses_Latn": {
+    "latitude": 16.9634,
+    "longitude": -0.55187
+  },
+  "sey_Latn": {
+    "latitude": -0.459785,
+    "longitude": -75.5547
+  },
+  "sgb_Latn": {
+    "latitude": 15.1954,
+    "longitude": 120.459
+  },
+  "sgw_Ethi": {
+    "latitude": 8.11879,
+    "longitude": 37.9891
+  },
+  "shi_Latn": {
+    "latitude": 29.7854,
+    "longitude": -7.77879
+  },
+  "shk_Latn": {
+    "latitude": 9.85472,
+    "longitude": 31.7926
+  },
+  "shn_Mymr": {
+    "latitude": 21.5995,
+    "longitude": 98.0342
+  },
+  "sho_Latn": {
+    "latitude": 11.2752,
+    "longitude": 4.41464
+  },
+  "shp_Latn": {
+    "latitude": -7.17105,
+    "longitude": -74.8219
+  },
+  "sid_Latn": {
+    "latitude": 6.74176,
+    "longitude": 38.3729
+  },
+  "sig_Latn": {
+    "latitude": 10.2004,
+    "longitude": -1.8048
+  },
+  "sil_Latn": {
+    "latitude": 10.63451,
+    "longitude": -1.79707
+  },
+  "sin_Sinh": {
+    "latitude": 8.0,
+    "longitude": 81.0
+  },
+  "sip_Tibt": {
+    "latitude": 27.85795,
+    "longitude": 88.59153
+  },
+  "siw_Latn": {
+    "latitude": -6.6429,
+    "longitude": 155.452
+  },
+  "sja_Latn": {
+    "latitude": 4.25877,
+    "longitude": -77.3566
+  },
+  "sjm_Latn": {
+    "latitude": 6.09061,
+    "longitude": 118.75
+  },
+  "sjp_Deva": {
+    "latitude": 25.686,
+    "longitude": 85.792
+  },
+  "sjr_Latn": {
+    "latitude": -4.62059,
+    "longitude": 152.892
+  },
+  "skg_Latn": {
+    "latitude": -20.28,
+    "longitude": 44.32
+  },
+  "skr_Arab": {
+    "latitude": 29.5534,
+    "longitude": 71.906
+  },
+  "sld_Latn": {
+    "latitude": 11.0916,
+    "longitude": -2.38217
+  },
+  "slk_Latn": {
+    "latitude": 48.545705,
+    "longitude": 18.78479
+  },
+  "slu_Latn": {
+    "latitude": -8.18376,
+    "longitude": 130.961
+  },
+  "slv_Latn": {
+    "latitude": 46.2543,
+    "longitude": 14.7766
+  },
+  "sml_Latn": {
+    "latitude": 7.004574,
+    "longitude": 118.455978
+  },
+  "smo_Latn": {
+    "latitude": -13.92,
+    "longitude": -171.83
+  },
+  "sna_Latn": {
+    "latitude": -17.20849,
+    "longitude": 29.75725
+  },
+  "snc_Latn": {
+    "latitude": -9.79791,
+    "longitude": 147.861
+  },
+  "snd_Arab": {
+    "latitude": 26.0,
+    "longitude": 69.0
+  },
+  "sne_Latn": {
+    "latitude": 1.54467,
+    "longitude": 109.985
+  },
+  "snk_Latn": {
+    "latitude": 13.1273,
+    "longitude": -11.7178
+  },
+  "snn_Latn": {
+    "latitude": 0.31733,
+    "longitude": -76.0237
+  },
+  "snp_Latn": {
+    "latitude": -6.13188,
+    "longitude": 145.247
+  },
+  "snv_Latn": {
+    "latitude": 3.58723,
+    "longitude": 115.664
+  },
+  "snw_Latn": {
+    "latitude": 7.17462,
+    "longitude": 0.42458
+  },
+  "sol_Latn": {
+    "latitude": -5.41042,
+    "longitude": 154.624
+  },
+  "som_Latn": {
+    "latitude": 4.778704,
+    "longitude": 45.152856
+  },
+  "soy_Latn": {
+    "latitude": 9.94366,
+    "longitude": 1.33302
+  },
+  "spa_Latn": {
+    "latitude": 40.4414,
+    "longitude": -1.11788
+  },
+  "spp_Latn": {
+    "latitude": 11.632,
+    "longitude": -5.87709
+  },
+  "sps_Latn": {
+    "latitude": -5.64103,
+    "longitude": 154.732
+  },
+  "spy_Latn": {
+    "latitude": 1.01297,
+    "longitude": 34.6664
+  },
+  "src_Latn": {
+    "latitude": 40.49,
+    "longitude": 9.09957
+  },
+  "sri_Latn": {
+    "latitude": 0.436515,
+    "longitude": -70.184
+  },
+  "srm_Latn": {
+    "latitude": 4.54729,
+    "longitude": -54.0238
+  },
+  "srn_Latn": {
+    "latitude": 5.83,
+    "longitude": -55.33
+  },
+  "sro_Latn": {
+    "latitude": 39.0566,
+    "longitude": 9.03935
+  },
+  "srp_Cyrl": {
+    "latitude": 44.3238,
+    "longitude": 21.9192
+  },
+  "srr_Latn": {
+    "latitude": 13.8941,
+    "longitude": -16.3916
+  },
+  "srx_Deva": {
+    "latitude": 31.1,
+    "longitude": 77.17
+  },
+  "ssi_Arab": {
+    "latitude": 28.7364,
+    "longitude": 72.6838
+  },
+  "ste_Latn": {
+    "latitude": -3.11832,
+    "longitude": 129.899
+  },
+  "stn_Latn": {
+    "latitude": -10.82553,
+    "longitude": 162.30467
+  },
+  "stp_Latn": {
+    "latitude": 23.1584,
+    "longitude": -103.983
+  },
+  "sua_Latn": {
+    "latitude": -5.03471,
+    "longitude": 151.891
+  },
+  "suc_Latn": {
+    "latitude": 7.79964,
+    "longitude": 122.341
+  },
+  "suk_Latn": {
+    "latitude": -3.16082,
+    "longitude": 32.8765
+  },
+  "sun_Latn": {
+    "latitude": -6.89708,
+    "longitude": 107.106
+  },
+  "sur_Latn": {
+    "latitude": 9.47205,
+    "longitude": 8.96522
+  },
+  "sus_Latn": {
+    "latitude": 10.4046,
+    "longitude": -13.3628
+  },
+  "suv_Latn": {
+    "latitude": 27.3153778,
+    "longitude": 92.3840919
+  },
+  "suz_Deva": {
+    "latitude": 27.5201,
+    "longitude": 86.2476
+  },
+  "sva_Geor": {
+    "latitude": 42.9134,
+    "longitude": 42.5915
+  },
+  "swe_Latn": {
+    "latitude": 59.800634,
+    "longitude": 17.389526
+  },
+  "swh_Latn": {
+    "latitude": -8.25605,
+    "longitude": 37.624
+  },
+  "swv_Deva": {
+    "latitude": 27.34,
+    "longitude": 75.407
+  },
+  "sxb_Latn": {
+    "latitude": -0.95719,
+    "longitude": 34.1033
+  },
+  "sxn_Latn": {
+    "latitude": 3.50554,
+    "longitude": 125.56523
+  },
+  "sya_Latn": {
+    "latitude": -0.38398,
+    "longitude": 114.693
+  },
+  "syl_Latn": {
+    "latitude": 24.83724,
+    "longitude": 92.25347
+  },
+  "sza_Latn": {
+    "latitude": 2.82799,
+    "longitude": 102.806
+  },
+  "szy_Latn": {
+    "latitude": 24.026316,
+    "longitude": 121.531394
+  },
+  "tac_Latn": {
+    "latitude": 27.3512,
+    "longitude": -108.0559
+  },
+  "taj_Deva": {
+    "latitude": 27.3239,
+    "longitude": 87.0832
+  },
+  "tam_Taml": {
+    "latitude": 10.520219,
+    "longitude": 78.825989
+  },
+  "tan_Latn": {
+    "latitude": 9.75444,
+    "longitude": 11.3228
+  },
+  "tao_Latn": {
+    "latitude": 22.055,
+    "longitude": 121.544
+  },
+  "tap_Latn": {
+    "latitude": -7.91416,
+    "longitude": 29.5238
+  },
+  "taq_Latn": {
+    "latitude": 14.2038,
+    "longitude": -2.41269
+  },
+  "tar_Latn": {
+    "latitude": 27.5648,
+    "longitude": -107.154
+  },
+  "tat_Cyrl": {
+    "latitude": 55.79592,
+    "longitude": 49.11577
+  },
+  "tav_Latn": {
+    "latitude": 0.55582,
+    "longitude": -70.5327
+  },
+  "tay_Latn": {
+    "latitude": 24.5209,
+    "longitude": 121.388
+  },
+  "tbc_Latn": {
+    "latitude": -4.69057,
+    "longitude": 145.975
+  },
+  "tbf_Latn": {
+    "latitude": -2.7828,
+    "longitude": 151.956
+  },
+  "tbg_Latn": {
+    "latitude": -6.51563,
+    "longitude": 145.959
+  },
+  "tbk_Latn": {
+    "latitude": 12.0716,
+    "longitude": 120.094
+  },
+  "tbl_Latn": {
+    "latitude": 6.20377,
+    "longitude": 124.538
+  },
+  "tby_Latn": {
+    "latitude": 1.46563,
+    "longitude": 127.633
+  },
+  "tbz_Latn": {
+    "latitude": 10.1614,
+    "longitude": 1.18045
+  },
+  "tca_Latn": {
+    "latitude": -3.66289,
+    "longitude": -69.8723
+  },
+  "tcc_Latn": {
+    "latitude": -4.4131,
+    "longitude": 35.2321
+  },
+  "tcf_Latn": {
+    "latitude": 17.2122,
+    "longitude": -98.6322
+  },
+  "tcs_Latn": {
+    "latitude": -11.066,
+    "longitude": 142.692
+  },
+  "tcy_Mlym": {
+    "latitude": 12.8114,
+    "longitude": 75.2651
+  },
+  "tcz_Latn": {
+    "latitude": 24.096,
+    "longitude": 93.722
+  },
+  "tdj_Latn": {
+    "latitude": -0.31553,
+    "longitude": 120.01
+  },
+  "tdn_Latn": {
+    "latitude": 1.28024,
+    "longitude": 124.964
+  },
+  "tdx_Latn": {
+    "latitude": -24.80155,
+    "longitude": 45.9
+  },
+  "ted_Latn": {
+    "latitude": 5.16267,
+    "longitude": -7.66346
+  },
+  "tee_Latn": {
+    "latitude": 20.6189,
+    "longitude": -97.9347
+  },
+  "tel_Telu": {
+    "latitude": 16.4529,
+    "longitude": 78.7024
+  },
+  "tem_Latn": {
+    "latitude": 8.90294,
+    "longitude": -12.3331
+  },
+  "teo_Latn": {
+    "latitude": 1.18321,
+    "longitude": 33.9394
+  },
+  "ter_Latn": {
+    "latitude": -20.6614,
+    "longitude": -56.0329
+  },
+  "tes_Latn": {
+    "latitude": -7.89069,
+    "longitude": 113.037
+  },
+  "tew_Latn": {
+    "latitude": 35.9053,
+    "longitude": -106.124
+  },
+  "tex_Latn": {
+    "latitude": 4.91107,
+    "longitude": 32.6307
+  },
+  "tfr_Latn": {
+    "latitude": 9.067,
+    "longitude": -82.9631
+  },
+  "tgc_Latn": {
+    "latitude": -2.70951,
+    "longitude": 150.893
+  },
+  "tgj_Latn": {
+    "latitude": 27.986064,
+    "longitude": 94.221711
+  },
+  "tgk_Cyrl": {
+    "latitude": 38.8213,
+    "longitude": 68.5549
+  },
+  "tgo_Latn": {
+    "latitude": -11.5229,
+    "longitude": 153.488
+  },
+  "tgp_Latn": {
+    "latitude": -15.5643,
+    "longitude": 166.958
+  },
+  "tha_Thai": {
+    "latitude": 14.192,
+    "longitude": 100.671
+  },
+  "the_Deva": {
+    "latitude": 27.5825,
+    "longitude": 84.4082
+  },
+  "thk_Latn": {
+    "latitude": -0.13221,
+    "longitude": 38.073
+  },
+  "thl_Deva": {
+    "latitude": 27.8834,
+    "longitude": 81.7761
+  },
+  "thq_Deva": {
+    "latitude": 26.7251,
+    "longitude": 84.6301
+  },
+  "thr_Deva": {
+    "latitude": 28.6483,
+    "longitude": 80.4419
+  },
+  "tig_Ethi": {
+    "latitude": 17.3494,
+    "longitude": 38.2233
+  },
+  "tih_Latn": {
+    "latitude": 5.1796,
+    "longitude": 115.826
+  },
+  "tik_Latn": {
+    "latitude": 5.87004,
+    "longitude": 11.6104
+  },
+  "tio_Latn": {
+    "latitude": -5.67474,
+    "longitude": 154.971
+  },
+  "tir_Ethi": {
+    "latitude": 15.3359,
+    "longitude": 38.9266
+  },
+  "tkg_Latn": {
+    "latitude": -23.3,
+    "longitude": 47.33
+  },
+  "tkr_Latn": {
+    "latitude": 41.5916,
+    "longitude": 46.8858
+  },
+  "tkt_Deva": {
+    "latitude": 28.5867,
+    "longitude": 80.8931
+  },
+  "tlb_Latn": {
+    "latitude": 1.0946,
+    "longitude": 128.154
+  },
+  "tli_Latn": {
+    "latitude": 59.4447,
+    "longitude": -135.29
+  },
+  "tlj_Latn": {
+    "latitude": 0.676185,
+    "longitude": 29.9494
+  },
+  "tlp_Latn": {
+    "latitude": 20.1415,
+    "longitude": -97.5931
+  },
+  "tly_Latn": {
+    "latitude": 38.4552,
+    "longitude": 48.6349
+  },
+  "tmc_Latn": {
+    "latitude": 9.43747,
+    "longitude": 17.4216
+  },
+  "tmf_Latn": {
+    "latitude": -21.5474,
+    "longitude": -58.0158
+  },
+  "tna_Latn": {
+    "latitude": -13.39249,
+    "longitude": -68.04056
+  },
+  "tng_Latn": {
+    "latitude": 9.8289,
+    "longitude": 16.209
+  },
+  "tnk_Latn": {
+    "latitude": -19.5954,
+    "longitude": 169.442
+  },
+  "tnn_Latn": {
+    "latitude": -19.3733,
+    "longitude": 169.303
+  },
+  "tnp_Latn": {
+    "latitude": -19.5019,
+    "longitude": 169.381
+  },
+  "tnr_Latn": {
+    "latitude": 12.7531,
+    "longitude": -12.4796
+  },
+  "tnt_Latn": {
+    "latitude": 1.24813,
+    "longitude": 124.654
+  },
+  "tob_Latn": {
+    "latitude": -23.77,
+    "longitude": -61.96
+  },
+  "toc_Latn": {
+    "latitude": 20.5447,
+    "longitude": -97.6852
+  },
+  "toh_Latn": {
+    "latitude": -23.7964,
+    "longitude": 35.1577
+  },
+  "tom_Latn": {
+    "latitude": 1.39715,
+    "longitude": 124.754
+  },
+  "top_Latn": {
+    "latitude": 20.5671,
+    "longitude": -97.2554
+  },
+  "tos_Latn": {
+    "latitude": 20.3798,
+    "longitude": -97.6159
+  },
+  "tpi_Latn": {
+    "latitude": -9.41971,
+    "longitude": 147.303
+  },
+  "tpl_Latn": {
+    "latitude": 17.3262,
+    "longitude": -98.8013
+  },
+  "tpm_Latn": {
+    "latitude": 9.75577,
+    "longitude": -1.35467
+  },
+  "tpp_Latn": {
+    "latitude": 20.7039,
+    "longitude": -98.0305
+  },
+  "tpt_Latn": {
+    "latitude": 20.704,
+    "longitude": -98.1947
+  },
+  "tpz_Latn": {
+    "latitude": -5.58358,
+    "longitude": 154.972
+  },
+  "tqp_Latn": {
+    "latitude": -5.30721,
+    "longitude": 151.828
+  },
+  "trc_Latn": {
+    "latitude": 17.1541,
+    "longitude": -97.9826
+  },
+  "tri_Latn": {
+    "latitude": 2.53616,
+    "longitude": -55.7599
+  },
+  "trn_Latn": {
+    "latitude": -15.3331,
+    "longitude": -65.4096
+  },
+  "trp_Latn": {
+    "latitude": 23.1916,
+    "longitude": 91.4673
+  },
+  "trq_Latn": {
+    "latitude": 17.2428,
+    "longitude": -97.9202
+  },
+  "trs_Latn": {
+    "latitude": 17.1628,
+    "longitude": -97.8547
+  },
+  "trv_Latn": {
+    "latitude": 23.9032,
+    "longitude": 121.358
+  },
+  "trw_Arab": {
+    "latitude": 35.3101,
+    "longitude": 72.5316
+  },
+  "tsn_Latn": {
+    "latitude": -24.368,
+    "longitude": 24.7587
+  },
+  "tso_Latn": {
+    "latitude": -23.5754,
+    "longitude": 31.8105
+  },
+  "tsz_Latn": {
+    "latitude": 19.2467,
+    "longitude": -101.631
+  },
+  "ttc_Latn": {
+    "latitude": 15.4599,
+    "longitude": -92.1136
+  },
+  "tte_Latn": {
+    "latitude": -10.6599,
+    "longitude": 151.034
+  },
+  "ttj_Latn": {
+    "latitude": 0.57291,
+    "longitude": 30.6389
+  },
+  "ttq_Tfng": {
+    "latitude": 13.9878,
+    "longitude": 4.47692
+  },
+  "ttr_Latn": {
+    "latitude": 11.0376,
+    "longitude": 11.80953
+  },
+  "ttu_Latn": {
+    "latitude": -6.19922,
+    "longitude": 155.496
+  },
+  "tue_Latn": {
+    "latitude": 0.39441,
+    "longitude": -70.043515
+  },
+  "tuf_Latn": {
+    "latitude": 6.8867,
+    "longitude": -72.097
+  },
+  "tui_Latn": {
+    "latitude": 10.0144,
+    "longitude": 14.8697
+  },
+  "tuk_Arab": {
+    "latitude": 37.08719,
+    "longitude": 59.17574
+  },
+  "tuk_Latn": {
+    "latitude": 37.08719,
+    "longitude": 59.17574
+  },
+  "tul_Latn": {
+    "latitude": 9.84629,
+    "longitude": 11.52551
+  },
+  "tuo_Latn": {
+    "latitude": 0.579755,
+    "longitude": -69.5763
+  },
+  "tuq_Latn": {
+    "latitude": 18.0426,
+    "longitude": 14.7717
+  },
+  "tur_Latn": {
+    "latitude": 39.8667,
+    "longitude": 32.8667
+  },
+  "tuv_Latn": {
+    "latitude": 4.30688,
+    "longitude": 35.7101
+  },
+  "tuy_Latn": {
+    "latitude": 0.66573,
+    "longitude": 35.8499
+  },
+  "tvo_Latn": {
+    "latitude": 0.02461,
+    "longitude": 127.746
+  },
+  "tvu_Latn": {
+    "latitude": 4.75,
+    "longitude": 10.67
+  },
+  "tvw_Latn": {
+    "latitude": -1.37295,
+    "longitude": 120.378
+  },
+  "twb_Latn": {
+    "latitude": 12.8227,
+    "longitude": 121.026
+  },
+  "twe_Latn": {
+    "latitude": -8.37662,
+    "longitude": 124.174
+  },
+  "twu_Latn": {
+    "latitude": -10.7326,
+    "longitude": 123.169
+  },
+  "txa_Latn": {
+    "latitude": 6.2892,
+    "longitude": 117.322
+  },
+  "txq_Latn": {
+    "latitude": -10.8425,
+    "longitude": 122.963
+  },
+  "txs_Latn": {
+    "latitude": 1.51393,
+    "longitude": 125.052
+  },
+  "txu_Latn": {
+    "latitude": -7.77352,
+    "longitude": -51.6737
+  },
+  "txy_Latn": {
+    "latitude": -24.9186,
+    "longitude": 47.1357
+  },
+  "tye_Latn": {
+    "latitude": 11.5953,
+    "longitude": 3.58651
+  },
+  "tzh_Latn": {
+    "latitude": 16.6384,
+    "longitude": -92.2786
+  },
+  "tzj_Latn": {
+    "latitude": 14.6351,
+    "longitude": -91.2012
+  },
+  "tzo_Latn": {
+    "latitude": 16.6362,
+    "longitude": -92.7388
+  },
+  "ubl_Latn": {
+    "latitude": 13.17,
+    "longitude": 123.5
+  },
+  "ubu_Latn": {
+    "latitude": -5.9513,
+    "longitude": 143.97
+  },
+  "udl_Latn": {
+    "latitude": 10.955,
+    "longitude": 14.1378
+  },
+  "udm_Cyrl": {
+    "latitude": 56.12921,
+    "longitude": 52.63548
+  },
+  "udu_Latn": {
+    "latitude": 9.16012,
+    "longitude": 34.2293
+  },
+  "uig_Arab": {
+    "latitude": 43.88,
+    "longitude": 87.38
+  },
+  "uig_Cyrl": {
+    "latitude": 43.88,
+    "longitude": 87.38
+  },
+  "ukr_Cyrl": {
+    "latitude": 49.796,
+    "longitude": 29.945
+  },
+  "ukv_Latn": {
+    "latitude": 3.9613,
+    "longitude": 31.537
+  },
+  "umb_Latn": {
+    "latitude": -12.4763,
+    "longitude": 14.4148
+  },
+  "unr_Orya": {
+    "latitude": 23.03,
+    "longitude": 85.85
+  },
+  "upv_Latn": {
+    "latitude": -16.00951,
+    "longitude": 167.34643
+  },
+  "ura_Latn": {
+    "latitude": -4.44006,
+    "longitude": -75.4211
+  },
+  "urb_Latn": {
+    "latitude": -2.46455,
+    "longitude": -46.2204
+  },
+  "urd_Arab": {
+    "latitude": 25.0,
+    "longitude": 67.0
+  },
+  "urd_Deva": {
+    "latitude": 25.0,
+    "longitude": 67.0
+  },
+  "urd_Latn": {
+    "latitude": 25.0,
+    "longitude": 67.0
+  },
+  "urh_Latn": {
+    "latitude": 5.31155,
+    "longitude": 5.86148
+  },
+  "urk_Thai": {
+    "latitude": 7.5258,
+    "longitude": 99.0768
+  },
+  "urt_Latn": {
+    "latitude": -3.60065,
+    "longitude": 142.79
+  },
+  "ury_Latn": {
+    "latitude": -2.76483,
+    "longitude": 139.89
+  },
+  "ush_Arab": {
+    "latitude": 35.1584,
+    "longitude": 72.643
+  },
+  "usp_Latn": {
+    "latitude": 15.3648,
+    "longitude": -90.8893
+  },
+  "uzn_Latn": {
+    "latitude": 40.886,
+    "longitude": 69.211
+  },
+  "vag_Latn": {
+    "latitude": 9.33848,
+    "longitude": -2.31333
+  },
+  "vah_Deva": {
+    "latitude": 20.7139,
+    "longitude": 79.7516
+  },
+  "vai_Latn": {
+    "latitude": 7.05085,
+    "longitude": -11.3262
+  },
+  "var_Latn": {
+    "latitude": 27.8685,
+    "longitude": -108.437
+  },
+  "ver_Latn": {
+    "latitude": 8.8658,
+    "longitude": 12.7473
+  },
+  "vid_Latn": {
+    "latitude": -7.52674,
+    "longitude": 36.9316
+  },
+  "vie_Latn": {
+    "latitude": 20.681188,
+    "longitude": 105.774071
+  },
+  "vif_Latn": {
+    "latitude": -4.06716,
+    "longitude": 11.3804
+  },
+  "vmc_Latn": {
+    "latitude": 17.3518,
+    "longitude": -98.0146
+  },
+  "vmj_Latn": {
+    "latitude": 16.5774,
+    "longitude": -97.5759
+  },
+  "vmm_Latn": {
+    "latitude": 17.16,
+    "longitude": -97.1757
+  },
+  "vmp_Latn": {
+    "latitude": 18.2868,
+    "longitude": -96.4946
+  },
+  "vmw_Latn": {
+    "latitude": -14.8509,
+    "longitude": 38.8052
+  },
+  "vmy_Latn": {
+    "latitude": 18.0993,
+    "longitude": -96.5952
+  },
+  "vmz_Latn": {
+    "latitude": 18.0829,
+    "longitude": -96.8889
+  },
+  "vot_Latn": {
+    "latitude": 59.3802,
+    "longitude": 28.6235
+  },
+  "vro_Latn": {
+    "latitude": 57.85,
+    "longitude": 27.0
+  },
+  "vun_Latn": {
+    "latitude": -3.42531,
+    "longitude": 37.5847
+  },
+  "vut_Latn": {
+    "latitude": 6.13603,
+    "longitude": 11.8839
+  },
+  "wal_Ethi": {
+    "latitude": 6.32668,
+    "longitude": 37.7537
+  },
+  "wal_Latn": {
+    "latitude": 6.32668,
+    "longitude": 37.7537
+  },
+  "wap_Latn": {
+    "latitude": 2.58744,
+    "longitude": -59.8021
+  },
+  "war_Latn": {
+    "latitude": 11.4911,
+    "longitude": 125.012
+  },
+  "waw_Latn": {
+    "latitude": 1.50881,
+    "longitude": -59.1417
+  },
+  "way_Latn": {
+    "latitude": 2.77537,
+    "longitude": -54.4429
+  },
+  "wba_Latn": {
+    "latitude": 7.50851,
+    "longitude": -59.3528
+  },
+  "wbl_Latn": {
+    "latitude": 37.1768,
+    "longitude": 73.9777
+  },
+  "wbr_Deva": {
+    "latitude": 23.6888,
+    "longitude": 73.9022
+  },
+  "wci_Latn": {
+    "latitude": 6.45571,
+    "longitude": 1.69303
+  },
+  "weo_Latn": {
+    "latitude": -3.05143,
+    "longitude": 128.839
+  },
+  "wes_Latn": {
+    "latitude": 5.43932,
+    "longitude": 9.80166
+  },
+  "wja_Latn": {
+    "latitude": 9.91175,
+    "longitude": 11.7206
+  },
+  "wji_Latn": {
+    "latitude": 11.1718,
+    "longitude": 9.56925
+  },
+  "wlo_Latn": {
+    "latitude": -5.33,
+    "longitude": 122.67
+  },
+  "wlx_Latn": {
+    "latitude": 10.0212,
+    "longitude": -2.31263
+  },
+  "wmw_Latn": {
+    "latitude": -12.5821,
+    "longitude": 40.4601
+  },
+  "wob_Latn": {
+    "latitude": 7.40391,
+    "longitude": -7.24617
+  },
+  "wof_Latn": {
+    "latitude": 13.5337,
+    "longitude": -16.1544
+  },
+  "wol_Latn": {
+    "latitude": 15.2534,
+    "longitude": -15.383
+  },
+  "wsg_Telu": {
+    "latitude": 18.75,
+    "longitude": 80.2
+  },
+  "wwa_Latn": {
+    "latitude": 10.5956,
+    "longitude": 1.65318
+  },
+  "xal_Cyrl": {
+    "latitude": 46.566667,
+    "longitude": 45.316667
+  },
+  "xdy_Latn": {
+    "latitude": -2.78384,
+    "longitude": 111.136
+  },
+  "xed_Latn": {
+    "latitude": 10.942,
+    "longitude": 13.6881
+  },
+  "xer_Latn": {
+    "latitude": -9.59426,
+    "longitude": -48.2629
+  },
+  "xhe_Arab": {
+    "latitude": 30.4799,
+    "longitude": 70.2828
+  },
+  "xho_Latn": {
+    "latitude": -31.0389,
+    "longitude": 28.0769
+  },
+  "xka_Arab": {
+    "latitude": 35.3651,
+    "longitude": 72.0533
+  },
+  "xkl_Latn": {
+    "latitude": 3.42975,
+    "longitude": 116.47431
+  },
+  "xmf_Geor": {
+    "latitude": 42.5129,
+    "longitude": 41.8719
+  },
+  "xmm_Latn": {
+    "latitude": 1.48099,
+    "longitude": 124.843
+  },
+  "xmv_Latn": {
+    "latitude": -13.2164,
+    "longitude": 49.2402
+  },
+  "xnj_Latn": {
+    "latitude": -11.779,
+    "longitude": 35.459
+  },
+  "xnr_Deva": {
+    "latitude": 31.915,
+    "longitude": 76.366
+  },
+  "xog_Latn": {
+    "latitude": 0.40456,
+    "longitude": 33.3942
+  },
+  "xon_Latn": {
+    "latitude": 9.82224,
+    "longitude": 0.2783
+  },
+  "xpe_Latn": {
+    "latitude": 6.92048,
+    "longitude": -9.96128
+  },
+  "xrb_Latn": {
+    "latitude": 10.4987,
+    "longitude": -4.52253
+  },
+  "xsb_Latn": {
+    "latitude": 15.5797,
+    "longitude": 120.095
+  },
+  "xsm_Latn": {
+    "latitude": 11.0824,
+    "longitude": -1.39076
+  },
+  "xsr_Deva": {
+    "latitude": 27.674,
+    "longitude": 86.9994
+  },
+  "xsu_Latn": {
+    "latitude": 4.5,
+    "longitude": -64.5
+  },
+  "xta_Latn": {
+    "latitude": 17.3687,
+    "longitude": -98.3969
+  },
+  "xtd_Latn": {
+    "latitude": 17.3596,
+    "longitude": -97.3861
+  },
+  "xte_Latn": {
+    "latitude": -4.50417,
+    "longitude": 140.443
+  },
+  "xti_Latn": {
+    "latitude": 17.2218,
+    "longitude": -97.5904
+  },
+  "xtm_Latn": {
+    "latitude": 17.2837,
+    "longitude": -97.5413
+  },
+  "xtn_Latn": {
+    "latitude": 17.4806,
+    "longitude": -97.8349
+  },
+  "xtu_Latn": {
+    "latitude": 18.0821,
+    "longitude": -96.7314
+  },
+  "xua_Taml": {
+    "latitude": 11.3456,
+    "longitude": 76.7995
+  },
+  "xuo_Latn": {
+    "latitude": 7.97771,
+    "longitude": 15.4843
+  },
+  "yaa_Latn": {
+    "latitude": -9.8846,
+    "longitude": -71.5964
+  },
+  "yad_Latn": {
+    "latitude": -3.42913,
+    "longitude": -72.2186
+  },
+  "yal_Latn": {
+    "latitude": 9.97186,
+    "longitude": -11.2836
+  },
+  "yam_Latn": {
+    "latitude": 6.535505,
+    "longitude": 11.07711
+  },
+  "yao_Latn": {
+    "latitude": -13.6119,
+    "longitude": 35.2387
+  },
+  "yaq_Latn": {
+    "latitude": 29.9446,
+    "longitude": -110.681
+  },
+  "yas_Latn": {
+    "latitude": 4.63103,
+    "longitude": 11.1837
+  },
+  "yat_Latn": {
+    "latitude": 4.83615,
+    "longitude": 10.9369
+  },
+  "yav_Latn": {
+    "latitude": 4.41971,
+    "longitude": 11.0277
+  },
+  "yay_Latn": {
+    "latitude": 5.81055,
+    "longitude": 8.03166
+  },
+  "yaz_Latn": {
+    "latitude": 5.91483,
+    "longitude": 8.0933
+  },
+  "yba_Latn": {
+    "latitude": 6.73852,
+    "longitude": 8.60748
+  },
+  "ybb_Latn": {
+    "latitude": 5.47421,
+    "longitude": 10.0214
+  },
+  "ycl_Latn": {
+    "latitude": 25.50051,
+    "longitude": 101.30185
+  },
+  "ycn_Latn": {
+    "latitude": -0.76075,
+    "longitude": -71.0033
+  },
+  "ydd_Hebr": {
+    "latitude": 51.75,
+    "longitude": 19.42
+  },
+  "ydg_Arab": {
+    "latitude": 36.014,
+    "longitude": 71.5077
+  },
+  "yea_Mlym": {
+    "latitude": 12.3231,
+    "longitude": 75.6265
+  },
+  "yer_Latn": {
+    "latitude": 8.98356,
+    "longitude": 10.0288
+  },
+  "yes_Latn": {
+    "latitude": 9.05454,
+    "longitude": 7.97913
+  },
+  "yka_Latn": {
+    "latitude": 6.531023,
+    "longitude": 122.021729
+  },
+  "yli_Latn": {
+    "latitude": -4.0836,
+    "longitude": 139.457
+  },
+  "yor_Latn": {
+    "latitude": 7.15345,
+    "longitude": 3.67225
+  },
+  "yre_Latn": {
+    "latitude": 6.95282,
+    "longitude": -5.57851
+  },
+  "yua_Latn": {
+    "latitude": 18.7757,
+    "longitude": -88.9567
+  },
+  "yue_Hant": {
+    "latitude": 23.0,
+    "longitude": 113.0
+  },
+  "yuz_Latn": {
+    "latitude": -16.7479,
+    "longitude": -65.1224
+  },
+  "yva_Latn": {
+    "latitude": -1.77196,
+    "longitude": 136.263
+  },
+  "zaa_Latn": {
+    "latitude": 17.4219,
+    "longitude": -96.6191
+  },
+  "zab_Latn": {
+    "latitude": 17.0332,
+    "longitude": -96.5967
+  },
+  "zac_Latn": {
+    "latitude": 16.8258,
+    "longitude": -96.7263
+  },
+  "zad_Latn": {
+    "latitude": 17.1427,
+    "longitude": -96.3352
+  },
+  "zae_Latn": {
+    "latitude": 17.3406,
+    "longitude": -96.7052
+  },
+  "zai_Latn": {
+    "latitude": 16.4548,
+    "longitude": -94.8444
+  },
+  "zam_Latn": {
+    "latitude": 16.2197,
+    "longitude": -96.6647
+  },
+  "zao_Latn": {
+    "latitude": 16.04,
+    "longitude": -96.3686
+  },
+  "zaq_Latn": {
+    "latitude": 17.4137,
+    "longitude": -96.7438
+  },
+  "zar_Latn": {
+    "latitude": 17.4451,
+    "longitude": -96.3144
+  },
+  "zas_Latn": {
+    "latitude": 17.0345,
+    "longitude": -96.281
+  },
+  "zav_Latn": {
+    "latitude": 17.1869,
+    "longitude": -96.284
+  },
+  "zaw_Latn": {
+    "latitude": 16.86849,
+    "longitude": -96.29434
+  },
+  "zca_Latn": {
+    "latitude": 16.5609,
+    "longitude": -96.7336
+  },
+  "zga_Latn": {
+    "latitude": -9.35868,
+    "longitude": 34.2321
+  },
+  "zim_Latn": {
+    "latitude": 9.28888,
+    "longitude": 15.7018
+  },
+  "ziw_Latn": {
+    "latitude": -5.61864,
+    "longitude": 38.41138
+  },
+  "zmz_Latn": {
+    "latitude": 3.98003,
+    "longitude": 19.4455
+  },
+  "zne_Latn": {
+    "latitude": 4.62047,
+    "longitude": 26.7157
+  },
+  "zoc_Latn": {
+    "latitude": 17.2157,
+    "longitude": -93.3183
+  },
+  "zoh_Latn": {
+    "latitude": 16.6543,
+    "longitude": -94.6913
+  },
+  "zor_Latn": {
+    "latitude": 17.2953,
+    "longitude": -93.1006
+  },
+  "zos_Latn": {
+    "latitude": 17.3654,
+    "longitude": -93.3633
+  },
+  "zpc_Latn": {
+    "latitude": 17.4371,
+    "longitude": -95.8656
+  },
+  "zpg_Latn": {
+    "latitude": 16.7312,
+    "longitude": -95.3641
+  },
+  "zpi_Latn": {
+    "latitude": 16.033,
+    "longitude": -96.0486
+  },
+  "zpl_Latn": {
+    "latitude": 16.7215,
+    "longitude": -96.9318
+  },
+  "zpm_Latn": {
+    "latitude": 16.1724,
+    "longitude": -96.2372
+  },
+  "zpo_Latn": {
+    "latitude": 16.2707,
+    "longitude": -96.4003
+  },
+  "zpt_Latn": {
+    "latitude": 16.2817,
+    "longitude": -96.8667
+  },
+  "zpu_Latn": {
+    "latitude": 17.2134,
+    "longitude": -96.2183
+  },
+  "zpv_Latn": {
+    "latitude": 16.8459,
+    "longitude": -96.5486
+  },
+  "zpy_Latn": {
+    "latitude": 17.1547,
+    "longitude": -96.8791
+  },
+  "zpz_Latn": {
+    "latitude": 16.49197,
+    "longitude": -97.08947
+  },
+  "zsm_Latn": {
+    "latitude": 3.08896,
+    "longitude": 101.699
+  },
+  "ztg_Latn": {
+    "latitude": 15.9748,
+    "longitude": -96.1927
+  },
+  "ztn_Latn": {
+    "latitude": 17.0446,
+    "longitude": -96.3512
+  },
+  "ztp_Latn": {
+    "latitude": 15.8442,
+    "longitude": -96.6997
+  },
+  "ztq_Latn": {
+    "latitude": 16.3416,
+    "longitude": -96.1555
+  },
+  "zts_Latn": {
+    "latitude": 16.8529,
+    "longitude": -96.6321
+  },
+  "ztu_Latn": {
+    "latitude": 16.8824,
+    "longitude": -96.4572
+  },
+  "zty_Latn": {
+    "latitude": 17.2888,
+    "longitude": -96.198
+  },
+  "zul_Latn": {
+    "latitude": -28.9,
+    "longitude": 30.2
+  },
+  "zyb_Latn": {
+    "latitude": 23.1,
+    "longitude": 108.15
+  },
+  "zyp_Latn": {
+    "latitude": 22.524,
+    "longitude": 93.264
   }
 }
