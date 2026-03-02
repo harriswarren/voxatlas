@@ -32,9 +32,9 @@ export default function CERHistogram() {
   const pct = total > 0 ? ((totalUnder10 / total) * 100).toFixed(0) : "0";
 
   return (
-    <ExportableChart title="CER Distribution">
+    <ExportableChart title="CER (Character Error Rate) Distribution">
       <p className="text-sm text-gray-500 mb-4">
-        <span className="font-semibold text-green-600">{pct}%</span> of languages achieve {"<"} 10% CER
+        <span className="font-semibold text-green-600">{pct}%</span> of languages achieve {"<"} 10% Character Error Rate
       </p>
       <ResponsiveContainer width="100%" height={300}>
         <BarChart data={data} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>

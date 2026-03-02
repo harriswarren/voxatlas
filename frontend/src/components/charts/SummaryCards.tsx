@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Languages, BarChart3, TrendingDown, Clock } from "lucide-react";
 import client from "../../api/client";
 import { formatCER, formatNumber, formatHours } from "../../utils/formatters";
+import CERTooltip from "../ui/CERTooltip";
 
 interface Stats {
   total_languages: number;
@@ -42,7 +43,7 @@ export default function SummaryCards() {
       bg: "bg-blue-50",
     },
     {
-      label: "Mean CER",
+      label: "Mean CER (Character Error Rate)",
       value: formatCER(stats.mean_cer),
       icon: BarChart3,
       color: "text-green-600",
@@ -50,6 +51,7 @@ export default function SummaryCards() {
     },
     {
       label: "Under 10% CER",
+      sublabel: "(Character Error Rate)",
       value: `${stats.pct_under_10.toFixed(1)}%`,
       icon: TrendingDown,
       color: "text-emerald-600",
@@ -72,7 +74,7 @@ export default function SummaryCards() {
             <div className={`p-2 rounded-lg ${bg}`}>
               <Icon size={18} className={color} />
             </div>
-            <span className="text-sm text-gray-500">{label}</span>
+            <span className="text-sm text-gray-500 inline-flex items-center gap-1">{label}{(label.includes("CER")) && <CERTooltip size={12} />}</span>
           </div>
           <p className="text-2xl font-bold text-gray-900">{value}</p>
         </div>

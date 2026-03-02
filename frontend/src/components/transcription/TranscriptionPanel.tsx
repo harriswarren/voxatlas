@@ -1,6 +1,7 @@
 import { formatCER, formatLatency } from "../../utils/formatters";
 import { cerToColor } from "../../utils/constants";
 import type { TranscribeResult } from "../../api/transcription";
+import CERTooltip from "../ui/CERTooltip";
 
 interface TranscriptionPanelProps {
   result: TranscribeResult | null;
@@ -41,7 +42,7 @@ export default function TranscriptionPanel({ result, loading }: TranscriptionPan
             className="px-2.5 py-1 rounded-full text-white text-xs font-bold"
             style={{ backgroundColor: cerToColor(result.cer) }}
           >
-            CER: {formatCER(result.cer)}
+            CER: {formatCER(result.cer)} <CERTooltip size={12} className="ml-0.5" />
           </span>
         </div>
       </div>

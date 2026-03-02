@@ -23,8 +23,8 @@ export default function CERvsHours() {
   }, []);
 
   return (
-    <ExportableChart title="CER vs Training Hours">
-      <p className="text-sm text-gray-500 mb-4">Does more training data correlate with lower CER?</p>
+    <ExportableChart title="Character Error Rate vs Training Hours">
+      <p className="text-sm text-gray-500 mb-4">Does more training data correlate with lower Character Error Rate (CER)?</p>
       <ResponsiveContainer width="100%" height={300}>
         <ScatterChart margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />

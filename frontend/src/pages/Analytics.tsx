@@ -7,6 +7,7 @@ import CERvsHours from "../components/charts/CERvsHours";
 import client from "../api/client";
 import { formatCER } from "../utils/formatters";
 import { cerToColor } from "../utils/constants";
+import { CERBadge } from "../components/ui/CERTooltip";
 
 interface LangRow {
   lang_code: string;
@@ -25,6 +26,10 @@ export default function Analytics() {
     <div>
       <Header title="CER Analytics Dashboard" subtitle="Global performance metrics for Omnilingual ASR" />
       <div className="p-6 space-y-6">
+        <div className="bg-blue-50 border border-blue-200 rounded-xl px-5 py-3 text-sm text-blue-800">
+          <strong>CER (Character Error Rate)</strong> measures how accurately an ASR model transcribes speech by comparing the predicted text to the ground truth, character by character. <strong>Lower is better</strong> — 0% means perfect transcription.
+        </div>
+
         <SummaryCards />
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -43,7 +48,7 @@ export default function Analytics() {
                   <tr className="border-b border-gray-200">
                     <th className="text-left py-2 text-gray-500 font-medium">#</th>
                     <th className="text-left py-2 text-gray-500 font-medium">Language</th>
-                    <th className="text-right py-2 text-gray-500 font-medium">CER</th>
+                    <th className="text-right py-2 text-gray-500 font-medium"><CERBadge label="CER" /></th>
                   </tr>
                 </thead>
                 <tbody>
@@ -72,7 +77,7 @@ export default function Analytics() {
                   <tr className="border-b border-gray-200">
                     <th className="text-left py-2 text-gray-500 font-medium">#</th>
                     <th className="text-left py-2 text-gray-500 font-medium">Language</th>
-                    <th className="text-right py-2 text-gray-500 font-medium">CER</th>
+                    <th className="text-right py-2 text-gray-500 font-medium"><CERBadge label="CER" /></th>
                   </tr>
                 </thead>
                 <tbody>

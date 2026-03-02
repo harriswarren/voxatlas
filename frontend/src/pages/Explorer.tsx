@@ -6,6 +6,7 @@ import { useLanguages, useFilterOptions } from "../hooks/useLanguages";
 import { formatCER, formatHours } from "../utils/formatters";
 import { cerToColor, ENDANGERMENT_LEVELS } from "../utils/constants";
 import type { Language } from "../api/languages";
+import { CERBadge } from "../components/ui/CERTooltip";
 
 export default function Explorer() {
   const { data, filters, setFilters, loading } = useLanguages({ page_size: 25 });
@@ -105,7 +106,7 @@ export default function Explorer() {
                 <span className="text-2xl font-bold" style={{ color: cerToColor(selectedLang.cer_7b_llm) }}>
                   {formatCER(selectedLang.cer_7b_llm)}
                 </span>
-                <p className="text-xs text-gray-500">CER (7B LLM)</p>
+                <p className="text-xs text-gray-500">Character Error Rate (7B LLM)</p>
               </div>
             </div>
           </div>
@@ -127,7 +128,7 @@ export default function Explorer() {
                         { key: "script", label: "Script" },
                         { key: "continent", label: "Region" },
                         { key: "training_hours", label: "Hours" },
-                        { key: "cer_7b_llm", label: "CER (7B)" },
+                        { key: "cer_7b_llm", label: "__CER_BADGE__" },
                         { key: "endangerment", label: "Status" },
                       ].map((col) => (
                         <th
@@ -141,7 +142,7 @@ export default function Explorer() {
                           }
                           className="text-left py-3 px-4 text-gray-600 font-medium cursor-pointer hover:text-gray-900 select-none"
                         >
-                          {col.label}
+                          {col.label === "__CER_BADGE__" ? <CERBadge label="CER (7B)" /> : col.label}
                           {filters.sort_by === col.key && (
                             <span className="ml-1">{filters.sort_desc ? "\u25BC" : "\u25B2"}</span>
                           )}

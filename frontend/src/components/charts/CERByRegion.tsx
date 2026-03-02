@@ -29,12 +29,12 @@ export default function CERByRegion() {
   }, []);
 
   return (
-    <ExportableChart title="CER by Region">
+    <ExportableChart title="Character Error Rate by Region">
       <ResponsiveContainer width="100%" height={300}>
         <BarChart data={data} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
           <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
           <XAxis dataKey="region" tick={{ fontSize: 11 }} angle={-20} textAnchor="end" height={60} />
-          <YAxis tick={{ fontSize: 12 }} label={{ value: "Mean CER %", angle: -90, position: "insideLeft", style: { fontSize: 12 } }} />
+          <YAxis tick={{ fontSize: 12 }} label={{ value: "Mean CER %", angle: -90, position: "insideLeft", style: { fontSize: 11 } }} />
           <Tooltip
             contentStyle={{ borderRadius: 8, border: "1px solid #e2e8f0" }}
             formatter={(value: number | undefined) => [

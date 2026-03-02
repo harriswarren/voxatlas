@@ -31,7 +31,7 @@ export default function Compare() {
 
   return (
     <div>
-      <Header title="Model Comparison Arena" subtitle="Compare CTC and LLM model performance side by side" />
+      <Header title="Model Comparison Arena" subtitle="Compare CTC and LLM model Character Error Rate (CER) performance side by side" />
       <div className="p-6 space-y-6">
         {/* Controls */}
         <div className="bg-white rounded-xl border border-gray-100 p-5 shadow-sm">
