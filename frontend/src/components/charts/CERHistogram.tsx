@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Cell, ResponsiveContainer } from "recharts";
 import client from "../../api/client";
 import ExportableChart from "./ExportableChart";
+import CERBucketDrilldown from "./CERBucketDrilldown";
 
 interface BucketData {
   name: string;
@@ -11,6 +12,7 @@ interface BucketData {
 
 export default function CERHistogram() {
   const [data, setData] = useState<BucketData[]>([]);
+  const [selectedBucket, setSelectedBucket] = useState<string | null>(null);
 
   useEffect(() => {
     client
@@ -33,11 +35,22 @@ export default function CERHistogram() {
 
   return (
     <ExportableChart title="CER (Character Error Rate) Distribution">
-      <p className="text-sm text-gray-500 mb-4">
+      <p className="text-sm text-gray-500 mb-1">
         <span className="font-semibold text-green-600">{pct}%</span> of languages achieve {"<"} 10% Character Error Rate
       </p>
+      <p className="text-xs text-blue-500 mb-3">Click any bar to see the languages in that bucket</p>
       <ResponsiveContainer width="100%" height={300}>
-        <BarChart data={data} margin={{ top: 5, right: 20, bottom: 5, left: 0 }}>
+        <BarChart
+          data={data}
+          margin={{ top: 5, right: 20, bottom: 5, left: 0 }}
+          onClick={(state) => {
+            if (state?.activeLabel != null) {
+              const raw = String(state.activeLabel).replace("%", "");
+              setSelectedBucket(raw);
+            }
+          }}
+          style={{ cursor: "pointer" }}
+        >
           <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" />
           <XAxis dataKey="name" tick={{ fontSize: 12 }} />
           <YAxis tick={{ fontSize: 12 }} />
@@ -47,11 +60,12 @@ export default function CERHistogram() {
           />
           <Bar dataKey="count" radius={[4, 4, 0, 0]}>
             {data.map((entry, idx) => (
-              <Cell key={idx} fill={entry.isUnder10 ? "#22C55E" : "#F59E0B"} />
+              <Cell key={idx} fill={entry.isUnder10 ? "#22C55E" : "#F59E0B"} cursor="pointer" />
             ))}
           </Bar>
         </BarChart>
       </ResponsiveContainer>
+      <CERBucketDrilldown bucket={selectedBucket} onClose={() => setSelectedBucket(null)} />
     </ExportableChart>
   );
 }

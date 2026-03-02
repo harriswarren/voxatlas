@@ -4,6 +4,10 @@ import SummaryCards from "../components/charts/SummaryCards";
 import CERHistogram from "../components/charts/CERHistogram";
 import CERByRegion from "../components/charts/CERByRegion";
 import CERvsHours from "../components/charts/CERvsHours";
+import ScriptDistribution from "../components/charts/ScriptDistribution";
+import ContinentDistribution from "../components/charts/ContinentDistribution";
+import TrainingHoursDistribution from "../components/charts/TrainingHoursDistribution";
+import FamilyDistribution from "../components/charts/FamilyDistribution";
 import client from "../api/client";
 import { formatCER } from "../utils/formatters";
 import { cerToColor } from "../utils/constants";
@@ -38,6 +42,16 @@ export default function Analytics() {
         </div>
 
         <CERvsHours />
+
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <ScriptDistribution />
+          <ContinentDistribution />
+        </div>
+
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <TrainingHoursDistribution />
+          <FamilyDistribution />
+        </div>
 
         {topBottom && (
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">

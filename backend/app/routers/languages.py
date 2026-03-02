@@ -37,6 +37,11 @@ async def list_languages(
     )
 
 
+@router.get("/languages/map-points")
+async def get_map_points(request: Request):
+    return request.app.state.data_service.get_map_points()
+
+
 @router.get("/languages/scripts", response_model=list[str])
 async def list_scripts(request: Request):
     return request.app.state.data_service.get_unique_scripts()

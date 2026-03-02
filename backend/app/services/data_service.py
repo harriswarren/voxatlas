@@ -212,6 +212,110 @@ class DataService:
             ],
         }
 
+    def get_map_points(self) -> list[dict]:
+        """Return lightweight data for all languages with coordinates."""
+        return [
+            {
+                "lang_code": lang.lang_code,
+                "language_name": lang.language_name,
+                "latitude": lang.latitude,
+                "longitude": lang.longitude,
+                "cer": lang.cer_7b_llm,
+                "endangerment": lang.endangerment,
+                "continent": lang.continent,
+                "training_hours": lang.training_hours,
+            }
+            for lang in self.languages.values()
+            if lang.latitude != 0 or lang.longitude != 0
+        ]
+
+    def get_cer_bucket_languages(self, bucket: str) -> list[dict]:
+        """Return languages in a specific CER bucket."""
+        ranges = {
+            "0-5": (0, 5),
+            "5-10": (5, 10),
+            "10-15": (10, 15),
+            "15-20": (15, 20),
+            "20-30": (20, 30),
+            "30-50": (30, 50),
+            "50+": (50, 999),
+        }
+        lo, hi = ranges.get(bucket, (0, 999))
+        results = []
+        for lang in self.languages.values():
+            cer = lang.cer_7b_llm
+            in_bucket = (cer > lo and cer <= hi) if lo > 0 else (cer >= lo and cer <= hi)
+            if in_bucket:
+                results.append({
+                    "lang_code": lang.lang_code,
+                    "language_name": lang.language_name,
+                    "cer": lang.cer_7b_llm,
+                    "training_hours": lang.training_hours,
+                    "continent": lang.continent,
+                    "script": lang.script,
+                    "endangerment": lang.endangerment,
+                })
+        results.sort(key=lambda x: x["cer"])
+        return results
+
+    def get_script_distribution(self) -> dict[str, int]:
+        """Count languages per writing script."""
+        dist: dict[str, int] = {}
+        for lang in self.languages.values():
+            s = lang.script or "Unknown"
+            dist[s] = dist.get(s, 0) + 1
+        return dict(sorted(dist.items(), key=lambda x: -x[1]))
+
+    def get_continent_distribution(self) -> dict[str, dict]:
+        """Count and avg CER per continent."""
+        data: dict[str, list[float]] = {}
+        for lang in self.languages.values():
+            c = lang.continent or "Unknown"
+            if c not in data:
+                data[c] = []
+            data[c].append(lang.cer_7b_llm)
+        return {
+            c: {
+                "count": len(cers),
+                "mean_cer": round(sum(cers) / len(cers), 1) if cers else 0,
+            }
+            for c, cers in sorted(data.items(), key=lambda x: -len(x[1]))
+        }
+
+    def get_training_hours_distribution(self) -> dict[str, int]:
+        """Bucket languages by training hours."""
+        buckets = {"0": 0, "0-1": 0, "1-10": 0, "10-100": 0, "100-1K": 0, "1K-10K": 0, "10K+": 0}
+        for lang in self.languages.values():
+            h = lang.training_hours
+            if h <= 0:
+                buckets["0"] += 1
+            elif h <= 1:
+                buckets["0-1"] += 1
+            elif h <= 10:
+                buckets["1-10"] += 1
+            elif h <= 100:
+                buckets["10-100"] += 1
+            elif h <= 1000:
+                buckets["100-1K"] += 1
+            elif h <= 10000:
+                buckets["1K-10K"] += 1
+            else:
+                buckets["10K+"] += 1
+        return buckets
+
+    def get_family_distribution(self, top_n: int = 15) -> dict[str, int]:
+        """Count languages per language family."""
+        dist: dict[str, int] = {}
+        for lang in self.languages.values():
+            f = lang.family or "Unknown"
+            dist[f] = dist.get(f, 0) + 1
+        sorted_items = sorted(dist.items(), key=lambda x: -x[1])
+        result = dict(sorted_items[:top_n])
+        other = sum(v for _, v in sorted_items[top_n:])
+        if other > 0:
+            result["Other"] = other
+        return result
+
     def get_unique_scripts(self) -> list[str]:
         scripts = set()
         for lang in self.languages.values():

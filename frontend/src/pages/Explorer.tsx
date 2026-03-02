@@ -5,7 +5,7 @@ import LanguageMap from "../components/maps/LanguageMap";
 import { useLanguages, useFilterOptions } from "../hooks/useLanguages";
 import { formatCER, formatHours } from "../utils/formatters";
 import { cerToColor, ENDANGERMENT_LEVELS } from "../utils/constants";
-import type { Language } from "../api/languages";
+import type { Language, MapPoint } from "../api/languages";
 import { CERBadge } from "../components/ui/CERTooltip";
 
 export default function Explorer() {
@@ -24,8 +24,22 @@ export default function Explorer() {
       <div className="p-6 space-y-6">
         {/* Map */}
         <LanguageMap
-          languages={data?.languages || []}
-          onSelect={setSelectedLang}
+          onSelect={(pt: MapPoint) => {
+            setSelectedLang({
+              lang_code: pt.lang_code,
+              language_name: pt.language_name,
+              script: "",
+              region: "",
+              continent: pt.continent,
+              family: "",
+              latitude: pt.latitude,
+              longitude: pt.longitude,
+              training_hours: pt.training_hours,
+              cer_7b_llm: pt.cer,
+              cer_7b_ctc: 0,
+              endangerment: pt.endangerment,
+            });
+          }}
         />
 
         {/* Filters */}

@@ -59,6 +59,22 @@ export async function getLanguage(code: string): Promise<LanguageDetail> {
   return data;
 }
 
+export interface MapPoint {
+  lang_code: string;
+  language_name: string;
+  latitude: number;
+  longitude: number;
+  cer: number;
+  endangerment: string;
+  continent: string;
+  training_hours: number;
+}
+
+export async function getMapPoints(): Promise<MapPoint[]> {
+  const { data } = await client.get<MapPoint[]>("/languages/map-points");
+  return data;
+}
+
 export async function getScripts(): Promise<string[]> {
   const { data } = await client.get<string[]>("/languages/scripts");
   return data;
