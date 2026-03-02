@@ -36,7 +36,7 @@ export const ENDANGERMENT_LEVELS = [
   "Unknown",
 ];
 
-export const MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty/style.json";
+export const MAP_STYLE = "https://tiles.openfreemap.org/styles/liberty";
 
 export function cerToColor(cer: number): string {
   if (cer <= 5) return CER_COLORS.excellent;
